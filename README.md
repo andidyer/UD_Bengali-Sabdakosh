@@ -1,6 +1,5 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
 UD_Bengali-Sabdakosh is a corpus parsed sentences from contemporary Bengali prose, consisting of passages of up to 50 sentences from modern fiction.
 
 # Introduction
