@@ -1,0 +1,3598 @@
+# sent_id = bn_sabdakosh-ud-test_1
+# text = রাতের প্রথম প্রহরে কনে নিয়ে চলে গেল ওরা ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = They left with the bride in the early hours of the night.
+1	রাতের	রাত	NOUN	_	Case=Gen|Number=Sing	3	nmod:poss	_	_
+2	প্রথম	প্রথম	ADJ	_	NumType=Ord	3	amod	_	_
+3	প্রহরে	প্রহর	NOUN	_	Case=Nom|Number=Sing	7	obl	_	_
+4	কনে	কনে	NOUN	_	Case=Nom|Number=Sing	5	obj	_	_
+5	নিয়ে	নেওয়া	VERB	_	Aspect=Perf|VerbForm=Part	7	advcl	_	_
+6	চলে	চলা	VERB	_	Aspect=Perf|VerbForm=Part	7	compound:lvc	_	_
+7	গেল	যাওয়া	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+8	ওরা	ও	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	Gender=Masc
+9	।	।	PUNCT	_	_	7	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-2
+# text = সঙ্গে খোকন গেলো ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = Khokon went with them.
+1	সঙ্গে	সঙ্গে	ADP	_	_	3	obl	_	_
+2	খোকন	খোকন	PROPN	_	Case=Nom|Number=Sing|Person=3	3	nsubj	_	Gender=Masc
+3	গেলো	যাওয়া	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+4	।	।	PUNCT	_	_	3	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-3
+# text = তসলিম গেলো ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = Toslim went
+1	তসলিম	তসলিম	PROPN	_	Case=Nom|Number=Sing|Person=3	2	nsubj	_	Gender=Masc
+2	গেলো	যাওয়া	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+3	।	।	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-4
+# text = কয়েকজন নিকট ও দূর - আত্মীয়ও গেলো কন্যাপক্ষ হয়ে ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = A few close and distant relatives also went as the bride's party.
+1	কয়েকজন	কয়েকজন	DET	_	_	6	det	_	_
+2	নিকট	নিকট	ADJ	_	_	6	amod	_	_
+3	ও	ও	CCONJ	_	_	4	cc	_	_
+4	দূর	দূর	ADJ	_	_	2	conj	_	_
+5	-	-	PUNCT	_	_	4	punct	_	_
+6	আত্মীয়ও	আত্মীয়	NOUN	_	Case=Nom|Number=Plur	7	nsubj	_	_
+7	গেলো	যাওয়া	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+8	কন্যাপক্ষ	কন্যাপক্ষ	NOUN	_	Case=Nom|Number=Plur	9	obj	_	_
+9	হয়ে	হওয়া	VERB	_	Aspect=Perf|VerbForm=Part	7	advcl	_	_
+10	।	।	PUNCT	_	_	7	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-5
+# text = মাহমুদকে যাবার জন্য পীড়াপীড়ি করেছিলো সকলে , ও গেলো না ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = Everyone insisted Mahmud to go, but he did not go.
+1	মাহমুদকে	মাহমুদ	PROPN	_	Case=Acc|Definite=Def|Number=Sing	5	obj	_	_
+2	যাবার	যাওয়া	NOUN	_	Case=Gen|VerbForm=Vnoun	5	ccomp	_	_
+3	জন্য	জন্য	ADP	_	_	2	case	_	AdpType=Post
+4	পীড়াপীড়ি	পীড়াপীড়ি	NOUN	_	Case=Nom|VerbForm=Vnoun	5	compound:lvc	_	_
+5	করেছিলো	করা	VERB	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Past	0	root	_	_
+6	সকলে	সকল	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|Person=3|PronType=Ind	5	nsubj	_	_
+7	,	,	PUNCT	_	_	5	punct	_	_
+8	ও	ও	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+9	গেলো	যাওয়া	VERB	_	Person=3|Polite=Infm|Tense=Past	5	conj	_	_
+10	না	না	PART	_	_	9	advmod	_	_
+11	।	।	PUNCT	_	_	5	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-6
+# text = ফরাশের ওপর চুপচাপ শুয়ে রইলো সে ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = He laid silently on the bed.
+1	ফরাশের	ফরাশ	NOUN	_	Case=Nom|Number=Sing	5	obl	_	_
+2	ওপর	ওপর	ADP	_	_	1	case	_	AdpType=Post
+3	চুপচাপ	চুপচাপ	ADV	_	_	5	advmod	_	_
+4	শুয়ে	শোয়া	VERB	_	Aspect=Perf|VerbForm=Part	5	compound:svc	_	_
+5	রইলো	রওয়া	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+6	সে	সে	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+7	।	।	PUNCT	_	_	5	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-7
+# text = মেহমান অতিথি যারা এসেছিলো তারা বিদায় নিয়ে গেছে অনেক আগে ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = The visitors who had come,  left a long time ago.
+1	মেহমান	মেহমান	NOUN	_	Case=Nom|Number=Sing	2	compound	_	_
+2	অতিথি	অতিথি	NOUN	_	Case=Nom|Number=Sing	8	dislocated	_	_
+3	যারা	যারা	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+4	এসেছিলো	আসা	VERB	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Past	2	acl:relcl	_	_
+5	তারা	তারা	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
+6	বিদায়	বিদায়	NOUN	_	Case=Nom|VerbForm=Vnoun	7	compound:lvc	_	_
+7	নিয়ে	নেওয়া	VERB	_	Aspect=Perf|VerbForm=Part	8	advcl	_	_
+8	গেছে	যাওয়া	VERB	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+9	অনেক	অনেক	ADJ	_	_	10	amod	_	_
+10	আগে	আগে	ADV	_	_	8	advmod	_	_
+11	।	।	PUNCT	_	_	8	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-8
+# text = সেলিনা চলে গেছে ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = Selina has left.
+1	সেলিনা	সেলিনা	PROPN	_	Case=Nom|Definite=Def|Number=Sing|Person=3	3	nsubj	_	Gender=Fem
+2	চলে	চলা	VERB	_	Aspect=Perf|VerbForm=Part	3	compound:lvc	_	_
+3	গেছে	যাওয়া	VERB	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Pres	0	root	_	Gender=Fem
+4	।	।	PUNCT	_	_	3	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-9
+# text = পাড়ার বউঝিয়েরাও ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = The neighborhood wives too.
+1	পাড়ার	পাড়া	NOUN	_	Case=Acc|Number=Sing	2	nmod:poss	_	_
+2	বউঝিয়েরাও	বউঝি	NOUN	_	Case=Nom|Number=Plur|Person=3	0	root	_	Gender=Masc
+3	।	।	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-10
+# text = লিলিকে যেতে দেয়নি হাসিনা ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = Hasina did not let Lily go.
+1	লিলিকে	লিলি	PROPN	_	Case=Acc|Definite=Def|Number=Sing|Person=3	3	iobj	_	Gender=Masc
+2	যেতে	যাওয়া	VERB	_	VerbForm=Inf	3	compound:svc	_	_
+3-4	দেয়নি	_	_	_	_	_	_	_	_
+3	দেয়	দেওয়া	VERB	_	Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+4	নি	না	PART	_	_	3	advmod	_	_
+5	হাসিনা	হাসিনা	PROPN	_	Case=Nom|Definite=Def|Number=Sing|Person=3	3	nsubj	_	Gender=Fem
+6	।	।	PUNCT	_	_	3	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-11
+# text = বলেছে - আজ রাতে তুমি থাকো লিলি আপা , নইলে একা ভীষণ ভয় করে আমার ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = She said, "Stay tonight, Lili Apa, otherwise I feel very scared alone."
+1	বলেছে	বলা	VERB	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+2	-	-	PUNCT	_	_	1	punct	_	_
+3	আজ	আজ	ADV	_	_	6	advmod	_	_
+4	রাতে	রাত	NOUN	_	Case=Nom	6	obl:tmod	_	_
+5	তুমি	তুমি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
+6	থাকো	থাকা	VERB	_	Person=2|Polite=Infm|Tense=Pres	1	ccomp	_	_
+7	লিলি	লিলি	PROPN	_	Case=Nom|Definite=Def|Number=Sing	6	vocative	_	_
+8	আপা	আপা	NOUN	_	Case=Nom|Number=Sing	7	compound	_	_
+9	,	,	PUNCT	_	_	6	punct	_	_
+10	নইলে	নইলে	ADV	_	_	14	advmod	_	_
+11	একা	একা	ADV	_	_	14	advmod	_	_
+12	ভীষণ	ভীষণ	ADJ	_	_	13	amod	_	_
+13	ভয়	ভয়	NOUN	_	Case=Nom	14	compound:lvc	_	_
+14	করে	করা	VERB	_	Person=3|Polite=Infm|Tense=Pres	6	parataxis	_	_
+15	আমার	আমার	PRON	_	Animacy=Anim|Case=Gen|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
+16	।	।	PUNCT	_	_	1	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-12
+# text = লিলি বলেছে , পাগল , বাসায় না গেলে বকবে সবাই ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = Lili said, "Crazy, if I don't go home, everyone will scold me."
+1	লিলি	লিলি	PROPN	_	Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	_
+2	বলেছে	বলা	VERB	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	পাগল	পাগল	ADJ	_	_	9	discourse	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	বাসায়	বাসা	NOUN	_	Case=Loc|Number=Sing	8	obl	_	_
+7	না	না	PART	_	_	8	advmod	_	_
+8	গেলে	যাওয়া	VERB	_	Person=2|Polite=Infm|Tense=Past	9	advcl	_	_
+9	বকবে	বকা	VERB	_	Person=3|Polite=Infm|Tense=Fut	2	ccomp	_	_
+10	সবাই	সবাই	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+11	।	।	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-14
+# text = লিলি গেলো না ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = Lili didn't go.
+1	লিলি	লিলি	PROPN	_	Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	_
+2	গেলো	যাওয়া	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+3	না	না	PART	_	_	2	advmod	_	_
+4	।	।	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-15
+# text = পাকঘরে সবকিছু গোছাবার কাজে মাকে সহায়তা করলো হাসিনা আর লিলি ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = Hasina and Lili helped mother in organizing everything in the kitchen.
+1	পাকঘরে	পাকঘর	NOUN	_	Case=Loc|Number=Sing	3	obl:lmod	_	_
+2	সবকিছু	সবকিছু	PRON	_	Animacy=Inan|Case=Nom|Number=Plur|PronType=Ind	3	obj	_	_
+3	গোছাবার	গোছানো	NOUN	_	Case=Nom|VerbForm=Vnoun	4	acl	_	_
+4	কাজে	কাজ	NOUN	_	Case=Nom|Number=Sing	7	obl	_	_
+5	মাকে	মা	NOUN	_	Case=Acc|Definite=Def|Number=Sing	7	iobj	_	_
+6	সহায়তা	সহায়তা	NOUN	_	Case=Nom|VerbForm=Vnoun	7	compound:lvc	_	_
+7	করলো	করা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+8	হাসিনা	হাসিনা	PROPN	_	Case=Nom|Definite=Def|Number=Sing	7	nsubj	_	_
+9	আর	আর	CCONJ	_	_	10	cc	_	_
+10	লিলি	লিলি	PROPN	_	Case=Nom|Definite=Def|Number=Sing	8	conj	_	_
+11	।	।	PUNCT	_	_	7	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-16
+# text = একটু আগে যে - বাড়িটা গমগম করছিলো মানুষের কোলাহলে , এখন সেখানে কবরের নিস্তব্ধতা ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = A little while ago - the house was buzzing with the noise of people, now there is silence of the grave.
+1	একটু	একটু	ADV	_	_	2	advmod	_	_
+2	আগে	আগ	ADV	_	_	7	obl	_	_
+3	যে	যে	DET	_	_	5	det	_	_
+4	-	-	PUNCT	_	_	5	punct	_	_
+5	বাড়িটা	বাড়ি	NOUN	_	Case=Nom|Definite=Def|Number=Sing	7	nsubj	_	Gender=Fem
+6	গমগম	গমগম	ADJ	_	_	7	xcomp	_	_
+7	করছিলো	করা	VERB	_	Aspect=Prog|Person=3|Polite=Infm|Tense=Past	0	root	_	_
+8	মানুষের	মানুষ	NOUN	_	Case=Gen|Number=Plur	9	nmod:poss	_	_
+9	কোলাহলে	কোলাহল	NOUN	_	Case=Nom	7	obl	_	_
+10	,	,	PUNCT	_	_	7	punct	_	_
+11	এখন	এখন	ADV	_	_	14	advmod	_	_
+12	সেখানে	সেখানে	ADV	_	_	14	advmod	_	_
+13	কবরের	কবর	NOUN	_	Case=Gen|Number=Sing	14	nmod:poss	_	_
+14	নিস্তব্ধতা	নিস্তব্ধতা	NOUN	_	Case=Nom	7	parataxis	_	_
+15	।	।	PUNCT	_	_	7	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-17
+# text = মাঝেসাঝে থালাবাসনগুলো নাড়াচাড়া আর কুয়োতলায় পানি তোলার শব্দ হচ্ছে ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = Occasionally, there's sound of clattering of dishes and drawing water from the well .
+1	মাঝেসাঝে	মাঝেসাঝে	ADV	_	_	9	advmod	_	_
+2	থালাবাসনগুলো	থালাবাসন	NOUN	_	Case=Nom|Definite=Def|Number=Plur	3	nsubj	_	_
+3	নাড়াচাড়া	নাড়াচাড়া	NOUN	_	Case=Nom|VerbForm=Vnoun	9	acl	_	_
+4	আর	আর	CCONJ	_	_	7	cc	_	_
+5	কুয়োতলায়	কুয়োতলা	NOUN	_	Case=Loc|Number=Sing	7	obl	_	_
+6	পানি	পানি	NOUN	_	Case=Nom	7	nmod	_	_
+7	তোলার	তোলা	NOUN	_	Case=Acc|VerbForm=Vnoun	3	conj	_	_
+8	শব্দ	শব্দ	NOUN	_	Case=Nom	9	compound:lvc	_	_
+9	হচ্ছে	হওয়া	VERB	_	Aspect=Prog|Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+10	।	।	PUNCT	_	_	9	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-18
+# text = তন্দ্রায় দু - চোখ জড়িয়ে এসেছিলো মাহমুদের ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = Mahmud's eyes were heavy with drowsiness
+1	তন্দ্রায়	তন্দ্রা	NOUN	_	Case=Nom	6	obl	_	_
+2	দু	দু	NUM	_	_	4	nummod	_	_
+3	-	-	PUNCT	_	_	2	punct	_	_
+4	চোখ	চোখ	NOUN	_	Case=Nom|Number=Sing	5	obj	_	_
+5	জড়িয়ে	জড়ানো	VERB	_	Aspect=Perf|VerbForm=Part	6	advcl	_	_
+6	এসেছিলো	আসা	VERB	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Past	0	root	_	_
+7	মাহমুদের	মাহমুদ	PROPN	_	Case=Gen|Definite=Def|Number=Sing	6	nsubj	_	_
+8	।	।	PUNCT	_	_	6	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-19
+# text = হাসিনার ডাকে তন্দ্রা ছুটে গেলো ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = Hasina's call snapped him out of his drowsiness.
+1	হাসিনার	হাসিনা	PROPN	_	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	ডাকে	ডাক	NOUN	_	Case=Nom|Number=Sing	5	obl	_	_
+3	তন্দ্রা	তন্দ্রা	NOUN	_	Case=Nom|Definite=Def	5	nsubj	_	_
+4	ছুটে	ছুটা	VERB	_	Aspect=Perf|VerbForm=Part	5	compound:lvc	_	_
+5	গেলো	যাওয়া	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+6	।	।	PUNCT	_	_	5	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-20
+# text = হাসিনা বললো , ভাইয়া খাবে এসো ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = Hasina said, brother, come to eat.
+1	হাসিনা	হাসিনা	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
+2	বললো	বলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	ভাইয়া	ভাইয়া	NOUN	_	Case=Nom|Number=Sing	5	vocative	_	_
+5	খাবে	খাওয়া	VERB	_	Person=3|Polite=Infm|Tense=Fut	2	ccomp	_	_
+6	এসো	আসা	VERB	_	Person=2|Polite=Infm|Tense=Pres	5	compound:svc	_	_
+7	।	।	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-21
+# text = মাহমুদ বললো , তুই যা , আমি আসছি ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = Mahmud said, "You go, I'll come."
+1	মাহমুদ	মাহমুদ	PROPN	_	Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	_
+2	বললো	বলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	তুই	তুই	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+5	যা	যাওয়া	VERB	_	Person=2|Polite=Intm|Tense=Pres	2	ccomp	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	আমি	আমি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+8	আসছি	আসা	VERB	_	Aspect=Prog|Person=1|Tense=Pres	5	parataxis	_	_
+9	।	।	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-22
+# text = পরক্ষণে কী মনে হতে আবার বললো , হ্যারে , সবাই কি চলে গেছে ?
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = Then he asked again, "Has everyone left?"
+1	পরক্ষণে	পরক্ষণ	ADV	_	_	6	advmod	_	_
+2	কী	কী	PRON	_	PronType=Int	3	obj	_	_
+3	মনে	মন	NOUN	_	Case=Nom|VerbForm=Vnoun	4	compound:lvc	_	_
+4	হতে	হওয়া	VERB	_	Aspect=Perf|VerbForm=Part	6	advcl	_	_
+5	আবার	আবার	ADV	_	_	6	advmod	_	_
+6	বললো	বলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	হ্যারে	হ্যাঁ	INTJ	_	_	13	discourse	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	সবাই	সবাই	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|Person=3|PronType=Ind	13	nsubj	_	_
+11	কি	কি	PART	_	PronType=Int	13	advmod	_	_
+12	চলে	চলা	VERB	_	Aspect=Perf|VerbForm=Part	13	compound:lvc	_	_
+13	গেছে	যাওয়া	VERB	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Pres	6	ccomp	_	_
+14	?	?	PUNCT	_	_	6	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-23
+# text = হাসিনা বললো , হ্যাঁ , শুধু লিলি আপা আছে ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = Hasina said, "Yes, only Lily Apa is there."
+1	হাসিনা	হাসিনা	PROPN	_	Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	Gender=Fem
+2	বললো	বলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	হ্যাঁ	হ্যাঁ	INTJ	_	_	9	discourse	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	শুধু	শুধু	ADV	_	_	9	advmod	_	_
+7	লিলি	লিলি	PROPN	_	Case=Nom|Definite=Def|Number=Sing	9	nsubj	_	_
+8	আপা	আপা	NOUN	_	Case=Nom|Number=Sing	7	compound	_	_
+9	আছে	আছে	VERB	_	Aspect=Prog|Person=3|Polite=Infm	2	ccomp	_	_
+10	।	।	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-25
+# text = দুলু ঘুমাচ্ছে ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = Dulu is sleeping.
+1	দুলু	দুলু	PROPN	_	Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	_
+2	ঘুমাচ্ছে	ঘুমানো	VERB	_	Aspect=Prog|Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+3	।	।	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-26
+# text = হাসিনা আর লিলি কুয়োর পাড়ে , বসে গল্প করছে ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = Hasina and Lily are sitting on the bank of the well and talking.
+1	হাসিনা	হাসিনা	PROPN	_	Case=Nom|Definite=Def|Number=Sing	9	nsubj	_	_
+2	আর	আর	CCONJ	_	_	3	cc	_	_
+3	লিলি	লিলি	PROPN	_	Case=Nom|Definite=Def|Number=Sing	1	conj	_	_
+4	কুয়োর	কুয়ো	NOUN	_	Case=Gen|Number=Sing	9	obl	_	_
+5	পাড়ে	পাড়	NOUN	_	Case=Loc|Number=Sing	4	compound	_	_
+6	,	,	PUNCT	_	_	4	punct	_	_
+7	বসে	বসা	ADV	_	_	9	advmod	_	_
+8	গল্প	গল্প	NOUN	_	Case=Nom|Number=Sing	9	compound:lvc	_	_
+9	করছে	করা	VERB	_	Aspect=Prog|Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+10	।	।	PUNCT	_	_	9	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-27
+# text = খাওয়া শেষ হলে লিলি বললো , এবার যাই আমি হাসি ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = After finishing eating, Lily said, "Now I'll go, Hashi."
+1	খাওয়া	খাওয়া	NOUN	_	VerbForm=Vnoun	3	obj	_	_
+2	শেষ	শেষ	NOUN	_	VerbForm=Vnoun	3	compound:lvc	_	_
+3	হলে	হওয়া	VERB	_	Aspect=Perf|VerbForm=Part	5	advcl	_	_
+4	লিলি	লিলি	PROPN	_	Case=Nom|Definite=Def|Number=Sing	5	nsubj	_	_
+5	বললো	বলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	এবার	এবার	ADV	_	_	8	advmod	_	_
+8	যাই	যাওয়া	VERB	_	Person=1|Tense=Pres	5	ccomp	_	_
+9	আমি	আমি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+10	হাসি	হাসি	PROPN	_	Case=Nom|Definite=Def|Number=Sing	8	vocative	_	_
+11	।	।	PUNCT	_	_	5	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-28
+# text = সালেহা বিবি বললেন , এই রাতে যাবে তুমি ?
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = Saleha Bibi said, "Are you going tonight?"
+1	সালেহা	সালেহা	PROPN	_	Case=Nom|Definite=Def|Number=Sing	3	nsubj	_	_
+2	বিবি	বিবি	NOUN	_	Case=Nom|Number=Sing	1	compound	_	_
+3	বললেন	বলা	VERB	_	Person=3|Polite=Form|Tense=Past	0	root	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	এই	এই	DET	_	_	6	det	_	_
+6	রাতে	রাত	NOUN	_	Case=Nom|Number=Sing	7	obl	_	_
+7	যাবে	যাওয়া	VERB	_	Person=2|Polite=Infm|Tense=Fut	3	ccomp	_	_
+8	তুমি	তুমি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	_
+9	?	?	PUNCT	_	_	7	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-29
+# text = লিলি বললো , পারবো খালাম্মা ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = Lily said, "I can do it, aunt."
+1	লিলি	লিলি	PROPN	_	Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	_
+2	বললো	বলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	পারবো	পারা	VERB	_	Person=1|Tense=Fut	2	ccomp	_	_
+5	খালাম্মা	খালাম্মা	NOUN	_	Case=Nom|Number=Sing	4	vocative	_	_
+6	।	।	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-30
+# text = মাহমুদকে পেয়ে সালেহা বিবি বললেন , তুই কি বাইরে বেরুবি আজ ?
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = Upon meeting Mahmud, Saleha Bibi said, "Are you going out today?"
+1	মাহমুদকে	মাহমুদ	PROPN	_	Case=Acc|Definite=Def|Number=Sing	2	iobj	_	_
+2	পেয়ে	পাওয়া	VERB	_	Aspect=Perf|VerbForm=Part	5	advcl	_	_
+3	সালেহা	সালেহা	PROPN	_	Case=Nom|Definite=Def|Number=Sing	5	nsubj	_	_
+4	বিবি	বিবি	NOUN	_	Case=Nom|Number=Sing	3	compound	_	_
+5	বললেন	বলা	VERB	_	Person=3|Polite=Form|Tense=Fut	0	root	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	তুই	তুই	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	_
+8	কি	কি	ADV	_	_	11	advmod	_	_
+9	বাইরে	বাহির	ADV	_	_	11	advmod	_	_
+10-11	বেরুবি	_	_	_	_	_	_	_	_
+10	বের	বাহির	NOUN	_	VerbForm=Vnoun	11	compound:lvc	_	_
+11	হবি	হওয়া	VERB	_	Person=2|Polite=Intm|Tense=Fut	5	ccomp	_	_
+12	আজ	আজ	NOUN	_	Case=Nom	11	obl:tmod	_	_
+13	?	?	PUNCT	_	_	5	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-31
+# text = মাহমুদ বললো , হ্যাঁ , এখুনি বেরুবো ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = Mahmud said, "Yes, I'll leave now."
+1	মাহমুদ	মাহমুদ	PROPN	_	Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	_
+2	বললো	বলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	হ্যাঁ	হ্যাঁ	INTJ	_	_	8	discourse	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	এখুনি	এখন	ADV	_	_	8	advmod	_	_
+7-8	বেরুবো	_	_	_	_	_	_	_	_
+7	বের	বাহির	NOUN	_	VerbForm=Vnoun	8	compound:lvc	_	_
+8	হব	হওয়া	VERB	_	Person=1|Tense=Fut	2	ccomp	_	_
+9	।	।	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-32
+# text = সারাদিন তো তোমাদের বিয়ের ঝামেলায় কাটলো ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = The whole day was spent dealing with your wedding hassles.
+1	সারাদিন	সারাদিন	NOUN	_	Case=Nom	6	obl:tmod	_	_
+2	তো	তো	ADV	_	_	6	advmod	_	_
+3	তোমাদের	তোমাদের	PRON	_	Animacy=Anim|Case=Gen|Number=Plur|Person=2|PronType=Prs	4	nmod:poss	_	_
+4	বিয়ের	বিয়ে	NOUN	_	Case=Gen|Number=Sing	5	nmod:poss	_	_
+5	ঝামেলায়	ঝামেলা	NOUN	_	Case=Nom|Number=Sing	6	obl	_	_
+6	কাটলো	কাটা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+7	।	।	PUNCT	_	_	6	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-33
+# text = এখন সারারাত জেগে প্রুফ দেখতে হবে আমায় ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = Now I have to stay up all night looking at the proof.
+1	এখন	এখন	ADV	_	_	6	advmod	_	_
+2	সারারাত	সারারাত	NOUN	_	Case=Nom|Number=Sing	3	obl:tmod	_	_
+3	জেগে	জাগা	VERB	_	Aspect=Perf|VerbForm=Part	6	compound:svc	_	_
+4	প্রুফ	প্রুফ	NOUN	_	Case=Nom|Number=Sing	6	obj	_	_
+5	দেখতে	দেখা	VERB	_	VerbForm=Inf	6	compound:lvc	_	_
+6	হবে	হওয়া	VERB	_	Person=1|Tense=Fut	0	root	_	_
+7	আমায়	আমায়	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+8	।	।	PUNCT	_	_	6	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-34
+# text = কিন্তু , কেন বলো তো ?
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = But why, tell me?
+1	কিন্তু	কিন্তু	CCONJ	_	_	4	cc	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	কেন	কেন	ADV	_	_	4	advmod	_	_
+4	বলো	বলো	VERB	_	Person=2|Polite=Infm|Tense=Pres	0	root	_	_
+5	তো	তো	ADV	_	_	4	advmod	_	_
+6	?	?	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-36
+# text = মাহমুদ ওর দিকে একপলক তাকিয়ে বললো , দিতে পারি , ওর যদি কোনো আপত্তি না থাকে ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = Mahmud glanced at her for a moment and said, "I can give her a lift, if she has no objections.
+1	মাহমুদ	মাহমুদ	PROPN	_	Case=Nom|Definite=Def|Number=Sing	6	nsubj	_	_
+2	ওর	ও	PRON	_	Animacy=Anim|Case=Gen|Number=Sing|Person=3|PronType=Prs	5	obl	_	_
+3	দিকে	দিকে	ADP	_	_	2	case	_	_
+4	একপলক	একপলক	NOUN	_	Case=Nom|Number=Sing	5	obl	_	_
+5	তাকিয়ে	তাকানো	VERB	_	Aspect=Perf|VerbForm=Part	6	advcl	_	_
+6	বললো	বলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	দিতে	দেওয়া	VERB	_	VerbForm=Inf	6	ccomp	_	_
+9	পারি	পারা	AUX	_	Person=1|Tense=Pres	8	aux	_	_
+10	,	,	PUNCT	_	_	8	punct	_	_
+11	ওর	ও	PRON	_	Animacy=Anim|Case=Gen|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
+12	যদি	যদি	SCONJ	_	_	16	mark	_	_
+13	কোনো	কোনো	DET	_	_	14	det	_	_
+14	আপত্তি	আপত্তি	NOUN	_	Case=Nom	16	obj	_	_
+15	না	না	PART	_	_	16	advmod	_	_
+16	থাকে	থাকা	VERB	_	Person=3|Polite=Infm|Tense=Pres	8	parataxis	_	_
+17	।	।	PUNCT	_	_	6	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-37
+# text = লিলি ঢোক গিললো , কিছু বললো না ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = Lily swallowed hard and said nothing
+1	লিলি	লিলি	PROPN	_	Case=Nom|Definite=Def|Number=Sing	3	nsubj	_	_
+2	ঢোক	ঢোক	NOUN	_	VerbForm=Vnoun	3	obj	_	_
+3	গিললো	গেলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	কিছু	কিছু	PRON	_	PronType=Ind	6	obj	_	_
+6	বললো	বলা	VERB	_	Person=3|Polite=Infm|Tense=Past	3	conj	_	_
+7	না	না	PART	_	_	6	advmod	_	_
+8	।	।	PUNCT	_	_	3	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-38
+# text = রাতের এই প্রহরে পথঘাটগুলো বড় নির্জন হয়ে আসে ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = At this hour of the night, the streets become very deserted.
+1	রাতের	রাত	NOUN	_	Case=Gen|Number=Sing	3	nmod:poss	_	_
+2	এই	এই	DET	_	_	3	det	_	_
+3	প্রহরে	প্রহর	NOUN	_	Case=Nom|Number=Sing	8	obl:tmod	_	_
+4	পথঘাটগুলো	পথঘাট	NOUN	_	Case=Nom|Definite=Def|Number=Plur	8	nsubj	_	_
+5	বড়	বড়	ADJ	_	_	6	amod	_	_
+6	নির্জন	নির্জন	ADJ	_	_	7	xcomp	_	_
+7	হয়ে	হওয়া	VERB	_	Aspect=Perf|VerbForm=Part	8	compound:lvc	_	_
+8	আসে	আসা	VERB	_	Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+9	।	।	PUNCT	_	_	8	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-39
+# text = টিমটিমে বাতি - জ্বলা দোকানিরা শেষ খদ্দেরের প্রত্যাশায় তখনো বসে ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = The shopkeepers, with their dimly lit lamps, are still sitting, waiting for the last customers.
+1	টিমটিমে	টিমটিম	ADJ	_	_	2	amod	_	_
+2	বাতি	বাতি	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	_
+3	-	-	PUNCT	_	_	2	punct	_	_
+4	জ্বলা	জ্বলা	NOUN	_	Case=Nom	2	nmod	_	_
+5	দোকানিরা	দোকানি	NOUN	_	Case=Nom|Number=Plur	10	nsubj	_	_
+6	শেষ	শেষ	ADJ	_	_	7	amod	_	_
+7	খদ্দেরের	খদ্দের	NOUN	_	Case=Gen|Number=Sing|Person=3	8	nmod:poss	_	Gender=Masc
+8	প্রত্যাশায়	প্রত্যাশা	NOUN	_	Case=Nom	10	obl	_	_
+9	তখনো	তখন	ADV	_	_	10	advmod	_	_
+10	বসে	বসা	VERB	_	Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+11	।	।	PUNCT	_	_	10	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-40
+# text = আশেপাশে কোনো রিকশা নেই ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = There is no rickshaw around
+1	আশেপাশে	আশেপাশে	ADV	_	_	4	advmod	_	_
+2	কোনো	কোনো	DET	_	_	3	det	_	_
+3	রিকশা	রিকশা	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+4	নেই	না	VERB	_	_	0	root	_	_
+5	।	।	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-41
+# text = লিলি বললো , আপনার যদি কোনো অসুবিধে না হয় যেতে পারেন , আমার কোনো আপত্তি নেই ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = Lily said, "If you don't mind, you can go — I have no objection.
+1	লিলি	লিলি	PROPN	_	Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	_
+2	বললো	বলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	আপনার	আপনার	PRON	_	Animacy=Anim|Case=Gen|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	_
+5	যদি	যদি	SCONJ	_	_	9	mark	_	_
+6	কোনো	কোনো	DET	_	_	7	det	_	_
+7	অসুবিধে	অসুবিধা	NOUN	_	Case=Nom|Number=Sing	9	nsubj	_	_
+8	না	না	PART	_	_	9	advmod	_	_
+9	হয়	হওয়া	VERB	_	VerbForm=Vnoun	10	advcl	_	_
+10	যেতে	যাওয়া	VERB	_	VerbForm=Inf	2	ccomp	_	_
+11	পারেন	পারা	AUX	_	Person=3|Polite=Form|Tense=Pres	10	aux	_	_
+12	,	,	PUNCT	_	_	10	punct	_	_
+13	আমার	আমার	PRON	_	Animacy=Anim|Case=Gen|Number=Sing|Person=1|PronType=Prs	16	nsubj	_	_
+14	কোনো	কোনো	DET	_	_	15	det	_	_
+15	আপত্তি	আপত্তি	NOUN	_	Case=Nom|Number=Sing	16	obj	_	_
+16	নেই	নেই	VERB	_	_	10	parataxis	_	_
+17	।	।	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-42
+# text = তারপর নীরবে দুজনে হেঁটে চললো ওরা ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = Then they both walked in silence.
+1	তারপর	তারপর	ADV	_	_	5	advmod	_	_
+2	নীরবে	নীরব	ADV	_	_	5	advmod	_	_
+3	দুজনে	দুজন	DET	_	Case=Nom|Number=Plur	5	nsubj	_	_
+4	হেঁটে	হাঁটা	VERB	_	Aspect=Perf|VerbForm=Part	5	compound:lvc	_	_
+5	চললো	চলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+6	ওরা	ও	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|Person=3|PronType=Prs	5	dislocated	_	_
+7	।	।	PUNCT	_	_	5	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-43
+# text = কখনো আগে কখনো পিছে ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = Sometimes ahead, sometimes behind.
+1	কখনো	কখনো	ADV	_	_	2	advmod	_	_
+2	আগে	আগে	ADV	_	_	0	root	_	_
+3	কখনো	কখনো	ADV	_	_	4	advmod	_	_
+4	পিছে	পিছে	ADV	_	_	2	conj	_	_
+5	।	।	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-44
+# text = কখনো পাশাপাশি ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = Sometimes side by side
+1	কখনো	কখনো	ADV	_	_	2	advmod	_	_
+2	পাশাপাশি	পাশাপাশি	ADV	_	_	0	root	_	_
+3	।	।	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-45
+# text = মাহমুদ কী যেন ভাবছিলো ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = Mahmud was thinking about something.
+1	মাহমুদ	মাহমুদ	PROPN	_	Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	_
+2	কী	কী	PRON	_	_	4	obj	_	_
+3	যেন	যেন	ADV	_	_	4	advmod	_	_
+4	ভাবছিলো	ভাবা	VERB	_	Aspect=Prog|Person=3|Polite=Infm|Tense=Past	0	root	_	_
+5	।	।	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-46
+# text = হঠাৎ সে বললো , কী অদ্ভুত ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = Suddenly, he said, 'How strange.
+1	হঠাৎ	হঠাৎ	ADV	_	_	3	advmod	_	_
+2	সে	সে	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	বললো	বলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	কী	কী	ADV	_	_	6	advmod	_	_
+6	অদ্ভুত	অদ্ভুত	ADJ	_	_	3	ccomp	_	_
+7	।	।	PUNCT	_	_	3	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-47
+# text = তাই না ?
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = Isn’t that so?
+1	তাই	তাই	ADV	_	_	0	root	_	_
+2	না	না	PART	_	_	1	advmod	_	_
+3	?	?	PUNCT	_	_	1	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-48
+# text = লিলি চমকে তাকালো ওর দিকে - কি ?
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = Lily looked at him in shock - what?
+1	লিলি	লিলি	PROPN	_	Case=Nom|Definite=Def|Number=Sing	3	nsubj	_	_
+2	চমকে	চমকে	ADV	_	_	3	advmod	_	_
+3	তাকালো	তাকানো	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+4	ওর	ও	PRON	_	Animacy=Anim|Case=Gen|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
+5	দিকে	দিকে	ADP	_	_	4	case	_	_
+6	-	-	PUNCT	_	_	3	punct	_	_
+7	কি	কি	INTJ	_	_	3	parataxis	_	_
+8	?	?	PUNCT	_	_	7	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-49
+# text = মাহমুদ বলল - এ বিয়েটা ।
+# book = BorofGolaNodi_ZahirRaihan
+# text_en = Mahmud said, "This marriage..."
+1	মাহমুদ	মাহমুদ	PROPN	_	Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	_
+2	বলল	বলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+3	-	-	PUNCT	_	_	2	punct	_	_
+4	এ	এ	DET	_	_	5	det	_	_
+5	বিয়েটা	বিয়ে	NOUN	_	Case=Nom|Definite=Def|Number=Sing	2	ccomp	_	_
+6	।	।	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-50
+# text = ভেবেছিলো বাড়ি ফিরে মাধবিকা ফোন করবে ।
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = He had thought that Madhabika would call after returning home.
+1	ভেবেছিলো	ভাবা	VERB	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Past	0	root	_	_
+2	বাড়ি	বাড়ি	NOUN	_	Case=Nom|Number=Sing	3	obl	_	_
+3	ফিরে	ফেরা	VERB	_	Aspect=Perf|VerbForm=Part	6	advcl	_	_
+4	মাধবিকা	মাধবিকা	PROPN	_	Case=Nom|Definite=Def|Number=Sing	6	nsubj	_	_
+5	ফোন	ফোন	NOUN	_	Case=Nom|VerbForm=Vnoun	6	compound:lvc	_	_
+6	করবে	করা	VERB	_	Person=3|Polite=Infm|Tense=Fut	1	ccomp	_	_
+7	।	।	PUNCT	_	_	6	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-51
+# text = করেনি ।
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = didn't do
+1-2	করেনি	_	_	_	_	_	_	_	_
+1	করে	করা	VERB	_	Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+2	নি	না	PART	_	_	1	advmod	_	_
+3	।	।	PUNCT	_	_	1	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-52
+# text = তাতে আরও উত্তপ্ত হয়েছিল ।
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = That made it even more heated.
+1	তাতে	তাতে	ADV	_	_	4	advmod	_	_
+2	আরও	আর	ADV	_	_	4	advmod	_	_
+3	উত্তপ্ত	উত্তপ্ত	ADJ	_	_	4	xcomp	_	_
+4	হয়েছিল	হওয়া	VERB	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Past	0	root	_	_
+5	।	।	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-53
+# text = ঠিক করেছিল যে আর নিজে থেকে ওকে ফোন করবে না ।
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = He had decided that he would no longer call her on his own.
+1	ঠিক	ঠিক	NOUN	_	_	2	compound:lvc	_	_
+2	করেছিল	করা	VERB	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Past	0	root	_	_
+3	যে	যে	SCONJ	_	_	9	mark	_	_
+4	আর	আর	ADV	_	_	9	advmod	_	_
+5	নিজে	নিজ	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	9	obl	_	_
+6	থেকে	থেকে	ADP	_	_	5	case	_	AdpType=Post
+7	ওকে	ও	PRON	_	Animacy=Anim|Case=Acc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+8	ফোন	ফোন	NOUN	_	Case=Nom|VerbForm=Vnoun	9	compound:lvc	_	_
+9	করবে	করা	VERB	_	Person=3|Polite=Infm|Tense=Fut	2	ccomp	_	_
+10	না	না	PART	_	_	9	advmod	_	_
+11	।	।	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-54
+# text = আজ সকালে কাগজের জন্য অপেক্ষা করতে করতে হেসে ফেলল সপ্তম ।
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = Saptam laughed this morning while waiting for the paper.
+1	আজ	আজ	NOUN	_	Case=Nom	2	nmod	_	_
+2	সকালে	সকাল	NOUN	_	Case=Nom	6	obl:tmod	_	_
+3	কাগজের	কাগজ	NOUN	_	Case=Gen|Number=Sing	6	obl	_	_
+4	জন্য	জন্য	ADP	_	_	3	case	_	AdpType=Post
+5	অপেক্ষা	অপেক্ষা	NOUN	_	Case=Nom|VerbForm=Vnoun	6	compound:lvc	_	_
+6	করতে	করা	VERB	_	Aspect=Prog|VerbForm=Part	9	advcl	_	_
+7	করতে	করা	VERB	_	Aspect=Prog|VerbForm=Part	6	fixed	_	_
+8	হেসে	হাসা	VERB	_	Person=3|Polite=Infm|Tense=Pres	9	compound:lvc	_	_
+9	ফেলল	ফেলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+10	সপ্তম	সপ্তম	PROPN	_	Case=Nom|Definite=Def|Number=Sing	9	nsubj	_	_
+11	।	।	PUNCT	_	_	9	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-56
+# text = তার কেন রাগ হচ্ছে ?
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = Why is he getting angry?
+1	তার	তার	PRON	_	Animacy=Anim|Case=Gen|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	কেন	কেন	ADV	_	_	4	advmod	_	_
+3	রাগ	রাগ	NOUN	_	Case=Nom	4	obj	_	_
+4	হচ্ছে	হওয়া	VERB	_	Aspect=Prog|Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-58
+# text = রাগ দেখিয়ে চুপ করে বসে থাকা মানে তো নিজের ক্ষতি করা ।
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = Showing anger and sitting silently means harming oneself.
+1	রাগ	রাগ	NOUN	_	Case=Nom|Number=Sing	2	obj	_	_
+2	দেখিয়ে	দেখা	VERB	_	VerbForm=Vnoun	5	advcl	_	_
+3	চুপ	চুপ	NOUN	_	Case=Nom|Number=Sing	5	advcl	_	_
+4	করে	করা	AUX	_	Aspect=Perf|VerbForm=Part	3	aux	_	_
+5	বসে	বসা	VERB	_	Aspect=Perf|VerbForm=Part	11	csubj	_	_
+6	থাকা	থাকা	AUX	_	VerbForm=Vnoun	5	compound:lvc	_	_
+7	মানে	মানে	NOUN	_	_	11	nmod	_	AdpType=Post
+8	তো	তো	ADV	_	Case=Acc|Number=Sing|Person=2	11	advmod	_	_
+9	নিজের	নিজ	PRON	_	Animacy=Anim|Case=Gen|Number=Sing|Person=1|PronType=Prs	10	nmod:poss	_	_
+10	ক্ষতি	ক্ষতি	NOUN	_	Case=Nom|Number=Sing	11	compound:lvc	_	_
+11	করা	করা	VERB	_	VerbForm=Vnoun	0	root	_	_
+12	।	।	PUNCT	_	_	11	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-59
+# text = মাধবিকা ওর বসকে তার জন্যে চাকরির কথা বলেছে ।
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = Madhavika has spoken to her boss about a job for him.
+1	মাধবিকা	মাধবিকা	PROPN	_	Case=Nom|Definite=Def|Number=Sing	8	nsubj	_	_
+2	ওর	ও	PRON	_	Animacy=Anim|Case=Gen|Number=Sing|Person=3|PronType=Prs	3	nmod:poss	_	_
+3	বসকে	বস	NOUN	_	Case=Acc|Definite=Def|Number=Sing	8	iobj	_	_
+4	তার	তার	PRON	_	Animacy=Anim|Case=Gen|Number=Sing|PronType=Prs	8	obl	_	_
+5	জন্যে	জন্য	ADP	_	_	4	case	_	AdpType=Post
+6	চাকরির	চাকরি	NOUN	_	Case=Gen|Number=Sing	7	nmod	_	_
+7	কথা	কথা	NOUN	_	Case=Nom|Number=Sing	8	obj	_	_
+8	বলেছে	বলা	VERB	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+9	।	।	PUNCT	_	_	8	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-60
+# text = কজন বলে ?
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+1	কজন	কজন	PRON	_	PronType=Int	2	nsubj	_	_
+2	বলে	বলা	VERB	_	Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+3	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-61
+# text = কাগজ এল ।
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = The paper has arrived
+1	কাগজ	কাগজ	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
+2	এল	আসা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+3	।	।	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-63
+# text = প্রথম পাতায় বেশ বড় ছবি ছাপা হয়েছে ।
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = A large picture has been printed on the front page
+1	প্রথম	প্রথম	ADJ	_	NumType=Ord	2	amod	_	_
+2	পাতায়	পাতা	NOUN	_	Case=Nom|Number=Sing	7	obl	_	_
+3	বেশ	বেশ	ADJ	_	_	4	amod	_	_
+4	বড়	বড়	ADJ	_	_	5	amod	_	_
+5	ছবি	ছবি	NOUN	_	Case=Nom|Number=Sing	7	obj	_	_
+6	ছাপা	ছাপা	NOUN	_	Case=Nom|VerbForm=Vnoun	7	compound:lvc	_	_
+7	হয়েছে	হওয়া	VERB	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+8	।	।	PUNCT	_	_	7	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-65
+# text = বিস্তারিত খবর পড়ল সপ্তম ।
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = Shaptam read the detailed news.
+1	বিস্তারিত	বিস্তারিত	ADJ	_	_	2	amod	_	_
+2	খবর	খবর	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
+3	পড়ল	পড়া	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+4	সপ্তম	সপ্তম	PROPN	_	Case=Nom|Definite=Def|Number=Sing	3	nsubj	_	_
+5	।	।	PUNCT	_	_	3	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-66
+# text = প্রতিনিধি দলটি প্রস্তাব দিয়েছে ফারাক্কা থেকে কোচবিহার পর্যন্ত ওরা রাস্তা বানিয়ে দেবে ।
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = The delegation has proposed that they will build a road from Farakka to Cooch Behar.
+1	প্রতিনিধি	প্রতিনিধি	NOUN	_	Case=Nom|Number=Sing	2	nmod	_	_
+2	দলটি	দল	NOUN	_	Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	_
+3	প্রস্তাব	প্রস্তাব	NOUN	_	Case=Nom|Number=Sing	4	compound:lvc	_	_
+4	দিয়েছে	দেওয়া	VERB	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+5	ফারাক্কা	ফারাক্কা	PROPN	_	Case=Nom|Number=Sing	12	obl	_	_
+6	থেকে	থেকে	ADP	_	_	5	case	_	AdpType=Post
+7	কোচবিহার	কোচবিহার	PROPN	_	Case=Nom|Number=Sing	12	obl	_	_
+8	পর্যন্ত	পর্যন্ত	ADP	_	Case=Nom	7	case	_	_
+9	ওরা	ও	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+10	রাস্তা	রাস্তা	NOUN	_	Case=Nom|Number=Sing	12	obj	_	_
+11	বানিয়ে	বানানো	VERB	_	Aspect=Perf|VerbForm=Part	12	compound:svc	_	_
+12	দেবে	দেওয়া	VERB	_	Person=3|Polite=Infm|Tense=Fut	4	conj	_	_
+13	।	।	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-67
+# text = হাইওয়েতে যাওয়া - আসার পথে চারটি করে লেন থাকবে ।
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = There will be four lanes on the highway for both directions.
+1	হাইওয়েতে	হাইওয়ে	NOUN	_	Case=Loc|Number=Sing	9	obl:lmod	_	_
+2	যাওয়া	যাওয়া	NOUN	_	Case=Nom|VerbForm=Vnoun	5	nmod	_	_
+3	-	-	PUNCT	_	_	2	punct	_	_
+4	আসার	আসা	NOUN	_	Case=Nom|VerbForm=Vnoun	2	compound	_	_
+5	পথে	পথ	NOUN	_	Case=Loc|Number=Sing	9	obl:lmod	_	_
+6	চারটি	চার	NUM	_	NumType=Card	8	nummod	_	_
+7	করে	করে	ADP	_	_	6	case	_	_
+8	লেন	লেন	NOUN	_	Case=Nom|Number=Sing	9	nsubj	_	_
+9	থাকবে	থাকা	VERB	_	Person=3|Polite=Infm|Tense=Fut	0	root	_	_
+10	।	।	PUNCT	_	_	9	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-69
+# text = এই হাইওয়ের পঞ্চাশ - ষাট কিলোমিটার অন্তর রেস্তোরাঁ এবং রেস্টরুমের ব্যবস্থা থাকবে যেখানে হাইওয়ে থেকে বেরিয়ে যেতে হবে ।
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = There will be restaurants and restrooms every fifty to sixty kilometers of this highway, where you have to exit the highway.
+1	এই	এই	DET	_	_	2	det	_	_
+2	হাইওয়ের	হাইওয়ে	NOUN	_	Case=Gen|Number=Sing	6	nmod:poss	_	_
+3	পঞ্চাশ	পঞ্চাশ	NUM	_	NumType=Card	6	nummod	_	_
+4	-	-	PUNCT	_	_	3	punct	_	_
+5	ষাট	ষাট	NUM	_	NumType=Card	3	conj	_	_
+6	কিলোমিটার	কিলোমিটার	NOUN	_	Case=Nom	12	obl	_	_
+7	অন্তর	অন্তর	ADP	_	_	6	case	_	AdpType=Post
+8	রেস্তোরাঁ	রেস্তোরাঁ	NOUN	_	Case=Nom|Number=Sing	11	nmod	_	_
+9	এবং	এবং	CCONJ	_	_	10	cc	_	_
+10	রেস্টরুমের	রেস্টরুম	NOUN	_	Case=Gen|Number=Sing	8	conj	_	_
+11	ব্যবস্থা	ব্যবস্থা	NOUN	_	Case=Nom|VerbForm=Vnoun	12	nsubj	_	_
+12	থাকবে	থাকা	VERB	_	Person=3|Polite=Infm|Tense=Fut	0	root	_	_
+13	যেখানে	যেখানে	ADV	_	_	18	advmod	_	_
+14	হাইওয়ে	হাইওয়ে	NOUN	_	Case=Nom|Number=Sing	16	obl	_	_
+15	থেকে	থেকে	ADP	_	_	14	case	_	AdpType=Post
+16	বেরিয়ে	বেরোনো	VERB	_	Aspect=Perf|VerbForm=Part	17	compound:svc	_	_
+17	যেতে	যাওয়া	VERB	_	Aspect=Perf|VerbForm=Part	18	compound:lvc	_	_
+18	হবে	হওয়া	VERB	_	Person=3|Polite=Infm|Tense=Fut	12	advcl	_	_
+19	।	।	PUNCT	_	_	12	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-70
+# text = জমি অধিগ্রহণের  দায়িত্ব যদি সরকার নেয় তাহলে হাইওয়ের নির্মাণখরচ তারাই বহন করবে ।
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = If the government takes responsibility for land acquisition, they will bear the construction costs of the highway.
+1	জমি	জমি	NOUN	_	Case=Nom|Number=Sing	2	nmod	_	_
+2	অধিগ্রহণের	অধিগ্রহণ	NOUN	_	Case=Gen	3	nmod	_	_
+3	দায়িত্ব	দায়িত্ব	NOUN	_	Case=Nom	6	obj	_	_
+4	যদি	যদি	SCONJ	_	_	6	mark	_	_
+5	সরকার	সরকার	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
+6	নেয়	নেওয়া	VERB	_	Aspect=Perf|VerbForm=Part	12	advcl	_	_
+7	তাহলে	তাহলে	SCONJ	_	_	12	mark	_	_
+8	হাইওয়ের	হাইওয়ে	NOUN	_	Case=Gen|Number=Sing	9	nmod	_	_
+9	নির্মাণখরচ	নির্মাণখরচ	NOUN	_	Case=Nom	12	obj	_	_
+10	তারাই	তারা	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
+11	বহন	বহন	NOUN	_	Case=Nom|VerbForm=Vnoun	12	compound:lvc	_	_
+12	করবে	করা	VERB	_	Person=3|Polite=Infm|Tense=Fut	0	root	_	_
+13	।	।	PUNCT	_	_	12	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-71
+# text = এই খরচ আগামী পঞ্চাশ বছর ধরে তারা টোলট্যাক্সের মাধ্যমে তুলবে ।
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = They will cover this cost through toll taxes for the next fifty years.
+1	এই	এই	DET	_	_	2	det	_	_
+2	খরচ	খরচ	NOUN	_	Case=Nom|Number=Sing	10	obj	_	_
+3	আগামী	আগামী	ADJ	_	_	4	amod	_	_
+4	পঞ্চাশ	পঞ্চাশ	NUM	_	NumType=Card	5	nummod	_	_
+5	বছর	বছর	NOUN	_	Case=Nom|Number=Sing	10	obl:tmod	_	_
+6	ধরে	ধরে	ADP	_	_	5	case	_	AdpType=Post
+7	তারা	তারা	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
+8	টোলট্যাক্সের	টোলট্যাক্স	NOUN	_	Case=Acc|Number=Sing	10	obl	_	_
+9	মাধ্যমে	মাধ্যমে	ADP	_	_	8	case	_	AdpType=Post
+10	তুলবে	তোলা	VERB	_	Person=3|Polite=Infm|Tense=Fut	0	root	_	_
+11	।	।	PUNCT	_	_	10	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-72
+# text = শুধু পুলিস , মিলিটারি এবং মন্ত্রীদের গাড়ি টোলট্যাক্সের আওতায় পড়বে না ।
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = Only police, military and ministerial vehicles will not be subject to toll tax.
+1	শুধু	শুধু	ADV	_	_	10	advmod	_	_
+2	পুলিস	পুলিস	NOUN	_	Case=Nom|Number=Plur	7	nmod	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	মিলিটারি	মিলিটারি	NOUN	_	Case=Acc|Number=Plur	2	conj	_	_
+5	এবং	এবং	CCONJ	_	_	6	cc	_	_
+6	মন্ত্রীদের	মন্ত্রী	NOUN	_	Case=Gen|Number=Plur	2	conj	_	_
+7	গাড়ি	গাড়ি	NOUN	_	Case=Nom|Number=Sing	10	nsubj	_	_
+8	টোলট্যাক্সের	টোলট্যাক্স	NOUN	_	Case=Gen|Number=Sing	9	nmod:poss	_	_
+9	আওতায়	আওতা	NOUN	_	Case=Nom	10	obl	_	_
+10	পড়বে	পড়া	VERB	_	Person=3|Polite=Infm|Tense=Fut	0	root	_	_
+11	না	না	PART	_	_	10	advmod	_	_
+12	।	।	PUNCT	_	_	10	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-73
+# text = মুখ্যমন্ত্রী প্রস্তাবটি বিবেচনা করে  দেখবেন বলে প্রতিশ্রুতি দিয়েছেন ।
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = The Chief Minister has promised to consider the proposal.
+1	মুখ্যমন্ত্রী	মুখ্যমন্ত্রী	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	_
+2	প্রস্তাবটি	প্রস্তাব	NOUN	_	Case=Nom|Definite=Def|Number=Sing	4	obj	_	_
+3	বিবেচনা	বিবেচনা	NOUN	_	Case=Nom|VerbForm=Vnoun	4	compound:lvc	_	_
+4	করে	করা	VERB	_	Aspect=Perf|VerbForm=Part	5	acl	_	_
+5	দেখবেন	দেখা	VERB	_	Person=3|Polite=Form|Tense=Fut	8	advcl	_	_
+6	বলে	বলে	SCONJ	_	_	5	mark	_	_
+7	প্রতিশ্রুতি	প্রতিশ্রুতি	NOUN	_	Case=Nom|VerbForm=Vnoun	8	compound:lvc	_	_
+8	দিয়েছেন	দেওয়া	VERB	_	Aspect=Perf|Person=3|Polite=Form|Tense=Pres	0	root	_	_
+9	।	।	PUNCT	_	_	8	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-74
+# text = এই ধরনের উদ্যোগ নেওয়ার জন্যে তিনি জনি মালেককে ধন্যবাদ দিয়েছেন ।
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = He thanked Johnny Malek for taking such an initiative.
+1	এই	এই	DET	_	_	2	det	_	_
+2	ধরনের	ধরন	NOUN	_	Case=Gen|Number=Sing	3	nmod	_	_
+3	উদ্যোগ	উদ্যোগ	NOUN	_	Case=Nom|Number=Sing	4	obj	_	_
+4	নেওয়ার	নেওয়া	VERB	_	Case=Gen|VerbForm=Vnoun	10	advcl	_	_
+5	জন্যে	জন্য	ADP	_	_	4	case	_	AdpType=Post
+6	তিনি	তিনি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+7	জনি	জনি	PROPN	_	Case=Nom|Number=Sing	10	obj	_	_
+8	মালেককে	মালেক	PROPN	_	Case=Acc|Definite=Def|Number=Sing	7	flat	_	_
+9	ধন্যবাদ	ধন্যবাদ	NOUN	_	Case=Nom|VerbForm=Part	10	compound:lvc	_	_
+10	দিয়েছেন	দেওয়া	VERB	_	Aspect=Perf|Person=3|Polite=Form|Tense=Pres	0	root	_	_
+11	।	।	PUNCT	_	_	10	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-76
+# text = সপ্তম অবাক ।
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = Saptam is surprised
+1	সপ্তম	সপ্তম	PROPN	_	Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	_
+2	অবাক	অবাক	ADJ	_	_	0	root	_	_
+3	।	।	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-77
+# text = জনি মালেক বলে যে মানুষটার ছবি ছাপা হয়েছে তাকে কাল সে দেখে নি ।
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = Johnny Malek says he didn't see the man whose picture was printed yesterday.
+1	জনি	জনি	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+2	মালেক	মালেক	PROPN	_	Case=Nom|Number=Sing	1	flat	_	_
+3	বলে	বলা	VERB	_	Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+4	যে	যে	DET	_	_	5	det	_	_
+5	মানুষটার	মানুষ	NOUN	_	Case=Gen|Definite=Def|Number=Sing	6	nmod	_	_
+6	ছবি	ছবি	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	_
+7	ছাপা	ছাপা	NOUN	_	Case=Nom|VerbForm=Vnoun	8	compound:lvc	_	_
+8	হয়েছে	হওয়া	VERB	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Pres	9	acl	_	_
+9	তাকে	তার	PRON	_	Animacy=Anim|Case=Acc|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+10	কাল	কাল	NOUN	_	Case=Nom	12	obl:tmod	_	_
+11	সে	সে	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+12	দেখে	দেখে	VERB	_	Person=3|Polite=Infm|Tense=Pres	3	parataxis	_	_
+13	নি	না	PART	_	_	12	advmod	_	_
+14	।	।	PUNCT	_	_	3	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-78
+# text = তাহলে কি অন্য কাউকে জনি সাজিয়ে তার সঙ্গে দেখা করতে পাঠানো হয়েছিল ?
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = So, was someone else made to look like Johnny and sent to meet him?
+1	তাহলে	তাহলে	ADV	_	_	12	advmod	_	_
+2	কি	কি	PART	_	PronType=Int	12	mark	_	_
+3	অন্য	অন্য	ADJ	_	_	4	amod	_	_
+4	কাউকে	কেউ	NOUN	_	PronType=Ind	12	nsubj	_	_
+5	জনি	জনি	PROPN	_	Case=Nom|Number=Sing	6	obj	_	_
+6	সাজিয়ে	সাজানো	VERB	_	Aspect=Perf|VerbForm=Part	12	advcl	_	_
+7	তার	তার	PRON	_	Animacy=Anim|Case=Gen|Number=Sing|Person=3|PronType=Prs	10	obl	_	_
+8	সঙ্গে	সঙ্গ	ADP	_	_	7	case	_	_
+9	দেখা	দেখা	NOUN	_	Case=Nom|VerbForm=Vnoun	10	compound:lvc	_	_
+10	করতে	করা	VERB	_	Number=Sing|VerbForm=Inf|Voice=Act	12	advcl	_	Gender=Masc
+11	পাঠানো	পাঠানো	VERB	_	Case=Nom|VerbForm=Vnoun	12	compound:lvc	_	_
+12	হয়েছিল	হওয়া	AUX	_	Aspect=Prog|Person=3|Polite=Infm|Tense=Past	0	root	_	_
+13	?	?	PUNCT	_	_	12	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-79
+# text = একেবারে ভুল বোঝানো হয়েছিল সবাইকে ?
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = Was everyone completely misunderstood?
+1	একেবারে	একেবারে	ADV	_	_	4	advmod	_	_
+2	ভুল	ভুল	NOUN	_	_	4	obj	_	_
+3	বোঝানো	বোঝানো	NOUN	_	Case=Nom|VerbForm=Vnoun	4	compound:lvc	_	_
+4	হয়েছিল	হওয়া	VERB	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Past	0	root	_	_
+5	সবাইকে	সবাই	PRON	_	Animacy=Anim|Case=Acc|Number=Plur|Person=3|PronType=Prs	4	nsubj:pass	_	_
+6	?	?	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-82
+# text = সে কাগজের নিচের দিকে চোখ রাখতেই চমকে উঠল ।
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = He was startled as he looked down at the paper.
+1	সে	সে	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+2	কাগজের	কাগজ	NOUN	_	Case=Gen|Definite=Def|Number=Sing	3	nmod:poss	_	_
+3	নিচের	নিচ	NOUN	_	Case=Gen	6	obl	_	_
+4	দিকে	দিকে	ADP	_	_	3	case	_	AdpType=Post
+5	চোখ	চোখ	NOUN	_	Case=Nom|Number=Sing	6	compound:lvc	_	_
+6	রাখতেই	রাখা	VERB	_	VerbForm=Inf	8	advcl	_	_
+7	চমকে	চমক	ADJ	_	_	8	xcomp	_	_
+8	উঠল	উঠা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+9	।	।	PUNCT	_	_	8	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-83
+# text = একদিনে কলকাতার উত্তর - পূর্ব অঞ্চলের আটজন তোলাবাজ এবং মাস্তান নিহত হয়েছে ।
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = Eight toll collectors and con artists were killed in a single day in the northeast region of Kolkata.
+1	একদিনে	একদিন	NOUN	_	Case=Nom|Number=Sing	12	obl:tmod	_	_
+2	কলকাতার	কলকাতা	PROPN	_	Case=Gen|Number=Sing	6	nmod:poss	_	_
+3	উত্তর	উত্তর	ADJ	_	_	6	amod	_	_
+4	-	-	PUNCT	_	_	5	punct	_	_
+5	পূর্ব	পূর্ব	ADJ	_	_	3	compound	_	_
+6	অঞ্চলের	অঞ্চল	NOUN	_	Case=Gen|Number=Sing	8	nmod:poss	_	_
+7	আটজন	আটজন	NUM	_	NumType=Card	8	nummod	_	_
+8	তোলাবাজ	তোলাবাজ	NOUN	_	Case=Nom|Number=Sing	12	nsubj	_	_
+9	এবং	এবং	CCONJ	_	_	10	cc	_	_
+10	মাস্তান	মাস্তান	NOUN	_	Case=Nom|Number=Sing	8	conj	_	_
+11	নিহত	নিহত	ADJ	_	_	12	xcomp	_	_
+12	হয়েছে	হওয়া	VERB	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+13	।	।	PUNCT	_	_	12	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-84
+# text = পুলিসের সন্দেহ ওরা নিজেদের মধ্যে মারপিট করে মারা গিয়েছে ।
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = The police suspect that they died in a fight among themselves.
+1	পুলিসের	পুলিস	NOUN	_	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	সন্দেহ	সন্দেহ	NOUN	_	Case=Nom|Number=Sing	9	nsubj:outer	_	_
+3	ওরা	ও	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+4	নিজেদের	নিজ	PRON	_	Animacy=Anim|Case=Gen|Number=Plur|PronType=Prs	7	obl	_	_
+5	মধ্যে	মধ্যে	ADP	_	_	4	case	_	_
+6	মারপিট	মারপিট	NOUN	_	Case=Nom|VerbForm=Vnoun	7	compound:lvc	_	_
+7	করে	করা	VERB	_	Aspect=Perf|VerbForm=Part	9	advcl	_	_
+8	মারা	মারা	NOUN	_	Case=Nom|VerbForm=Vnoun	9	compound:lvc	_	_
+9	গিয়েছে	যাওয়া	VERB	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+10	।	।	PUNCT	_	_	9	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-85
+# text = এই আটজনের মাত্র দুজন মুসলমান , বাকিরা হিন্দু ।
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = Only two of these eight are Muslims, the rest are Hindus.
+1	এই	এই	DET	_	_	2	det	_	_
+2	আটজনের	আটজন	NUM	_	NumType=Card	5	nummod	_	_
+3	মাত্র	মাত্র	ADV	_	_	5	advmod	_	_
+4	দুজন	দুজন	NUM	_	NumType=Card	5	nummod	_	_
+5	মুসলমান	মুসলমান	NOUN	_	Case=Nom	0	root	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	বাকিরা	বাকি	PRON	_	Case=Nom|Number=Plur	8	nsubj	_	_
+8	হিন্দু	হিন্দু	NOUN	_	Case=Nom	5	conj	_	_
+9	।	।	PUNCT	_	_	5	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-86
+# text = অবাঙালি হিন্দু ।
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = Non-Bengali Hindu.
+1	অবাঙালি	অবাঙালি	ADJ	_	_	2	amod	_	_
+2	হিন্দু	হিন্দু	NOUN	_	Case=Nom	0	root	_	_
+3	।	।	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-87
+# text = হঠাৎ এতগুলো সমাজবিরোধী একসঙ্গে মারা পড়ল কেন তা পুলিস ভেবে পাচ্ছে না ।
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = The police cannot figure out why so many anti-socials suddenly died together.
+1	হঠাৎ	হঠাৎ	ADV	_	_	6	advmod	_	_
+2	এতগুলো	এত	DET	_	_	3	det	_	_
+3	সমাজবিরোধী	সমাজবিরোধী	NOUN	_	Case=Nom	6	nsubj	_	_
+4	একসঙ্গে	একসঙ্গে	ADV	_	_	6	advmod	_	_
+5	মারা	মারা	VERB	_	Case=Nom|VerbForm=Vnoun	6	compound:lvc	_	_
+6	পড়ল	পড়া	AUX	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+7	কেন	কেন	ADV	_	_	6	advmod	_	_
+8	তা	তা	PRON	_	Animacy=Inan|Case=Nom|Number=Sing|Person=3|PronType=Rel	10	obj	_	_
+9	পুলিস	পুলিস	NOUN	_	Case=Nom|Number=Plur	10	nsubj	_	_
+10	ভেবে	ভাবা	VERB	_	Aspect=Perf|VerbForm=Part	6	advcl	_	_
+11	পাচ্ছে	পাওয়া	AUX	_	Aspect=Prog|Person=3|Polite=Infm|Tense=Pres	10	aux	_	_
+12	না	না	PART	_	_	10	advmod	_	_
+13	।	।	PUNCT	_	_	10	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-88
+# text = কিন্তু এলাকার লোকরা খুশি হয়েছে ।
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = But the people of the area are happy.
+1	কিন্তু	কিন্তু	CCONJ	_	_	5	cc	_	_
+2	এলাকার	এলাকা	NOUN	_	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	লোকরা	লোক	NOUN	_	Case=Nom|Definite=Def|Number=Plur	5	nsubj	_	_
+4	খুশি	খুশি	ADJ	_	_	5	xcomp	_	_
+5	হয়েছে	হওয়া	VERB	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+6	।	।	PUNCT	_	_	5	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-89
+# text = তারা ভাবছে এর ফলে শান্তি ফিরে আসবে ।
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = They are thinking this will bring peace.
+1	তারা	তিনি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	ভাবছে	ভাবা	VERB	_	Aspect=Prog|Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+3	এর	এর	PRON	_	Animacy=Inan|Case=Gen|Number=Sing|Person=3|PronType=Prs	7	obl	_	_
+4	ফলে	ফলে	ADP	_	_	3	case	_	AdpType=Post
+5	শান্তি	শান্তি	NOUN	_	Case=Nom	7	nsubj	_	_
+6	ফিরে	ফেরা	VERB	_	Aspect=Perf|VerbForm=Part	7	compound:lvc	_	_
+7	আসবে	আসা	VERB	_	Person=3|Polite=Infm|Tense=Fut	2	ccomp	_	_
+8	।	।	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-90
+# text = চা খেয়ে মাধবিকাকে ফোন করল সপ্তম ।
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = After drinking tea, Saptam called Madhabika
+1	চা	চা	NOUN	_	Case=Nom	2	obj	_	_
+2	খেয়ে	খাওয়া	VERB	_	Aspect=Perf|VerbForm=Part	5	advcl	_	_
+3	মাধবিকাকে	মাধবিকা	PROPN	_	Case=Acc|Definite=Def|Number=Sing	5	obj	_	Gender=Masc
+4	ফোন	ফোন	NOUN	_	Case=Nom|VerbForm=Vnoun	5	compound:lvc	_	_
+5	করল	করা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+6	সপ্তম	সপ্তম	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+7	।	।	PUNCT	_	_	5	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-91
+# text = মাধবিকাই ফোন ধরল , ' কী ব্যাপার ?
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = Madhvika picked up the phone, 'What's the matter?'
+1	মাধবিকাই	মাধবিকা	PROPN	_	Case=Nom|Definite=Def|Number=Sing	3	nsubj	_	_
+2	ফোন	ফোন	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
+3	ধরল	ধরা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	'	'	PUNCT	_	_	7	punct	_	_
+6	কী	কী	PRON	_	PronType=Int	7	nsubj	_	_
+7	ব্যাপার	ব্যাপার	NOUN	_	Case=Nom|Number=Sing	3	ccomp	_	_
+8	?	?	PUNCT	_	_	7	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-92
+# text = কাল বিকেলে টেলিফোন করলে না কেন ? '
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = Why didn’t you make a phone call yesterday evening?
+1	কাল	কাল	NOUN	_	Case=Nom	2	compound	_	_
+2	বিকেলে	বিকেল	NOUN	_	Case=Nom|Number=Sing	4	obl:tmod	_	_
+3	টেলিফোন	টেলিফোন	NOUN	_	Case=Nom|Number=Sing	4	compound:lvc	_	_
+4	করলে	করা	VERB	_	Person=2|Polite=Infm|Tense=Past	0	root	_	_
+5	না	না	PART	_	_	4	advmod	_	_
+6	কেন	কেন	ADV	_	_	4	advmod	_	_
+7	?	?	PUNCT	_	_	4	punct	_	_
+8	'	'	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-93
+# text = ' করেছিলাম , তখন তুমি বেরিয়ে গেছ ! '
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = I did it, but you had already left by then
+1	'	'	PUNCT	_	_	2	punct	_	_
+2	করেছিলাম	করা	VERB	_	Aspect=Perf|Person=1|Tense=Past	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	তখন	তখন	ADV	_	_	8	advmod	_	_
+5	তুমি	তুমি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|PronType=Prs	8	nsubj	_	_
+6-7	বেরিয়ে	_	_	_	_	_	_	_	_
+6	বের	বাহির	NOUN	_	Polarity=Pos|VerbForm=Part|Voice=Act	7	compound:lvc	_	_
+7	হয়ে	হওয়া	VERB	_	Aspect=Perf|VerbForm=Part	8	compound:lvc	_	_
+8	গেছ	যাওয়া	VERB	_	Aspect=Perf|Person=2|Polite=Infm|Tense=Pres	2	parataxis	_	_
+9	!	!	PUNCT	_	_	8	punct	_	_
+10	'	'	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-95
+# text = তখন নিশ্চয়ই বিকেল নয় । '
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = It must not be afternoon then.
+1	তখন	তখন	ADV	_	_	4	advmod	_	_
+2	নিশ্চয়ই	নিশ্চয়	ADV	_	_	4	advmod	_	_
+3	বিকেল	বিকেল	NOUN	_	Case=Nom	4	nsubj	_	_
+4	নয়	নয়	VERB	_	Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	।	।	PUNCT	_	_	4	punct	_	_
+6	'	'	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-96
+# text = ' বাড়িতেও করেছিলাম , তোমার ফেরার ঠিক ছিল না । '
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = I called at home too, it wasn’t the right time for you to come back
+1	'	'	PUNCT	_	_	3	punct	_	_
+2	বাড়িতেও	বাড়ি	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
+3	করেছিলাম	করা	VERB	_	Aspect=Perf|Person=1|Tense=Past	0	root	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	তোমার	তোমার	PRON	_	Animacy=Anim|Case=Gen|Number=Sing|Person=2|PronType=Prs	6	nmod:poss	_	Deixis=NULL
+6	ফেরার	ফেরা	NOUN	_	Case=Nom|VerbForm=Vnoun	8	nsubj	_	_
+7	ঠিক	ঠিক	ADV	_	_	8	advmod	_	_
+8	ছিল	ছিল	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin	3	conj	_	_
+9	না	না	PART	_	_	8	advmod	_	_
+10	।	।	PUNCT	_	_	3	punct	_	_
+11	'	'	PUNCT	_	_	3	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-97
+# text = ' স্বাভাবিক । '
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = Natural
+1	'	'	PUNCT	_	_	2	punct	_	_
+2	স্বাভাবিক	স্বাভাবিক	ADJ	_	_	0	root	_	_
+3	।	।	PUNCT	_	_	2	punct	_	_
+4	'	'	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-99
+# text = ' ওহো ! সরি ।
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = Oh! Sorry.
+1	'	'	PUNCT	_	_	2	punct	_	_
+2	ওহো	ওহো	INTJ	_	_	4	discourse	_	_
+3	!	!	PUNCT	_	_	2	punct	_	_
+4	সরি	সরি	X	_	Foreign=Yes	0	root	_	_
+5	।	।	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-100
+# text = তাহলে অফিসে ফোন করব ? '
+# book = MegheMatiteMakhamakhi_SamareshMajumdar
+# text_en = "Then should I call the office?"
+1	তাহলে	তাহলে	ADV	_	_	4	advmod	_	_
+2	অফিসে	অফিস	NOUN	_	Case=Loc|Number=Sing	4	obl	_	_
+3	ফোন	ফোন	NOUN	_	Case=Nom|VerbForm=Vnoun	4	compound:lvc	_	_
+4	করব	করা	VERB	_	Person=1|Tense=Fut	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+6	'	'	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-101
+# text = এখন আমি তোমাদের কারও কথা ভাবছি না ।
+# book = Provas_BaniBasu
+# text_en = Right now, I'm not thinking about any of you.
+1	এখন	এখন	ADV	_	_	6	advmod	_	_
+2	আমি	আমি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+3	তোমাদের	তোমাদের	PRON	_	Animacy=Anim|Case=Gen|Number=Plur|Person=2|PronType=Prs	4	nmod:poss	_	_
+4	কারও	কার	PRON	_	PronType=Ind	5	nmod	_	_
+5	কথা	কথা	NOUN	_	Case=Nom|Number=Sing	6	obj	_	_
+6	ভাবছি	ভাবা	VERB	_	Aspect=Prog|Person=1|Tense=Pres	0	root	_	_
+7	না	না	PART	_	_	6	advmod	_	_
+8	।	।	PUNCT	_	_	6	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-102
+# text = আমি আশ্চর্য হয়ে অনুভব করছি তোমরা আমার জীবনে কতটা আপতিক ।
+# book = Provas_BaniBasu
+1	আমি	আমি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|Polite=NULL|PronType=Prs	5	nsubj	_	Deixis=NULL
+2	আশ্চর্য	আশ্চর্য	ADJ	_	_	5	compound	_	_
+3	হয়ে	হওয়া	AUX	_	Aspect=Perf|VerbForm=Part	5	advcl	_	_
+4	অনুভব	অনুভব	ADJ	_	_	5	compound	_	_
+5	করছি	করা	VERB	_	Aspect=Perf|Tense=Pres	10	advcl	_	_
+6	তোমরা	তুমি	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|Person=2|Polite=Infm|PronType=Prs	10	nsubj	_	Deixis=NULL
+7	আমার	আমি	PRON	_	Animacy=Anim|Case=Gen|Number=Sing|Person=1|Polite=NULL|PronType=Prs	8	nmod	_	Deixis=NULL|Gender=Fem
+8	জীবনে	জীবন	NOUN	_	Case=Acc|Number=Sing|Person=3	10	obl	_	_
+9	কতটা	কত	ADV	_	PronType=Ind	10	advmod	_	_
+10	আপতিক	আপতিক	ADJ	_	_	0	root	_	_
+11	।	।	PUNCT	_	_	10	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-103
+# text = ইন্সিডেন্টাল , আক্সিডেন্টাল ।
+# book = Provas_BaniBasu
+# text_en = Incidental, accidental
+1	ইন্সিডেন্টাল	ইন্সিডেন্টাল	X	_	Foreign=Yes	0	root	_	_
+2	,	'	PUNCT	_	_	3	punct	_	_
+3	আক্সিডেন্টাল	আক্সিডেন্টাল	X	_	Foreign=Yes	1	conj	_	_
+4	।	।	PUNCT	_	_	1	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-104
+# text = পুবালির জায়গায় অন্য কেউও থাকতে পারত ।
+# book = Provas_BaniBasu
+# text_en = Anyone else could have been in Pubali's place.
+1	পুবালির	পুবালি	PROPN	_	Case=Gen|Definite=Def|Number=Sing	2	nmod:poss	_	_
+2	জায়গায়	জায়গা	NOUN	_	Case=Loc|Number=Sing	5	obl	_	_
+3	অন্য	অন্য	DET	_	Case=Nom	4	det	_	_
+4	কেউও	কেউ	PRON	_	PronType=Ind	5	nsubj	_	_
+5	থাকতে	থাকা	VERB	_	VerbForm=Inf	0	root	_	_
+6	পারত	পারা	AUX	_	Aspect=Hab|Person=3|Polite=Infm|Tense=Past	5	aux	_	_
+7	।	।	PUNCT	_	_	5	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-106
+# text = তোমাদের আকুতি আমাকে ছোঁবে না ।
+# book = Provas_BaniBasu
+# text_en = Your wishes will not touch me.
+1	তোমাদের	তোমাদের	PRON	_	Animacy=Anim|Case=Gen|Number=Plur|Person=2|PronType=Prs	2	nmod:poss	_	_
+2	আকুতি	আকুতি	NOUN	_	Case=Nom|Number=Sing|Person=3	4	nsubj	_	Gender=Fem
+3	আমাকে	আমাকে	PRON	_	Animacy=Anim|Case=Acc|Number=Plur|Person=3|PronType=Prs	4	obj	_	_
+4	ছোঁবে	ছোঁয়া	VERB	_	Person=3|Polite=Infm|Tense=Fut	0	root	_	_
+5	না	না	PART	_	_	4	advmod	_	_
+6	।	।	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-107
+# text = আমি চলে যাব মহাশূন্যে ।
+# book = Provas_BaniBasu
+# text_en = I will depart into the great void.
+1	আমি	আমি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	চলে	চলা	VERB	_	Aspect=Perf|VerbForm=Part	3	compound:lvc	_	_
+3	যাব	যাওয়া	VERB	_	Person=1|Tense=Fut	0	root	_	_
+4	মহাশূন্যে	মহাশূন্য	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
+5	।	।	PUNCT	_	_	3	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-109
+# text = এই চলে যেতে হওয়াটা শকিং , কিছু প্ল্যান করেছিলাম তো সারা জীবনের দাসত্বের পর মুক্তির জন্য ।
+# book = Provas_BaniBasu
+# text_en = It's shocking (that I have to ) leave, I had some plans for freedom after a lifetime of slavery.
+1	এই	এই	DET	_	_	3	det	_	_
+2	চলে	চলা	AUX	_	Aspect=Perf|VerbForm=Part	3	aux	_	_
+3	যেতে	যাওয়া	VERB	_	VerbForm=Inf	5	csubj	_	_
+4	হওয়াটা	হওয়া	NOUN	_	Case=Nom|Definite=Def|Number=Sing|VerbForm=Vnoun	3	compound:lvc	_	_
+5	শকিং	শকিং	ADJ	_	_	0	root	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	কিছু	কিছু	PRON	_	PronType=Ind	9	obj	_	_
+8	প্ল্যান	প্ল্যান	NOUN	_	Case=Nom|Number=Sing	9	compound:lvc	_	_
+9	করেছিলাম	করা	VERB	_	Aspect=Perf|Person=1|Tense=Past	5	parataxis	_	_
+10	তো	তো	ADV	_	_	9	advmod	_	_
+11	সারা	সারা	ADJ	_	_	12	amod	_	_
+12	জীবনের	জীবন	NOUN	_	Case=Gen|Number=Sing|Poss=Yes	13	nmod:poss	_	_
+13	দাসত্বের	দাসত্ব	NOUN	_	Case=Gen|Number=Sing	9	obl	_	_
+14	পর	পর	ADP	_	_	13	case	_	AdpType=Post
+15	মুক্তির	মুক্ত	NOUN	_	Case=Gen|Number=Sing	9	obl	_	_
+16	জন্য	জন্য	ADP	_	_	15	case	_	AdpType=Post
+17	।	।	PUNCT	_	_	9	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-110
+# text = আনন্দের জন্য ।
+# book = Provas_BaniBasu
+# text_en = For joy
+1	আনন্দের	আনন্দ	NOUN	_	Case=Gen|Number=Sing	0	root	_	_
+2	জন্য	জন্য	ADP	_	_	1	case	_	AdpType=Post
+3	।	।	PUNCT	_	_	1	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-112
+# text = মানতে পারছি না ।
+# book = Provas_BaniBasu
+# text_en = I can't accept it.
+1	মানতে	মানা	VERB	_	VerbForm=Inf	0	root	_	_
+2	পারছি	পারা	AUX	_	Aspect=Prog|Person=1|Tense=Pres	1	aux	_	_
+3	না	না	PART	_	_	1	advmod	_	_
+4	।	।	PUNCT	_	_	1	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-113
+# text = এই বীভৎস শেষকে , কদর্য , বীভৎস , নৃশংস ...
+# book = Provas_BaniBasu
+# text_en = This horrific end- ugly, atrocious, brutal.
+1	এই	এই	DET	_	_	3	det	_	_
+2	বীভৎস	বীভৎস	ADJ	_	_	3	amod	_	_
+3	শেষকে	শেষ	NOUN	_	Case=Acc|Number=Sing	0	root	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	কদর্য	কদর্য	ADJ	_	_	3	parataxis	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	বীভৎস	বীভৎস	ADJ	_	_	5	conj	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	নৃশংস	নৃশংস	ADJ	_	_	5	conj	_	_
+10	...	...	PUNCT	_	_	5	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-114
+# text = আমাকে তোমরা নিজের সঙ্গে বোঝাপড়া করে নিতে দাও ।
+# book = Provas_BaniBasu
+# text_en = Let me make a deal with you.
+1	আমাকে	আমাকে	PRON	_	Animacy=Anim|Case=Acc|Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
+2	তোমরা	তুমি	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs	8	nsubj	_	_
+3	নিজের	নিজ	PRON	_	Animacy=Anim|Case=Gen|Number=Sing|PronType=Prs	6	obl	_	_
+4	সঙ্গে	সঙ্গ	ADP	_	_	3	case	_	_
+5	বোঝাপড়া	বোঝাপড়া	NOUN	_	Case=Nom|VerbForm=Vnoun	6	compound:lvc	_	_
+6	করে	করা	VERB	_	Aspect=Perf|VerbForm=Part	7	compound:lvc	_	_
+7	নিতে	নেওয়া	VERB	_	VerbForm=Inf	8	compound:svc	_	_
+8	দাও	দেওয়া	VERB	_	Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+9	।	।	PUNCT	_	_	8	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-115
+# text = একটু সময় । একা একা ।
+# book = Provas_BaniBasu
+# text_en = A little time. All alone.
+1	একটু	একটু	ADJ	_	_	2	amod	_	_
+2	সময়	সময়	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+3	।	।	PUNCT	_	_	2	punct	_	_
+4	একা	একা	ADJ	_	_	2	amod	_	_
+5	একা	একা	ADJ	_	_	4	fixed	_	_
+6	।	।	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-116
+# text = -- একদম খালি পেটে আ্যালজোলাম দেব মা ? ভাঙা গলায় বলল শমী ।
+# book = Provas_BaniBasu
+# text_en = "Should I give you Alzolam on an empty stomach, Mom?" Shomi said in a broken voice.
+1	--	--	PUNCT	_	_	6	punct	_	_
+2	একদম	একদম	ADV	_	_	3	advmod	_	_
+3	খালি	খালি	ADJ	_	_	4	amod	_	_
+4	পেটে	পেট	NOUN	_	Case=Nom|Number=Sing	6	obl	_	_
+5	আ্যালজোলাম	আ্যালজোলাম	PROPN	_	Case=Nom|Definite=Def|Number=Sing	6	obj	_	_
+6	দেব	দেওয়া	NOUN	_	Person=1|Tense=Fut	11	ccomp	_	_
+7	মা	মা	NOUN	_	Case=Nom|Number=Sing	6	vocative	_	_
+8	?	?	PUNCT	_	_	6	punct	_	_
+9	ভাঙা	ভাঙা	ADJ	_	_	10	amod	_	_
+10	গলায়	গলা	NOUN	_	Case=Nom|Number=Sing	11	obl	_	_
+11	বলল	বলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+12	শমী	শমী	PROPN	_	Case=Nom|Definite=Def|Number=Sing	11	nsubj	_	_
+13	।	।	PUNCT	_	_	11	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-117
+# text = -- না দিয়ে উপায় ।
+# book = Provas_BaniBasu
+# text_en = There's no choice but to give
+1	--	--	PUNCT	_	_	3	punct	_	_
+2	না	না	PART	_	_	3	advmod	_	_
+3	দিয়ে	দেওয়া	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	_
+4	উপায়	উপায়	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
+5	।	।	PUNCT	_	_	3	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-118
+# text = একটা জিনিস দাঁতে কাটল না , শুধু জল ।
+# book = Provas_BaniBasu
+# text_en = I couldn’t bite into anything, just water.
+1	একটা	একটা	NUM	_	_	2	nummod	_	_
+2	জিনিস	জিনিস	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+3	দাঁতে	দাঁত	NOUN	_	Case=Nom|Number=Sing	4	obl	_	_
+4	কাটল	কাটা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+5	না	না	PART	_	_	4	advmod	_	_
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	শুধু	শুধু	ADJ	_	_	8	amod	_	_
+8	জল	জল	NOUN	_	Case=Nom|Number=Sing	4	conj	_	_
+9	।	।	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-119
+# text = জল নাকি অমৃত ।
+# book = Provas_BaniBasu
+# text_en = Water or nectar?
+1	জল	জল	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+2	নাকি	নাকি	ADV	_	_	3	advmod	_	_
+3	অমৃত	অমৃত	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+4	।	।	PUNCT	_	_	3	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-120
+# text = আমরা নাকি জলের মর্ম না বুঝেই জল খাই ।
+# book = Provas_BaniBasu
+# text_en = We drink water without understanding its meaning.
+1	আমরা	আমি	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	_
+2	নাকি	নাকি	ADV	_	_	8	advmod	_	_
+3	জলের	জল	NOUN	_	Case=Gen|Poss=Yes	4	nmod:poss	_	_
+4	মর্ম	মর্ম	NOUN	_	Case=Nom|Number=Sing	6	obj	_	_
+5	না	না	PART	_	_	6	advmod	_	_
+6	বুঝেই	বুঝা	VERB	_	Aspect=Perf|VerbForm=Part	8	advcl	_	_
+7	জল	জল	NOUN	_	Case=Nom	8	obj	_	_
+8	খাই	খাওয়া	VERB	_	Person=1|Tense=Pres	0	root	_	_
+9	।	।	PUNCT	_	_	8	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-121
+# text = একটু তো স্থির হতে হবে , শরীরটাকে বিশ্রাম , শান্তি দিতে হবে ।
+# book = Provas_BaniBasu
+# text_en = You need to calm down a bit, give your body some rest and peace.
+1	একটু	একটু	ADV	_	_	5	advmod	_	_
+2	তো	তো	ADV	_	_	5	advmod	_	_
+3	স্থির	স্থির	ADJ	_	_	5	xcomp	_	_
+4	হতে	হওয়া	VERB	_	VerbForm=Inf	5	compound:lvc	_	_
+5	হবে	হওয়া	VERB	_	Person=3|Polite=Infm|Tense=Fut	0	root	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	শরীরটাকে	শরীর	NOUN	_	Case=Acc|Definite=Def|Number=Sing	12	iobj	_	_
+8	বিশ্রাম	বিশ্রাম	NOUN	_	Case=Nom|Number=Sing	12	obj	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	শান্তি	শান্তি	NOUN	_	Case=Nom|Number=Sing	8	conj	_	_
+11	দিতে	দেওয়া	VERB	_	VerbForm=Inf	12	compound:lvc	_	_
+12	হবে	হওয়া	AUX	_	Person=3|Polite=Infm|Tense=Fut	5	parataxis	_	_
+13	।	।	PUNCT	_	_	5	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-122
+# text = আমি ডক্টর সেনকে জিজ্ঞেস করে নিয়েছি ।
+# book = Provas_BaniBasu
+# text_en = I asked Dr. Sen.
+1	আমি	আমি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+2	ডক্টর	ডক্টর	PROPN	_	Case=Nom|Number=Sing	6	obj	_	_
+3	সেনকে	সেন	PROPN	_	Case=Acc|Definite=Def|Number=Sing	2	flat	_	Gender=Masc
+4	জিজ্ঞেস	জিজ্ঞেস	NOUN	_	VerbForm=Vnoun	5	compound:lvc	_	_
+5	করে	করা	VERB	_	Aspect=Perf|VerbForm=Part	6	compound:lvc	_	_
+6	নিয়েছি	নেওয়া	VERB	_	Aspect=Perf|Person=1|Tense=Pres	0	root	_	_
+7	।	।	PUNCT	_	_	6	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-123
+# text = -- উনি আসবেন না ?
+# book = Provas_BaniBasu
+# text_en = -- Won't he come?
+1	--	--	PUNCT	_	_	3	punct	_	_
+2	উনি	উনি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	আসবেন	আসা	VERB	_	Person=3|Polite=Form|Tense=Fut	0	root	_	_
+4	না	না	PART	_	_	3	advmod	_	_
+5	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-124
+# text = -- আসবেন । কাল ।
+# book = Provas_BaniBasu
+# text_en = Come. tomorrow
+1	--	--	PUNCT	_	_	2	punct	_	_
+2	আসবেন	আসা	VERB	_	Person=3|Polite=Form|Tense=Fut	0	root	_	_
+3	।	।	PUNCT	_	_	2	punct	_	_
+4	কাল	কাল	NOUN	_	Case=Nom|Number=Sing	2	parataxis	_	_
+5	।	।	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-125
+# text = এখন ফেস করতে পারছেন না ।
+# book = Provas_BaniBasu
+# text_en = He can't face it right now.
+1	এখন	এখন	ADV	_	_	3	advmod	_	_
+2	ফেস	ফেস	NOUN	_	Case=Nom|Number=Sing	3	compound:lvc	_	_
+3	করতে	করা	VERB	_	VerbForm=Inf	0	root	_	_
+4	পারছেন	পারা	AUX	_	Aspect=Prog|Person=3|Polite=Form|Tense=Pres	3	aux	_	_
+5	না	না	PART	_	_	3	advmod	_	_
+6	।	।	PUNCT	_	_	3	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-126
+# text = এতদিন ধরে শরীরটা নিছক খারাপ ।
+# book = Provas_BaniBasu
+# text_en = My body has just been bad for so long.
+1	এতদিন	এতদিন	NOUN	_	Case=Nom|Number=Plur	5	obl	_	_
+2	ধরে	ধরে	ADP	_	_	1	case	_	AdpType=Post
+3	শরীরটা	শরীর	NOUN	_	Case=Nom|Definite=Def|Number=Sing	5	nsubj	_	_
+4	নিছক	নিছক	ADJ	_	_	5	amod	_	_
+5	খারাপ	খারাপ	ADJ	_	_	0	root	_	_
+6	।	।	PUNCT	_	_	5	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-127
+# text = সিটি স্ক্যান পর্যন্ত  হল ।
+# book = Provas_BaniBasu
+# text_en = Even a CT scan was done.
+1	সিটি	সিটি	NOUN	_	Case=Nom|Definite=Def|Number=Sing	2	compound	_	Gender=Masc
+2	স্ক্যান	স্ক্যান	NOUN	_	Case=Nom|Number=Sing|Person=3	4	nsubj	_	Gender=Masc
+3	পর্যন্ত	পর্যন্ত	ADV	_	_	4	advmod	_	_
+4	হল	হওয়া	VERB	_	Mood=Ind|Number=Sing|Tense=Past	0	root	_	_
+5	।	।	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-128
+# text = কিছু ধরতে পারলেন না ।
+# book = Provas_BaniBasu
+# text_en = Couldn't find anything.
+1	কিছু	কিছু	PRON	_	PronType=Ind	2	obj	_	_
+2	ধরতে	ধরা	VERB	_	VerbForm=Inf	0	root	_	_
+3	পারলেন	পারা	AUX	_	Person=3|Polite=Form|Tense=Past	2	aux	_	_
+4	না	না	PART	_	_	2	advmod	_	_
+5	।	।	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-129
+# text = অনেক , অনেকক্ষণ ছটফট করার পর প্রভাসরঞ্জন অবশেষ ঘুমোলেন ।
+# book = Provas_BaniBasu
+# text_en = After suffering for a long time, Prabhas Ranjan finally fell asleep.
+1	অনেক	অনেক	ADV	_	PronType=Ind	5	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	অনেকক্ষণ	অনেকক্ষণ	ADV	_	_	1	conj	_	_
+4	ছটফট	ছটফট	NOUN	_	Case=Nom|Number=Sing	5	compound:lvc	_	_
+5	করার	করা	VERB	_	VerbForm=Vnoun	9	obl	_	_
+6	পর	পর	ADP	_	_	5	case	_	AdpType=Post
+7	প্রভাসরঞ্জন	প্রভাসরঞ্জন	PROPN	_	Case=Nom	9	nsubj	_	_
+8	অবশেষ	অবশেষ	ADV	_	_	9	advmod	_	_
+9	ঘুমোলেন	ঘুমানো	VERB	_	Person=3|Polite=Form|Tense=Past	0	root	_	_
+10	।	।	PUNCT	_	_	9	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-130
+# text = মানুষটা একদিনে বুড়ো , ছোট্ট হয়ে গেছেন ।
+# book = Provas_BaniBasu
+# text_en = The man has become old and small in one day.
+1	মানুষটা	মানুষ	NOUN	_	Case=Nom|Definite=Def|Number=Sing	7	nsubj	_	Gender=Masc
+2	একদিনে	একদিন	NOUN	_	Case=Nom|Number=Sing	7	obl:tmod	_	_
+3	বুড়ো	বুড়ো	ADJ	_	_	7	xcomp	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	ছোট্ট	ছোট	ADJ	_	_	3	conj	_	_
+6	হয়ে	হওয়া	VERB	_	Aspect=Perf|VerbForm=Part	7	compound:lvc	_	_
+7	গেছেন	যাওয়া	VERB	_	Aspect=Perf|Person=3|Polite=Form|Tense=Pres	0	root	_	_
+8	।	।	PUNCT	_	_	7	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-132
+# text = শেষে কি ?
+# book = Provas_BaniBasu
+# text_en = What happened in the end?
+1	শেষে	শেষে	ADV	_	_	2	advmod	_	_
+2	কি	কি	PRON	_	PronType=Int	0	root	_	_
+3	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-133
+# text = প্রভাস ঘুমোতে লাগলেন ওষুধ ঘুম ।
+# book = Provas_BaniBasu
+# text_en = Prabhas started sleeping due to the medicine.
+1	প্রভাস	প্রভাস	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+2	ঘুমোতে	ঘুমানো	VERB	_	VerbForm=Inf	3	compound:lvc	_	_
+3	লাগলেন	লাগা	VERB	_	Person=3|Polite=Form|Tense=Past	0	root	_	_
+4	ওষুধ	ওষুধ	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	_
+5	ঘুম	ঘুম	NOUN	_	Case=Nom	3	obj	_	_
+6	।	।	PUNCT	_	_	3	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-134
+# text = কিন্তু পুবালি সারারাত এ পাশ ও পাশ করলেন ।
+# book = Provas_BaniBasu
+# text_en = But Pabali kept turning from side to side all night.
+1	কিন্তু	কিন্তু	CCONJ	_	_	8	cc	_	_
+2	পুবালি	পুবালি	PROPN	_	Case=Nom|Definite=Def|Number=Sing	8	nsubj	_	_
+3	সারারাত	সারারাত	ADV	_	_	8	advmod	_	_
+4	এ	এ	DET	_	_	5	det	_	_
+5	পাশ	পাশ	NOUN	_	Case=Nom|Number=Sing	8	compound:lvc	_	_
+6	ও	ও	CCONJ	_	_	7	cc	_	_
+7	পাশ	পাশ	NOUN	_	Case=Nom|Number=Sing	5	conj	_	_
+8	করলেন	করা	VERB	_	Person=3|Polite=Form|Tense=Past	0	root	_	_
+9	।	।	PUNCT	_	_	8	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-135
+# text = একদম ভোরবেলায় এক ঝলক ঘুম এল ।
+# book = Provas_BaniBasu
+# text_en = Just at the break of dawn, a glimpse of sleep came.
+1	একদম	একদম	ADJ	_	_	2	amod	_	_
+2	ভোরবেলায়	ভোরবেলা	NOUN	_	Case=Nom|Number=Sing	6	obl:tmod	_	_
+3	এক	এক	DET	_	NumType=Card	5	det	_	_
+4	ঝলক	ঝলক	NOUN	_	Case=Nom|Number=Sing	3	clf	_	_
+5	ঘুম	ঘুম	NOUN	_	Case=Nom	6	obj	_	_
+6	এল	আসা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+7	।	।	PUNCT	_	_	6	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-136
+# text = এবং শমী প্রায় সারা রাত পায়চারি করে কাটাল ।
+# book = Provas_BaniBasu
+# text_en = And Shomi spent almost the entire night walking.
+1	এবং	এবং	CCONJ	_	_	8	cc	_	_
+2	শমী	শমী	PROPN	_	Case=Nom|Definite=Def|Number=Sing	8	nsubj	_	_
+3	প্রায়	প্রায়	ADV	_	_	4	advmod	_	_
+4	সারা	সারা	ADJ	_	_	5	amod	_	_
+5	রাত	রাত	NOUN	_	Case=Nom|Number=Sing	8	obl:tmod	_	_
+6	পায়চারি	পায়চারি	NOUN	_	Case=Nom|VerbForm=Vnoun	7	compound:lvc	_	_
+7	করে	করা	VERB	_	Aspect=Perf|VerbForm=Vnoun	8	advcl	_	_
+8	কাটাল	কাটানো	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+9	।	।	PUNCT	_	_	8	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-137
+# text = জীবনে এই প্রথম দেখল চন্দ্রহীন অমাবস্যার নিশুতি রাত কাকে বলে ।
+# book = Provas_BaniBasu
+# text_en = For the first time in his life, he saw what a moonless new moon night truly feels like.
+1	জীবনে	জীবন	NOUN	_	Case=Nom|Number=Sing	4	obl	_	_
+2	এই	এই	DET	_	_	3	det	_	_
+3	প্রথম	প্রথম	ADJ	_	NumType=Ord	4	amod	_	_
+4	দেখল	দেখা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+5	চন্দ্রহীন	চন্দ্রহীন	ADJ	_	_	6	amod	_	_
+6	অমাবস্যার	অমাবস্যা	NOUN	_	Case=Nom|Number=Sing	8	nmod:poss	_	_
+7	নিশুতি	নিশুতি	ADJ	_	_	8	amod	_	_
+8	রাত	রাত	NOUN	_	Case=Nom|Number=Sing	10	obj	_	_
+9	কাকে	কাকে	PRON	_	PronType=Int	10	iobj	_	_
+10	বলে	বলা	VERB	_	Aspect=Perf|VerbForm=Part	4	advcl	_	_
+11	।	।	PUNCT	_	_	10	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-138
+# text = অজস্র নক্ষত্র ।
+# book = Provas_BaniBasu
+# text_en = Countless stars.
+1	অজস্র	অজস্র	ADJ	_	_	2	amod	_	_
+2	নক্ষত্র	নক্ষত্র	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+3	।	।	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-139
+# text = যেন আকাশের গায়ে বসন্তের গুটি ।
+# book = Provas_BaniBasu
+# text_en = Like a spring flower in the sky.
+1	যেন	যেন	ADV	_	_	5	advmod	_	_
+2	আকাশের	আকাশ	NOUN	_	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	গায়ে	গা	NOUN	_	Case=Nom|Number=Sing	5	obl	_	_
+4	বসন্তের	বসন্ত	NOUN	_	Case=Nom|Number=Sing	5	nmod:poss	_	_
+5	গুটি	গুটি	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+6	।	।	PUNCT	_	_	5	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-140
+# text = কী করে লোকে তারাভরা রাত নিয়ে কবিত্ব করে সে বুঝতে পারল না ।
+# book = Provas_BaniBasu
+# text_en = He couldn't understand how people could write poetry about starry nights.
+1	কী	কী	PART	_	PronType=Int	8	advmod	_	_
+2	করে	করা	PART	_	_	1	fixed	_	_
+3	লোকে	লোক	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	_
+4	তারাভরা	তারাভরা	ADJ	_	_	5	amod	_	_
+5	রাত	রাত	NOUN	_	Case=Nom|Number=Sing	8	obl	_	_
+6	নিয়ে	নিয়ে	ADP	_	_	5	case	_	_
+7	কবিত্ব	কবিত্ব	NOUN	_	Case=Nom|Number=Sing	8	obj	_	_
+8	করে	করা	VERB	_	Person=3|Polite=Infm|Tense=Pres	10	ccomp	_	_
+9	সে	সে	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+10	বুঝতে	বুঝা	VERB	_	VerbForm=Inf	0	root	_	_
+11	পারল	পারা	AUX	_	Person=3|Polite=Infm|Tense=Past	10	aux	_	_
+12	না	না	PART	_	_	10	advmod	_	_
+13	।	।	PUNCT	_	_	10	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-141
+# text = প্যাঁচার ডাক রাতটাকে আরও কর্কশ করে দিচ্ছিল ।
+# book = Provas_BaniBasu
+# text_en = The sound of the owl was making the night even more hoarse.
+1	প্যাঁচার	প্যাঁচা	NOUN	_	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	ডাক	ডাক	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	_
+3	রাতটাকে	রাত	NOUN	_	Case=Acc|Number=Sing	6	iobj	_	_
+4	আরও	আরও	ADJ	_	_	5	amod	_	_
+5	কর্কশ	কর্কশ	ADJ	_	_	6	xcomp	_	_
+6	করে	করা	VERB	_	Aspect=Perf|VerbForm=Part	7	advcl	_	_
+7	দিচ্ছিল	দেওয়া	AUX	_	Aspect=Prog|Person=3|Polite=Infm|Tense=Past	0	root	_	_
+8	।	।	PUNCT	_	_	7	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-142
+# text = গাছগুলোর হাওয়ায় নড়াচড়া ভৌতিক ।
+# book = Provas_BaniBasu
+# text_en = The movement of the trees in the wind is eerie.
+1	গাছগুলোর	গাছ	NOUN	_	Case=Gen|Definite=Def|Number=Plur	3	nmod:poss	_	_
+2	হাওয়ায়	হাওয়া	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	_
+3	নড়াচড়া	নড়াচড়া	NOUN	_	Case=Nom	4	nsubj	_	_
+4	ভৌতিক	ভৌতিক	ADJ	_	_	0	root	_	_
+5	।	।	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-143
+# text = এখনও দিদিকে বলা হয়নি কিছু ।
+# book = Provas_BaniBasu
+# text_en = Nothing has been said to Didi yet.
+1	এখনও	এখনও	ADV	_	PronType=Prs	3	advmod	_	_
+2	দিদিকে	দিদি	NOUN	_	Case=Acc|Number=Sing	3	iobj	_	_
+3	বলা	বলা	VERB	_	VerbForm=Vnoun	0	root	_	_
+4-5	হয়নি	_	_	_	_	_	_	_	_
+4	হয়	হওয়া	AUX	_	Aspect=Perf|VerbForm=Part	3	aux	_	_
+5	নি	না	PART	_	_	3	advmod	_	Number[psor]=Sing|Person[psor]=1
+6	কিছু	কিছু	PRON	_	PronType=Ind	3	obj	_	_
+7	।	।	PUNCT	_	_	3	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-144
+# text = দিদি আবার ভীষণ ইমোশনাল ।
+# book = Provas_BaniBasu
+# text_en = Sister is very emotional
+1	দিদি	দিদি	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+2	আবার	আবার	ADV	_	_	4	advmod	_	_
+3	ভীষণ	ভীষণ	ADV	_	_	4	advmod	_	_
+4	ইমোশনাল	ইমোশনাল	ADJ	_	_	0	root	_	_
+5	।	।	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-145
+# text = সে বেচারি কিছুই জানে না ।
+# book = Provas_BaniBasu
+# text_en = That poor girl doesn't know anything.
+1	সে	সে	DET	_	_	2	det	_	_
+2	বেচারি	বেচারি	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+3	কিছুই	কিছু	PRON	_	PronType=Ind	4	obj	_	_
+4	জানে	জানা	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	_
+5	না	না	PART	_	_	4	advmod	_	_
+6	।	।	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-146
+# text = একেবারে আকাশ থেকে পড়বে ।
+# book = Provas_BaniBasu
+# text_en = It will fall straight from the sky
+1	একেবারে	একবার	ADV	_	_	4	advmod	_	_
+2	আকাশ	আকাশ	NOUN	_	Case=Acc|Number=Sing	4	obl	_	_
+3	থেকে	থেকে	ADP	_	_	2	case	_	AdpType=Post
+4	পড়বে	পড়া	VERB	_	Person=3|Polite=Infm|Tense=Fut	0	root	_	_
+5	।	।	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-147
+# text = এমন হাউমাউ করবে যে তাকে সামলাতেই কয়েকজন লোক লাগবে ।
+# book = Provas_BaniBasu
+# text_en = She will make such a fuss that it will take several people to handle her.
+1	এমন	এমন	DET	_	_	2	det	_	_
+2	হাউমাউ	হাউমাউ	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
+3	করবে	করা	VERB	_	Person=3|Polite=Infm|Tense=Fut	0	root	_	_
+4	যে	যে	SCONJ	_	_	9	mark	_	_
+5	তাকে	তার	PRON	_	Animacy=Anim|Case=Acc|Number=Sing|PronType=Prs	6	obj	_	_
+6	সামলাতেই	সামলানো	VERB	_	VerbForm=Inf	9	advcl	_	_
+7	কয়েকজন	কয়েকজন	DET	_	_	8	det	_	_
+8	লোক	লোক	NOUN	_	Case=Nom|Number=Plur	9	obj	_	_
+9	লাগবে	লাগা	VERB	_	Person=3|Polite=Infm|Tense=Fut	3	acl	_	_
+10	।	।	PUNCT	_	_	3	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-148
+# text = বাবা বরাবর অন্যরকম ।
+# book = Provas_BaniBasu
+# text_en = Father is always different.
+1	বাবা	বাবা	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+2	বরাবর	বরাবর	ADV	_	_	3	advmod	_	_
+3	অন্যরকম	অন্যরকম	ADJ	_	_	0	root	_	_
+4	।	।	PUNCT	_	_	3	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-149
+# text = সরকারি অফিসারের চাকরিটার সঙ্গে কোনওদিনই নিজেকে মানিয়ে নিতে পারেননি ।
+# book = Provas_BaniBasu
+# text_en = He could never adapt to the job of a government officer.
+1	সরকারি	সরকারি	NOUN	_	Case=Nom	2	compound	_	_
+2	অফিসারের	অফিসার	NOUN	_	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	চাকরিটার	চাকরি	NOUN	_	Case=Gen|Definite=Def|Number=Sing	9	obl	_	_
+4	সঙ্গে	সঙ্গে	ADP	_	_	3	case	_	AdpType=Post
+5-6	কোনওদিনই	_	_	_	_	_	_	_	_
+5	কোন	কোন	DET	_	_	6	det	_	_
+6	দিনই	দিন	NOUN	_	Case=Nom|Number=Sing	9	obl:tmod	_	_
+7	নিজেকে	নিজ	PRON	_	Animacy=Anim|Case=Acc|Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
+8	মানিয়ে	মানানো	VERB	_	Aspect=Perf|VerbForm=Part	9	advcl	_	_
+9	নিতে	নেওয়া	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	_
+10-11	পারেননি	_	_	_	_	_	_	_	_
+10	পারেন	পারা	AUX	_	Person=3|Polite=Form|Tense=Pres	9	aux	_	_
+11	নি	না	PART	_	_	9	advmod	_	_
+12	।	।	PUNCT	_	_	9	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-150
+# text = তবু করে গেছেন সংসারের কথা ভেবে ।
+# book = Provas_BaniBasu
+# text_en = Yet he did it thinking of the family.
+1	তবু	তবু	ADV	_	_	3	advmod	_	_
+2	করে	করা	VERB	_	Aspect=Perf|VerbForm=Part	3	compound:lvc	_	_
+3	গেছেন	যাওয়া	VERB	_	Aspect=Prog|Person=3|Tense=Pres	0	root	_	_
+4	সংসারের	সংসার	NOUN	_	Case=Gen|Number=Sing|Poss=Yes	5	nmod:poss	_	_
+5	কথা	কথা	NOUN	_	Case=Nom|Number=Sing	6	obl	_	_
+6	ভেবে	ভাবা	VERB	_	Aspect=Perf|VerbForm=Part	3	advcl	_	_
+7	।	।	PUNCT	_	_	6	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-154
+# text = ছেলেরা হেসে এ ওর গায়ে গড়িয়ে পড়ে ।
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = The boys laughed and rolled over him.
+1	ছেলেরা	ছেলে	NOUN	_	Case=Nom|Definite=Def|Number=Plur	7	nsubj	_	_
+2	হেসে	হাসা	VERB	_	Aspect=Perf|VerbForm=Part	6	advcl	_	_
+3	এ	এ	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=3|PronType=Prs	6	iobj	_	_
+4	ওর	ওর	PRON	_	Animacy=Anim|Case=Gen|Number=Sing|Person=3|PronType=Prs	5	nmod:poss	_	_
+5	গায়ে	গা	NOUN	_	Case=Nom|Definite=Def|Number=Sing	6	obl	_	_
+6	গড়িয়ে	গড়ানো	VERB	_	Aspect=Perf|VerbForm=Part	7	advcl	_	_
+7	পড়ে	পড়া	VERB	_	Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+8	।	।	PUNCT	_	_	7	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-155
+# text = ফুর্তির চোটে কেউ একজন গল্পকারকে চ্যাংদোলা করে তুলে ফেললো ।
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = Someone, in a fit of rage, tossed a storyteller aside.
+1	ফুর্তির	ফুর্তি	NOUN	_	Case=Gen	2	nmod:poss	_	_
+2	চোটে	চোট	NOUN	_	Case=Nom	9	obl	_	_
+3	কেউ	কেউ	PRON	_	PronType=Ind	9	obj	_	_
+4	একজন	একজন	NUM	_	_	5	nummod	_	_
+5	গল্পকারকে	গল্পকার	NOUN	_	Case=Acc|Number=Sing	9	obj	_	_
+6	চ্যাংদোলা	চ্যাংদোলা	NOUN	_	Case=Nom|VerbForm=Vnoun	7	compound:lvc	_	_
+7	করে	করা	VERB	_	Aspect=Perf|VerbForm=Part	9	advcl	_	_
+8	তুলে	তোলা	VERB	_	Aspect=Perf|VerbForm=Part	9	compound:lvc	_	_
+9	ফেললো	ফেলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+10	।	।	PUNCT	_	_	9	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-157
+# text = তখনকার মতন গোলমাল চাপা পড়লো ।
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = The commotion was sppressed for that moment.
+1	তখনকার	তখনকার	ADV	_	_	5	advmod	_	_
+2	মতন	মতন	ADP	_	_	1	case	_	_
+3	গোলমাল	গোলমাল	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+4	চাপা	চাপা	NOUN	_	Case=Nom|VerbForm=Vnoun	5	compound:lvc	_	_
+5	পড়লো	পড়া	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+6	।	।	PUNCT	_	_	5	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-158
+# text = পরদিন কিন্তু দেখা গেল ঘটনাটা একেবারে অমূলক নয় ।
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = The next day, however, it turned out that the incident was not completely unfounded.
+1	পরদিন	পরদিন	ADV	_	_	4	advmod	_	_
+2	কিন্তু	কিন্তু	CCONJ	_	_	4	cc	_	_
+3	দেখা	দেখা	NOUN	_	VerbForm=Vnoun	4	compound:lvc	_	_
+4	গেল	যাওয়া	AUX	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+5	ঘটনাটা	ঘটনা	NOUN	_	Case=Nom|Definite=Def|Number=Sing	8	nsubj	_	_
+6	একেবারে	একবার	ADV	_	_	8	advmod	_	_
+7	অমূলক	অমূলক	ADJ	_	_	8	xcomp	_	_
+8	নয়	নয়	VERB	_	Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+9	।	।	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-159
+# text = একটা কিছু ঘটেছে পাকপাড়ার রাজবাড়িতে ।
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = Something happened at the royal palace in Pakpara.
+1	একটা	একটা	NUM	_	_	2	nummod	_	_
+2	কিছু	কিছু	PRON	_	PronType=Ind	3	nsubj	_	_
+3	ঘটেছে	ঘটা	VERB	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Pres	0	root	_	Gender=Fem
+4	পাকপাড়ার	পাকপাড়া	PROPN	_	Case=Nom|Number=Sing|Poss=Yes	5	nmod:poss	_	_
+5	রাজবাড়িতে	রাজবাড়ি	NOUN	_	Case=Loc|Number=Sing	3	obl:lmod	_	_
+6	।	।	PUNCT	_	_	3	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-161
+# text = তাহাতে সঙ্গের কর্নেল গুলি করিতে হুকুম দেন । '
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = Then the colonel with him gave the order to shoot.
+1	তাহাতে	তাহাতে	ADV	_	_	7	advmod	_	_
+2	সঙ্গের	সঙ্গ	ADJ	_	_	3	amod	_	_
+3	কর্নেল	কর্নেল	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	_
+4	গুলি	গুলি	NOUN	_	Case=Nom|Number=Sing	5	compound:lvc	_	_
+5	করিতে	করা	VERB	_	VerbForm=Inf	7	advcl	_	_
+6	হুকুম	হুকুম	NOUN	_	Case=Nom|Number=Sing	7	obj	_	_
+7	দেন	দেওয়া	VERB	_	Person=3|Polite=Form|Tense=Pres	0	root	_	_
+8	।	।	PUNCT	_	_	7	punct	_	_
+9	'	'	PUNCT	_	_	7	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-162
+# text = কিন্তু ক্লাসের ছেলেরা কেউ খবরের কাগজের বিবরণ সত্য বলে মানতে রাজি নয় ।
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = But none of the boys in the class are willing to accept the newspaper's description as true.
+1	কিন্তু	কিন্তু	CCONJ	_	_	12	cc	_	_
+2	ক্লাসের	ক্লাস	NOUN	_	Case=Gen|Number=Sing|Poss=Yes	3	nmod:poss	_	_
+3	ছেলেরা	ছেলে	NOUN	_	Case=Nom|Number=Plur	4	nmod	_	_
+4	কেউ	কেউ	PRON	_	PronType=Ind	12	nsubj	_	_
+5	খবরের	খবর	NOUN	_	Case=Gen|Number=Sing	6	nmod	_	_
+6	কাগজের	কাগজ	NOUN	_	Case=Gen|Number=Plur|Poss=Yes	7	nmod:poss	_	_
+7	বিবরণ	বিবরণ	NOUN	_	Case=Nom|Number=Sing	10	obj	_	_
+8	সত্য	সত্য	ADJ	_	_	9	xcomp	_	_
+9	বলে	বলা	VERB	_	Aspect=Perf|VerbForm=Part	10	advcl	_	_
+10	মানতে	মানা	VERB	_	VerbForm=Inf	12	advcl	_	_
+11	রাজি	রাজি	ADJ	_	_	12	xcomp	_	_
+12	নয়	না	VERB	_	Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	।	।	PUNCT	_	_	12	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-163
+# text = পর দিন তারা আরো অনেকে একটা করে গল্প বানিয়ে এনেছে ।
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = The next day, many more of them came up with a story.
+1	পর	পর	ADJ	_	_	2	amod	_	_
+2	দিন	দিন	NOUN	_	Case=Nom|Number=Sing	10	obl:tmod	_	_
+3	তারা	তারা	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
+4	আরো	আরো	ADJ	_	_	5	amod	_	_
+5	অনেকে	অনেক	PRON	_	Number=Plur|PronType=Ind	10	nsubj:outer	_	_
+6	একটা	একটা	NUM	_	_	10	obl	_	_
+7	করে	করে	ADP	_	_	6	case	_	_
+8	গল্প	গল্প	NOUN	_	Case=Nom|Number=Sing	10	obj	_	_
+9	বানিয়ে	বানানো	VERB	_	Aspect=Perf|VerbForm=Part	10	compound:svc	_	_
+10	এনেছে	আনা	VERB	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+11	।	।	PUNCT	_	_	10	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-164
+# text = কেউ বললে , লোক মারা গেছে দশ জন , কেউ বললে পঞ্চাশ ।
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = Some said ten people had died, others said fifty.
+1	কেউ	কেউ	PRON	_	PronType=Ind	2	nsubj	_	_
+2	বললে	বলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	লোক	লোক	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
+5	মারা	মারা	NOUN	_	Case=Nom|VerbForm=Vnoun	6	compound:lvc	_	_
+6	গেছে	যাওয়া	VERB	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Pres	2	ccomp	_	_
+7	দশ	দশ	NUM	_	NumType=Card	8	nummod	_	_
+8	জন	জন	NOUN	_	Case=Nom	6	obj	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	কেউ	কেউ	PRON	_	PronType=Ind	11	nsubj	_	_
+11	বললে	বলা	VERB	_	Person=3|Polite=Infm|Tense=Past	6	conj	_	_
+12	পঞ্চাশ	পঞ্চাশ	NUM	_	NumType=Card	11	xcomp	_	_
+13	।	।	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-165
+# text = কেউ বললে , দৌড়ে পালাতে গিয়ে বড় রাজার ঠ্যাং ভেঙে গেছে ।
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = Someone said, "The great king's leg was broken while running away."
+1	কেউ	কেউ	PRON	_	PronType=Ind	2	nsubj	_	_
+2	বললে	বলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	দৌড়ে	দৌড়ে	ADV	_	_	5	advmod	_	_
+5	পালাতে	পালানো	VERB	_	VerbForm=Inf	10	advcl	_	_
+6	গিয়ে	যাওয়া	AUX	_	Aspect=Perf|VerbForm=Part	5	aux	_	_
+7	বড়	বড়	ADJ	_	_	8	amod	_	_
+8	রাজার	রাজা	PROPN	_	Case=Gen|Number=Sing	9	nmod:poss	_	_
+9	ঠ্যাং	ঠ্যাং	NOUN	_	Case=Nom|Number=Sing	10	nsubj	_	_
+10	ভেঙে	ভাঙা	VERB	_	Aspect=Perf|VerbForm=Part	2	ccomp	_	_
+11	গেছে	যাওয়া	AUX	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Pres	10	aux	_	_
+12	।	।	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-167
+# text = এদিকে তিনি আবার সাঁতার জানেন না ।
+# book = SeiSomoy_SunilGangopadhyay
+1	এদিকে	এদিকে	ADV	_	_	5	advmod	_	_
+2	তিনি	তিনি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+3	আবার	আবার	ADV	_	_	5	advmod	_	_
+4	সাঁতার	সাঁতার	NOUN	_	Case=Nom	5	obj	_	_
+5	জানেন	জানা	VERB	_	Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+6	না	না	PART	_	_	5	advmod	_	_
+7	।	।	PUNCT	_	_	5	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-168
+# text = সেদিন জল খাবার ছুটির সময় নবীনকুমার পালিয়েছিল কলেজ থেকে ।
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = That day, during lunch break, Naveen Kumar ran away from college.
+1	সেদিন	সেদিন	PRON	_	Case=Nom|PronType=Rel	7	obl	_	_
+2	জল	জল	NOUN	_	Case=Nom	4	compound	_	_
+3	খাবার	খাবার	NOUN	_	Case=Nom	2	fixed	_	_
+4	ছুটির	ছুটি	NOUN	_	Case=Gen|Number=Sing	5	nmod	_	_
+5	সময়	সময়	NOUN	_	Case=Nom|Number=Sing	7	obl	_	_
+6	নবীনকুমার	নবীনকুমার	PROPN	_	Case=Nom|Number=Sing	7	nsubj	_	_
+7	পালিয়েছিল	পালানো	VERB	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Past	0	root	_	_
+8	কলেজ	কলেজ	NOUN	_	Case=Nom|Number=Sing	7	obl	_	_
+9	থেকে	থেকে	ADP	_	_	8	case	_	AdpType=Post
+10	।	।	PUNCT	_	_	7	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-169
+# text = তার কৌতূহল অপরিসীম , সে আসল ঘটনাটা জানতে চায় ।
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = His curiosity is immense, he wants to know the real story.
+1	তার	তার	PRON	_	Animacy=Anim|Case=Gen|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+2	কৌতূহল	কৌতূহল	NOUN	_	Case=Nom|Number=Sing	9	parataxis	_	_
+3	অপরিসীম	অপরিসীম	ADJ	_	_	2	amod	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	সে	সে	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+6	আসল	আসল	ADJ	_	_	7	amod	_	_
+7	ঘটনাটা	ঘটনা	NOUN	_	Case=Nom|Definite=Def|Number=Sing	8	obj	_	_
+8	জানতে	জানা	VERB	_	VerbForm=Inf	9	compound:svc	_	_
+9	চায়	চাওয়া	VERB	_	Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+10	।	।	PUNCT	_	_	9	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-170
+# text = কলেজের গেটের কাছে তার জুড়িগাড়ি সর্বক্ষণ অপেক্ষা করে , তাতে বসে থাকে দুলাল ।
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = His car is always waiting near the college gate, and Dulal sits in it.
+1	কলেজের	কলেজ	NOUN	_	Case=Gen|Number=Sing|Poss=Yes	2	nmod:poss	_	_
+2	গেটের	গেট	NOUN	_	Case=Gen|Number=Sing	8	obl	_	_
+3	কাছে	কাছে	ADP	_	_	2	case	_	AdpType=Post
+4	তার	তার	PRON	_	Case=Acc,Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
+5	জুড়িগাড়ি	জুড়িগাড়ি	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	_
+6	সর্বক্ষণ	সর্বক্ষণ	ADV	_	_	8	advmod	_	_
+7	অপেক্ষা	অপেক্ষা	NOUN	_	Case=Nom|VerbForm=Vnoun	8	compound:lvc	_	_
+8	করে	করা	VERB	_	Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	তাতে	তাতে	PRON	_	Animacy=Inan|Case=Loc|Number=Sing|Person=3|PronType=Dem	12	obl	_	_
+11	বসে	বসা	VERB	_	Aspect=Perf|VerbForm=Part	12	compound:lvc	_	_
+12	থাকে	থাকা	VERB	_	Person=3|Polite=Infm|Tense=Pres	8	ccomp	_	_
+13	দুলাল	দুলাল	PROPN	_	Case=Nom|Number=Sing	12	nsubj	_	_
+14	।	।	PUNCT	_	_	8	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-171
+# text = নবীনকুমার গাড়ি হাঁকাতে বললো পাকপাড়ার দিকে ।
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = Naveen Kumar said, "drive the car towards Pakpara".
+1	নবীনকুমার	নবীনকুমার	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+2	গাড়ি	গাড়ি	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
+3	হাঁকাতে	হাঁকানো	VERB	_	VerbForm=Inf	4	advcl	_	_
+4	বললো	বলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+5	পাকপাড়ার	পাকপাড়া	PROPN	_	Case=Gen|Number=Sing	4	obl:lmod	_	_
+6	দিকে	দিকে	ADP	_	_	5	case	_	_
+7	।	।	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-172
+# text = এই বয়েসেই নবীনকুমার বংশমর্যাদা সম্পর্কে অতিশয় সচেতন !
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = At this age, Navin Kumar is very aware of his lineage!
+1	এই	এই	DET	_	_	2	det	_	_
+2	বয়েসেই	বয়স	NOUN	_	Case=Nom|Number=Sing	7	obl	_	_
+3	নবীনকুমার	নবীনকুমার	PROPN	_	Case=Nom|Number=Sing	7	nsubj	_	_
+4	বংশমর্যাদা	বংশমর্যাদা	NOUN	_	Case=Nom|Number=Sing	7	obl	_	_
+5	সম্পর্কে	সম্পর্কে	ADP	_	_	4	case	_	AdpType=Post
+6	অতিশয়	অতিশয়	ADV	_	_	7	advmod	_	_
+7	সচেতন	সচেতন	ADJ	_	_	0	root	_	_
+8	!	!	PUNCT	_	_	7	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-173
+# text = অনিমন্ত্রিত অবস্থায় কোনো বড় মানুষের গৃহে যাওয়া তার মানায় না ।
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = It is not appropriate for him to go to a big man's house uninvited.
+1	অনিমন্ত্রিত	অনিমন্ত্রিত	ADJ	_	_	2	amod	_	_
+2	অবস্থায়	অবস্থা	NOUN	_	Case=Nom|Number=Sing	7	obl	_	_
+3	কোনো	কোনো	DET	_	PronType=Ind	5	det	_	_
+4	বড়	বড়	ADJ	_	_	5	amod	_	_
+5	মানুষের	মানুষ	NOUN	_	Case=Gen|Number=Sing|Poss=Yes	6	nmod:poss	_	_
+6	গৃহে	গৃহ	NOUN	_	Case=Nom|Number=Sing	7	obl	_	_
+7	যাওয়া	যাওয়া	VERB	_	Case=Nom|VerbForm=Vnoun	9	dislocated	_	_
+8	তার	তার	PRON	_	Animacy=Anim|Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	nsubj	_	_
+9	মানায়	মানা	VERB	_	Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AdpType=Post
+10	না	না	PART	_	_	9	advmod	_	_
+11	।	।	PUNCT	_	_	9	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-174
+# text = সে পাকপাড়ার রাজাদের বাড়ির সামনে এসে গাড়িতে বসেই তাকিয়ে দেখলো দেউড়ির দিকে ।
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = He arrived in front of the house of the Pakpara kings and sat in the car, looking at the courtyard.
+1	সে	সে	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+2	পাকপাড়ার	পাকপাড়া	NOUN	_	Case=Gen|Number=Sing|Poss=Yes	3	nmod:poss	_	_
+3	রাজাদের	রাজা	NOUN	_	Case=Gen|Number=Plur|Poss=Yes	4	nmod:poss	_	_
+4	বাড়ির	বাড়ি	NOUN	_	Case=Gen|Number=Sing	6	obl	_	_
+5	সামনে	সামনে	ADP	_	_	4	case	_	_
+6	এসে	আসা	VERB	_	Aspect=Perf|VerbForm=Part	10	advcl	_	_
+7	গাড়িতে	গাড়ি	NOUN	_	Case=Loc|Definite=Def|Number=Sing	8	obl	_	_
+8	বসেই	বসা	VERB	_	Aspect=Perf|VerbForm=Part	10	advcl	_	_
+9	তাকিয়ে	তাকিয়ে	ADV	_	_	10	advmod	_	_
+10	দেখলো	দেখা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+11	দেউড়ির	দেউড়ি	NOUN	_	Case=Gen|Number=Sing	10	obl	_	_
+12	দিকে	দিকে	ADP	_	_	11	case	_	AdpType=Post
+13	।	।	PUNCT	_	_	10	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-175
+# text = সেখানে অস্বাভাবিকতার কোনো কিছু নেই ।
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = There is nothing unusual there.
+1	সেখানে	সেখানে	PRON	_	Case=Nom|PronType=Rel	5	obl	_	_
+2	অস্বাভাবিকতার	অস্বাভাবিকতা	NOUN	_	Case=Gen|Number=Sing	4	nmod	_	_
+3	কোনো	কোনো	DET	_	_	4	det	_	_
+4	কিছু	কিছু	PRON	_	PronType=Ind	5	nsubj	_	_
+5	নেই	নেই	VERB	_	Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	।	।	PUNCT	_	_	5	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-177
+# text = নবীনকুমার দুলালকে পাঠিয়ে বলল , যা , গিয়ে জেনে আয় তো সঠিক কী হয়েচে ।
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = Naveen Kumar sent Dulal and said, "Go and find out what happened."
+1	নবীনকুমার	নবীনকুমার	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+2	দুলালকে	দুলাল	PROPN	_	Case=Acc|Definite=Def|Number=Sing	3	iobj	_	_
+3	পাঠিয়ে	পাঠানো	VERB	_	Aspect=Perf|VerbForm=Part	4	advcl	_	_
+4	বলল	বলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	যা	যাওয়া	VERB	_	Person=2|Polite=Intm|Tense=Pres	4	ccomp	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	গিয়ে	যাওয়া	VERB	_	Aspect=Perf|VerbForm=Part	9	compound:svc	_	_
+9	জেনে	জানা	VERB	_	Aspect=Perf|VerbForm=Part	10	compound:svc	_	_
+10	আয়	আসা	VERB	_	Person=2|Polite=Infm|Tense=Pres	14	advcl	_	_
+11	তো	তো	ADV	_	_	14	advmod	_	_
+12	সঠিক	সঠিক	ADJ	_	_	13	amod	_	_
+13	কী	কী	PRON	_	PronType=Ind	14	obj	_	_
+14	হয়েচে	হওয়া	VERB	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Pres	6	parataxis	_	_
+15	।	।	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-178
+# text = দুলাল দেউড়ির কাছে গিয়ে কয়েকজনকে জিজ্ঞাসাবাদ করে ফিরে এল ।
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = Dulal went to the door and questioned a few people before returning.
+1	দুলাল	দুলাল	PROPN	_	Case=Nom|Definite=Def|Number=Sing	9	nsubj	_	_
+2	দেউড়ির	দেউড়ি	NOUN	_	Case=Nom|Number=Sing	4	obl:lmod	_	_
+3	কাছে	কাছে	ADP	_	_	2	case	_	AdpType=Post
+4	গিয়ে	যাওয়া	VERB	_	Aspect=Perf|VerbForm=Part	9	advcl	_	_
+5	কয়েকজনকে	কয়েকজন	PRON	_	Case=Acc|Number=Plur	7	obj	_	_
+6	জিজ্ঞাসাবাদ	জিজ্ঞাসাবাদ	NOUN	_	Case=Nom|VerbForm=Vnoun	7	compound:lvc	_	_
+7	করে	করা	VERB	_	Person=3|Polite=Infm|Tense=Pres	9	advcl	_	_
+8	ফিরে	ফিরা	VERB	_	Aspect=Perf|VerbForm=Part	9	compound:lvc	_	_
+9	এল	আসা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+10	।	।	PUNCT	_	_	9	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-179
+# text = একটা কিছু ঘটেছে ঠিকই ।
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = Something has definitely happened.
+1	একটা	এক	NUM	_	_	2	nummod	_	_
+2	কিছু	কিছু	PRON	_	PronType=Ind	3	nsubj	_	_
+3	ঘটেছে	ঘটা	VERB	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+4	ঠিকই	ঠিক	ADV	_	_	3	advmod	_	_
+5	।	।	PUNCT	_	_	3	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-180
+# text = তবে অতি সামান্য ব্যাপার ।
+# book = SeiSomoy_SunilGangopadhyay
+1	তবে	তবে	CCONJ	_	_	4	cc	_	_
+2	অতি	অতি	ADJ	_	_	3	amod	_	_
+3	সামান্য	সামান্য	ADJ	_	_	4	amod	_	_
+4	ব্যাপার	ব্যাপার	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+5	।	।	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-181
+# text = একজন নতুন গোছের ফিরিঙ্গি শিকারী এদিকে এসে ঘোরাঘুরি করছিল দু'দিন আগে ।
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = A new group of feral hunters had been roaming around here two days ago.
+1	একজন	একজন	NUM	_	NumType=Card	5	nummod	_	_
+2	নতুন	নতুন	ADJ	_	_	3	amod	_	_
+3	গোছের	গোছ	NOUN	_	Case=Acc|Number=Plur	5	nmod	_	_
+4	ফিরিঙ্গি	ফিরিঙ্গি	ADJ	_	_	5	amod	_	_
+5	শিকারী	শিকারী	NOUN	_	Case=Nom|Number=Sing|Person=3	9	nsubj	_	Gender=Masc
+6	এদিকে	এদিকে	ADV	_	_	7	advmod	_	_
+7	এসে	আসা	VERB	_	Aspect=Perf|VerbForm=Part	9	advcl	_	_
+8	ঘোরাঘুরি	ঘোরাঘুরি	NOUN	_	Case=Nom|VerbForm=Vnoun	9	compound:lvc	_	_
+9	করছিল	করা	VERB	_	Aspect=Prog|Person=3|Polite=Infm|Tense=Past	0	root	_	_
+10	দু'দিন	দু'দিন	NUM	_	NumType=Card	9	obl:tmod	_	_
+11	আগে	আগে	ADP	_	_	10	case	_	_
+12	।	।	PUNCT	_	_	9	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-182
+# text = পাকপাড়ার দিকে প্রচুর শেয়াল , এমনকি দিনের বেলার দিকেও দেখা যায় শেয়ালদের ঘোরাঘুরি করতে ।
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = There are a lot of foxes in the Pakpara area, and foxes can even be seen roaming around during the day.
+1	পাকপাড়ার	পাকপাড়া	NOUN	_	Case=Gen|Number=Sing	11	obl:lmod	_	_
+2	দিকে	দিকে	ADP	_	_	1	case	_	_
+3	প্রচুর	প্রচুর	ADJ	_	_	4	amod	_	_
+4	শেয়াল	শেয়াল	NOUN	_	Case=Nom|Number=Sing	11	nsubj	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	এমনকি	এমনকি	ADV	_	_	11	advmod	_	_
+7	দিনের	দিন	NOUN	_	Case=Gen|Number=Sing|Poss=Yes	8	nmod:poss	_	_
+8	বেলার	বেলা	NOUN	_	Case=Gen|Number=Sing	11	obl:tmod	_	_
+9	দিকেও	দিকে	ADP	_	_	8	case	_	_
+10	দেখা	দেখা	NOUN	_	Case=Nom|VerbForm=Vnoun	11	compound:lvc	_	_
+11	যায়	যাওয়া	VERB	_	Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+12	শেয়ালদের	শেয়াল	NOUN	_	Case=Gen|Definite=Def|Number=Plur	14	nsubj	_	_
+13	ঘোরাঘুরি	ঘোরাঘুরি	NOUN	_	Case=Nom|Number=Sing	14	compound:lvc	_	_
+14	করতে	করা	VERB	_	VerbForm=Inf	11	advcl	_	_
+15	।	।	PUNCT	_	_	11	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-184
+# text = কিন্তু শিকারের ঝোঁক একবার মাথায় চাপলে তখন আর সাদা চামড়াদের কোন জ্ঞান থাকে না ।
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = But once the hunting instincts are ingrained in the head, white people no longer have any sense.
+1	কিন্তু	কিন্তু	CCONJ	_	_	13	cc	_	_
+2	শিকারের	শিকার	NOUN	_	Case=Gen|Number=Sing|Poss=Yes	3	nmod:poss	_	_
+3	ঝোঁক	ঝোঁক	NOUN	_	Case=Nom	6	obj	_	_
+4	একবার	একবার	ADV	_	_	6	advmod	_	_
+5	মাথায়	মাথা	NOUN	_	Case=Nom|Number=Sing	6	obl	_	_
+6	চাপলে	চাপা	VERB	_	Person=2|Polite=Infm|Tense=Past	13	advcl	_	_
+7	তখন	তখন	ADV	_	_	13	obl	_	_
+8	আর	আর	ADV	_	_	13	advmod	_	_
+9	সাদা	সাদা	ADJ	_	_	10	amod	_	_
+10	চামড়াদের	চামড়া	NOUN	_	Case=Gen|Number=Plur	13	nsubj	_	_
+11	কোন	কোন	DET	_	_	12	det	_	_
+12	জ্ঞান	জ্ঞান	NOUN	_	Case=Nom|Number=Sing	13	obj	_	_
+13	থাকে	থাকা	VERB	_	Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+14	না	না	PART	_	_	13	advmod	_	_
+15	।	।	PUNCT	_	_	13	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-185
+# text = তর্কাতর্কির সুযোগে শেয়ালটা পালিয়ে যাচ্ছে ভেবে শিকারীটি তখন একজন দারোয়ানকেই গুলি করে মেরে দেয় ।
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = The hunter thought the fox was running away by taking advantage of the argument, so he shot and killed one of the gatekeepers.
+1	তর্কাতর্কির	তর্কাতর্কি	NOUN	_	Case=Gen|Poss=Yes	2	nmod:poss	_	_
+2	সুযোগে	সুযোগ	NOUN	_	Case=Nom|Number=Sing	4	obl	_	_
+3	শেয়ালটা	শেয়াল	NOUN	_	Case=Nom|Definite=Def|Number=Sing	4	obj	_	_
+4	পালিয়ে	পালানো	VERB	_	Aspect=Perf|VerbForm=Part	6	advcl	_	_
+5	যাচ্ছে	যাওয়া	AUX	_	Aspect=Prog|Person=3|Polite=Infm|Tense=Pres	4	aux	_	_
+6	ভেবে	ভেবে	PART	_	Aspect=Perf|VerbForm=Vnoun	13	advcl	_	_
+7	শিকারীটি	শিকারী	NOUN	_	Case=Nom|Definite=Def|Number=Sing	13	nsubj	_	_
+8	তখন	তখন	ADV	_	_	13	advmod	_	_
+9	একজন	একজন	NUM	_	NumType=Card	10	nummod	_	_
+10	দারোয়ানকেই	দারোয়ান	NOUN	_	Case=Acc|Definite=Def|Number=Sing	13	iobj	_	_
+11	গুলি	গুলি	NOUN	_	Case=Nom|Number=Sing	12	obj	_	_
+12	করে	করা	VERB	_	Aspect=Perf|VerbForm=Part	13	advcl	_	_
+13	মেরে	মারা	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	_
+14	দেয়	দেওয়া	AUX	_	Aspect=Perf|VerbForm=Part	13	aux	_	_
+15	।	।	PUNCT	_	_	13	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-187
+# text = সাহেবের হাত ফসকে গুলি বেরিয়েছে , তবে তো কোনো কথাই নেই ।
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = The bullet slipped out of Saheb's hand, but it didn't matter.
+1	সাহেবের	সাহেব	NOUN	_	Case=Gen|Number=Sing|Poss=Yes	2	nmod:poss	_	_
+2	হাত	হাত	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
+3	ফসকে	ফসকানো	VERB	_	Aspect=Perf|VerbForm=Part	6	advcl	_	_
+4	গুলি	গুলি	NOUN	_	Case=Nom|Number=Sing	6	obj	_	_
+5-6	বেরিয়েছে	_	_	_	_	_	_	_	_
+5	বাহির	বাহির	NOUN	_	Case=Nom|VerbForm=Vnoun	6	compound:lvc	_	_
+6	হয়েছে	হওয়া	VERB	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	তবে	তবে	SCONJ	_	_	12	mark	_	_
+9	তো	তো	ADV	_	_	12	advmod	_	_
+10	কোনো	কোনো	DET	_	_	11	det	_	_
+11	কথাই	কথা	NOUN	_	Case=Nom|Number=Sing	12	nsubj	_	_
+12	নেই	না	VERB	_	Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+13	।	।	PUNCT	_	_	6	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-188
+# text = আসলে দ্বারবানটির আয়ু ফুরিয়ে গিয়েছিল বলেই না সে পঞ্চত্ব লাভ করেছে !
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = Actually, the doorman had reached the end of his lifespan—that’s why he passed away, isn’t it?
+1	আসলে	আসল	ADV	_	_	11	advmod	_	_
+2	দ্বারবানটির	দ্বারবান	NOUN	_	Case=Gen|Definite=Def|Number=Sing|Poss=Yes	3	nmod:poss	_	_
+3	আয়ু	আয়ু	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+4	ফুরিয়ে	ফুরানো	VERB	_	Aspect=Perf|VerbForm=Part	5	compound:lvc	_	_
+5	গিয়েছিল	যাওয়া	VERB	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Past	11	advcl	_	_
+6	বলেই	বলে	ADV	_	_	11	advmod	_	_
+7	না	না	PART	_	_	6	fixed	_	_
+8	সে	সে	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+9	পঞ্চত্ব	পঞ্চত্ব	NOUN	_	Case=Nom|Number=Sing	11	obj	_	_
+10	লাভ	লাভ	NOUN	_	Case=Nom|VerbForm=Vnoun	11	compound:lvc	_	_
+11	করেছে	করা	VERB	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Past	0	root	_	_
+12	!	!	PUNCT	_	_	11	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-189
+# text = ব্যস , সেখানেই চুঁকে গেছে সব কিছু ।
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = That's it, everything went wrong right there.
+1	ব্যস	ব্যস	INTJ	_	_	5	discourse	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	সেখানেই	সেখানে	ADV	_	_	5	advmod	_	_
+4	চুঁকে	চুকানো	VERB	_	Aspect=Perf|VerbForm=Part	5	compound:lvc	_	_
+5	গেছে	যাওয়া	AUX	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+6	সব	সব	DET	_	_	7	det	_	_
+7	কিছু	কিছু	PRON	_	Number=Plur|PronType=Ind	5	nsubj	_	_
+8	।	।	PUNCT	_	_	5	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-190
+# text = রাজারা নিহত দারোয়ানের পরিবারকে দুশো টাকা দান করেছেন ।
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = The kings have donated two hundred taka to the family of the dead doorman.
+1	রাজারা	রাজা	NOUN	_	Case=Nom|Number=Plur	8	nsubj	_	_
+2	নিহত	নিহত	ADJ	_	_	3	amod	_	_
+3	দারোয়ানের	দারোয়ান	NOUN	_	Case=Gen|Number=Sing|Poss=Yes	4	nmod:poss	_	_
+4	পরিবারকে	পরিবার	NOUN	_	Case=Acc|Definite=Def|Number=Sing	8	iobj	_	_
+5	দুশো	দুশো	NUM	_	NumType=Card	6	nummod	_	_
+6	টাকা	টাকা	NOUN	_	Case=Nom|Number=Sing	8	obj	_	_
+7	দান	দান	NOUN	_	Case=Nom|VerbForm=Vnoun	8	compound:lvc	_	_
+8	করেছেন	করা	VERB	_	Aspect=Perf|Person=3|Polite=Form|Tense=Pres	0	root	_	_
+9	।	।	PUNCT	_	_	8	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-191
+# text = দুলালের মুখে সব বিবরণ শুনে নবীনকুমার বক্রভাবে হাসলো ।
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = Hearing the entire description from Dulal, Nabinkumar smiled sarcastically.
+1	দুলালের	দুলাল	PROPN	_	Case=Gen|Definite=Def|Number=Sing|Poss=Yes	2	nmod:poss	_	_
+2	মুখে	মুখ	NOUN	_	Case=Nom|Number=Sing	5	obl	_	_
+3	সব	সব	DET	_	_	4	det	_	_
+4	বিবরণ	বিবরণ	NOUN	_	Case=Nom|Number=Plur	5	obj	_	_
+5	শুনে	শুনা	VERB	_	Aspect=Perf|VerbForm=Part	8	advcl	_	_
+6	নবীনকুমার	নবীনকুমার	PROPN	_	Case=Nom|Number=Sing	8	nsubj	_	_
+7	বক্রভাবে	বক্রভাবে	ADV	_	_	8	advmod	_	_
+8	হাসলো	হাসা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+9	।	।	PUNCT	_	_	8	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-192
+# text = ভুকৈলাশের রাজবাড়িতে মহাপুরুষের আগমন ব্যাপারটাও নবীনকুমার নিজের চোখে যাচাই করতে চায় ।
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = Nabinkumar also wants to witness the arrival of the great man at the royal palace of Bhukailash with his own eyes.
+1	ভুকৈলাশের	ভুকৈলাশ	PROPN	_	Case=Loc|Definite=Def|Number=Sing|Poss=Yes	2	nmod:poss	_	_
+2	রাজবাড়িতে	রাজবাড়ি	NOUN	_	Case=Loc|Number=Sing	4	nmod	_	_
+3	মহাপুরুষের	মহাপুরুষ	NOUN	_	Case=Gen|Number=Sing|Poss=Yes	4	nmod:poss	_	_
+4	আগমন	আগমন	NOUN	_	Case=Nom	5	nmod	_	_
+5	ব্যাপারটাও	ব্যাপার	NOUN	_	Case=Nom|Definite=Def|Number=Sing	10	obj	_	_
+6	নবীনকুমার	নবীনকুমার	PROPN	_	Case=Nom|Definite=Def|Number=Sing	10	nsubj	_	_
+7	নিজের	নিজ	PRON	_	Animacy=Anim|Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	_
+8	চোখে	চোখ	NOUN	_	Case=Nom|Number=Sing	10	obl	_	_
+9	যাচাই	যাচাই	NOUN	_	Case=Nom|VerbForm=Vnoun	10	compound:lvc	_	_
+10	করতে	করা	VERB	_	VerbForm=Inf	0	root	_	_
+11	চায়	চাওয়া	AUX	_	Person=3|Polite=Infm|Tense=Pres	10	aux	_	_
+12	।	।	PUNCT	_	_	10	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-194
+# text = এখানেও প্রথমে নবীনকুমার গাড়ি থেকে না নেমে প্রথমে দুলালকে পাঠালো ।
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = Here too, Nabinkumar didn’t get out of the car at first; instead, he sent Dulal ahead.
+1	এখানেও	এখানে	PRON	_	Case=Loc	10	obl	_	_
+2	প্রথমে	প্রথমে	ADV	_	_	10	advmod	_	_
+3	নবীনকুমার	নবীনকুমার	PROPN	_	Case=Nom|Number=Sing	10	nsubj	_	_
+4	গাড়ি	গাড়ি	NOUN	_	Case=Nom|Number=Sing	7	obl	_	_
+5	থেকে	থেকে	ADP	_	_	4	case	_	AdpType=Post
+6	না	না	PART	_	_	7	advmod	_	_
+7	নেমে	নামা	VERB	_	Aspect=Perf|VerbForm=Part	10	advcl	_	_
+8	প্রথমে	প্রথমে	ADV	_	_	10	advmod	_	_
+9	দুলালকে	দুলাল	PROPN	_	Case=Acc|Number=Sing	10	iobj	_	_
+10	পাঠালো	পাঠানো	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+11	।	।	PUNCT	_	_	10	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-196
+# text = নবীনকুমার বললো , তেনাকে দেকতে কেমন ?
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = Nabinkumar said, 'What does he look like?
+1	নবীনকুমার	নবীনকুমার	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
+2	বললো	বলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	তেনাকে	তেনাকে	PRON	_	Animacy=Anim|Case=Acc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+5	দেকতে	দেখা	VERB	_	VerbForm=Inf	2	ccomp	_	_
+6	কেমন	কেমন	ADV	_	_	5	advmod	_	_
+7	?	?	PUNCT	_	_	5	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-197
+# text = দুলাল প্রথমে বললো , দেকলে ভয় করে ।
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = At first, Dulal said, "It looks scary.
+1	দুলাল	দুলাল	PROPN	_	Case=Nom|Definite=Def|Number=Sing	3	nsubj	_	_
+2	প্রথমে	প্রথমে	ADV	_	_	3	advmod	_	_
+3	বললো	বলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	দেকলে	দেখা	VERB	_	Person=2|Polite=Infm|Tense=Past	7	advcl	_	_
+6	ভয়	ভয়	NOUN	_	Case=Nom|VerbForm=Vnoun	7	compound:lvc	_	_
+7	করে	করা	VERB	_	Person=3|Polite=Infm|Tense=Pres	3	ccomp	_	_
+8	।	।	PUNCT	_	_	3	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-198
+# text = তারপরই আবার বললো , ভক্তিও হয় ।
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = Then he added, 'One does feel a sense of devotion too.
+1	তারপরই	তারপর	ADV	_	_	3	advmod	_	_
+2	আবার	আবার	ADV	_	_	3	advmod	_	_
+3	বললো	বলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	ভক্তিও	ভক্তি	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
+6	হয়	হওয়া	VERB	_	Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	।	।	PUNCT	_	_	3	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-199
+# text = আমি পেন্নাম করিচি , দূর থেকে ।
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = I paid my respects from a distance
+1	আমি	আমি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	পেন্নাম	প্রণাম	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
+3	করিচি	করা	VERB	_	Aspect=Perf|Person=1|Tense=Pres	0	root	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	দূর	দূর	NOUN	_	Case=Nom	3	obl	_	_
+6	থেকে	থেকে	ADP	_	_	5	case	_	AdpType=Post
+7	।	।	PUNCT	_	_	3	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-201
+# text = বলচি যে লোকটার চেহারা কেমন ?
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = Tell me, what does that man look like?
+1	বলচি	বলা	VERB	_	Aspect=Prog|Person=1|Tense=Pres	0	root	_	_
+2	যে	যে	ADV	_	_	1	advmod	_	_
+3	লোকটার	লোক	NOUN	_	Case=Gen|Definite=Def|Number=Sing	4	nmod	_	_
+4	চেহারা	চেহারা	NOUN	_	Case=Nom|Number=Sing	5	obj	_	_
+5	কেমন	কেমন	ADJ	_	_	1	ccomp	_	_
+6	?	?	PUNCT	_	_	1	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-202
+# text = দুলাল বললো , ইয়া মোটা ।
+# book = SeiSomoy_SunilGangopadhyay
+# text_en = Dulal said, 'So fat'.
+1	দুলাল	দুলাল	PROPN	_	Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	_
+2	বললো	বলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	ইয়া	ইয়া	ADV	_	_	5	advmod	_	_
+5	মোটা	মোটা	ADJ	_	_	2	parataxis	_	_
+6	।	।	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-203
+# text = অত্যন্ত কাতর চোখে মেয়েটা মিজান সাহেবের দিকে তাকাল এবং অসম্ভব আদুরে গলায় বলল , ' আংকেল , আমি তো আপনার মেয়ের মতোই , না ?
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = The girl looked at Mizan Sahib with very sad eyes and said in an incredibly sweet voice, 'Uncle, I'm just like your daughter, aren't I?'
+1	অত্যন্ত	অত্যন্ত	ADV	_	_	3	advmod	_	_
+2	কাতর	কাতর	ADJ	_	_	3	amod	_	_
+3	চোখে	চোখ	NOUN	_	Case=Nom|Number=Sing	8	obl	_	_
+4	মেয়েটা	মেয়ে	NOUN	_	Case=Nom|Definite=Def|Number=Sing	8	nsubj	_	_
+5	মিজান	মিজান	PROPN	_	Case=Nom|Number=Sing	8	obl	_	_
+6	সাহেবের	সাহেব	PROPN	_	Case=Gen|Number=Sing	5	compound	_	_
+7	দিকে	দিকে	ADP	_	_	6	case	_	AdpType=Post
+8	তাকাল	তাকানো	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+9	এবং	এবং	CCONJ	_	_	13	cc	_	_
+10	অসম্ভব	অসম্ভব	ADV	_	_	11	advmod	_	_
+11	আদুরে	আদুরে	ADJ	_	_	12	amod	_	_
+12	গলায়	গলা	NOUN	_	Case=Nom|Number=Sing	13	obl	_	_
+13	বলল	বলা	VERB	_	Person=3|Polite=Infm|Tense=Past	8	conj	_	_
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	'	'	PUNCT	_	_	21	punct	_	_
+16	আংকেল	আংকেল	NOUN	_	Case=Nom|Number=Sing	21	vocative	_	_
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	আমি	আমি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	21	nsubj	_	_
+19	তো	তো	ADV	_	_	21	advmod	_	_
+20	আপনার	আপনার	PRON	_	Animacy=Anim|Case=Gen|Number=Sing|Person=2|PronType=Prs	21	nmod:poss	_	_
+21	মেয়ের	মেয়ে	NOUN	_	Case=Gen|Number=Sing	13	ccomp	_	_
+22	মতোই	মতো	ADV	_	_	21	advmod	_	_
+23	,	,	PUNCT	_	_	21	punct	_	_
+24	না	না	PART	_	_	21	discourse	_	_
+25	?	?	PUNCT	_	_	21	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-204
+# text = কোনো মেয়ে যদি একটা কিছু এনে দেয় আপনাকে , আপনি কি তা ফেরত দিতে পারবেন ?
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = If a girl gives you something, can you give it back?
+1	কোনো	কোন	DET	_	_	2	det	_	_
+2	মেয়ে	মেয়ে	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	_
+3	যদি	যদি	SCONJ	_	_	7	mark	_	_
+4	একটা	একটা	DET	_	_	5	det	_	_
+5	কিছু	কিছু	PRON	_	PronType=Ind	6	obj	_	_
+6	এনে	আনা	VERB	_	Aspect=Perf|VerbForm=Part	7	compound:lvc	_	_
+7	দেয়	দেওয়া	VERB	_	Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+8	আপনাকে	আপনি	PRON	_	Animacy=Anim|Case=Acc|Number=Sing|Person=2|PronType=Prs	7	iobj	_	_
+9	,	,	PUNCT	_	_	7	punct	_	_
+10	আপনি	আপনি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=2|PronType=Prs	14	nsubj	_	_
+11	কি	কি	ADV	_	_	14	advmod	_	_
+12	তা	তা	PRON	_	PronType=Ind	14	obj	_	_
+13	ফেরত	ফেরত	NOUN	_	Case=Nom	14	compound:lvc	_	_
+14	দিতে	দেওয়া	VERB	_	VerbForm=Inf	7	parataxis	_	_
+15	পারবেন	পারা	AUX	_	Person=3|Polite=Form|Tense=Fut	14	aux	_	_
+16	?	?	PUNCT	_	_	7	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-205
+# text = তা ছাড়া আপনি যে দোকানের সন্দেশ পছন্দ করেন , আমি সে দোকানের সন্দেশই এনেছি । '
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = Besides, I brought you the sandesh from the shop you like.
+1	তা	তা	PRON	_	PronType=Ind	8	obl	_	_
+2	ছাড়া	ছাড়া	ADP	_	_	1	case	_	AdpType=Post
+3	আপনি	আপনি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
+4	যে	যে	DET	_	_	5	det	_	_
+5	দোকানের	দোকান	NOUN	_	Case=Gen|Number=Sing|Poss=Yes	6	nmod:poss	_	_
+6	সন্দেশ	সন্দেশ	NOUN	_	Case=Nom|Number=Sing	8	obj	_	_
+7	পছন্দ	পছন্দ	NOUN	_	Case=Nom|Number=Sing	8	compound:lvc	_	_
+8	করেন	করা	VERB	_	Person=3|Polite=Form|Tense=Pres	14	advcl	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	আমি	আমি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
+11	সে	সে	DET	_	_	12	det	_	_
+12	দোকানের	দোকান	NOUN	_	Case=Gen|Number=Sing|Poss=Yes	13	nmod:poss	_	_
+13	সন্দেশই	সন্দেশ	NOUN	_	Case=Nom|Number=Sing	14	obj	_	_
+14	এনেছি	আনা	VERB	_	Aspect=Perf|Person=1|Tense=Pres	0	root	_	_
+15	।	।	PUNCT	_	_	14	punct	_	_
+16	'	'	PUNCT	_	_	14	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-206
+# text = ' আসলে -- । ' কথাটা শেষ করতে পারলেন না মিজান সাহেব ।
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = 'Actually --' Mizan Sahib could not finish the sentence.
+1	'	'	PUNCT	_	_	2	punct	_	_
+2	আসলে	আসলে	ADV	_	_	8	discourse	_	_
+3	--	--	PUNCT	_	_	2	punct	_	_
+4	।	।	PUNCT	_	_	2	punct	_	_
+5	'	'	PUNCT	_	_	2	punct	_	_
+6	কথাটা	কথা	NOUN	_	Case=Nom|Definite=Def|Number=Sing	8	obj	_	_
+7	শেষ	শেষ	NOUN	_	Case=Nom|Number=Sing|Person=3	8	compound	_	Gender=Masc
+8	করতে	করা	VERB	_	VerbForm=Inf	0	root	_	_
+9	পারলেন	পারা	AUX	_	Person=3|Polite=Form|Tense=Past	8	aux	_	_
+10	না	না	PART	_	_	8	advmod	_	_
+11	মিজান	মিজান	PROPN	_	Case=Nom|Number=Sing	8	nsubj	_	_
+12	সাহেব	সাহেব	PROPN	_	Case=Nom|Number=Sing	11	compound	_	_
+13	।	।	PUNCT	_	_	8	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-207
+# text = তার আগেই মেয়েটা বলল , ' আমি খুব কষ্ট পাব আংকেল , যদি আপনি এটা গ্রহণ না করেন । '
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = Before that, the girl said, 'I will be very sad, uncle, if you don't accept this.'
+1	তার	তার	PRON	_	PronType=Rel	4	obl	_	_
+2	আগেই	আগে	ADP	_	_	1	case	_	_
+3	মেয়েটা	মেয়ে	NOUN	_	Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	_
+4	বলল	বলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	'	'	PUNCT	_	_	7	punct	_	_
+7	আমি	আমি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+8	খুব	খুব	ADJ	_	_	9	amod	_	_
+9	কষ্ট	কষ্ট	ADJ	_	_	10	amod	_	_
+10	পাব	পাওয়া	VERB	_	Person=1|Tense=Fut	4	ccomp	_	_
+11	আংকেল	আংকেল	NOUN	_	Case=Nom|Number=Sing	10	vocative	_	_
+12	,	,	PUNCT	_	_	10	punct	_	_
+13	যদি	যদি	SCONJ	_	_	18	mark	_	_
+14	আপনি	আপনি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=2|PronType=Prs	18	nsubj	_	_
+15	এটা	এটা	PRON	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing|PronType=Ind	18	obj	_	_
+16	গ্রহণ	গ্রহণ	NOUN	_	Case=Nom|VerbForm=Vnoun	18	compound:lvc	_	_
+17	না	না	PART	_	_	18	advmod	_	_
+18	করেন	করা	VERB	_	Person=3|Polite=Form|Tense=Pres	10	parataxis	_	_
+19	।	।	PUNCT	_	_	4	punct	_	_
+20	'	'	PUNCT	_	_	19	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-208
+# text = হাত বাড়িয়ে প্যাকেটটা নিলেন মিজান সাহেব ।
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = Mr. Mizan reached out and took the packet.
+1	হাত	হাত	NOUN	_	Case=Nom|Number=Sing	2	obj	_	_
+2	বাড়িয়ে	বাড়ানো	VERB	_	Aspect=Perf|VerbForm=Part	4	advcl	_	_
+3	প্যাকেটটা	প্যাকেট	NOUN	_	Case=Nom|Definite=Def|Number=Sing	4	obj	_	_
+4	নিলেন	নেওয়া	VERB	_	Person=3|Polite=Form|Tense=Past	0	root	_	_
+5	মিজান	মিজান	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+6	সাহেব	সাহেব	PROPN	_	Case=Nom|Number=Sing	5	compound	_	_
+7	।	।	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-209
+# text = মেয়েটা আনন্দে কিছুটা শব্দ করে হেসে উঠল ।
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = The girl laughed a little loudly in joy.
+1	মেয়েটা	মেয়ে	NOUN	_	Case=Nom|Definite=Def|Number=Sing	7	nsubj	_	_
+2	আনন্দে	আনন্দ	NOUN	_	Case=Nom|Number=Sing	7	obl	_	_
+3	কিছুটা	কিছু	DET	_	PronType=Ind	4	det	_	_
+4	শব্দ	শব্দ	NOUN	_	Case=Nom|Number=Sing	5	compound:lvc	_	_
+5	করে	করা	VERB	_	Person=3|Polite=Infm|Tense=Pres	7	advcl	_	_
+6	হেসে	হাসা	NOUN	_	Case=Nom|Number=Sing	7	compound:lvc	_	_
+7	উঠল	উঠা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+8	।	।	PUNCT	_	_	7	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-210
+# text = তারপর পাশাপাশি রাখা দুটো বেতের চেয়ারের একটাতে তাকিয়ে বলল , ' এটাতে বসি ? '
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = Then, looking at one of the two cane chairs placed side by side, he said, "Shall I sit on this one?"
+1	তারপর	তারপর	ADV	_	_	9	advmod	_	_
+2	পাশাপাশি	পাশাপাশি	ADV	_	_	3	advmod	_	_
+3	রাখা	রাখা	NOUN	_	Case=Nom|Number=Sing	6	acl	_	_
+4	দুটো	দুটো	NUM	_	_	6	nummod	_	_
+5	বেতের	বেত	NOUN	_	Case=Gen|Number=Sing	6	nmod	_	_
+6	চেয়ারের	চেয়ার	NOUN	_	Case=Gen|Number=Sing|Poss=Yes	7	nmod:poss	_	_
+7	একটাতে	একটা	NOUN	_	Case=Nom|Number=Sing	8	nummod	_	_
+8	তাকিয়ে	তাকানো	VERB	_	Aspect=Perf|VerbForm=Part	9	compound:svc	_	_
+9	বলল	বলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	'	'	PUNCT	_	_	13	punct	_	_
+12	এটাতে	এ	PRON	_	Animacy=Inan|Case=Nom|Definite=Def|Person=3|PronType=Ind	13	obl	_	_
+13	বসি	বসা	VERB	_	Person=1|Tense=Pres	9	ccomp	_	_
+14	?	?	PUNCT	_	_	13	punct	_	_
+15	'	'	PUNCT	_	_	13	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-211
+# text = মাথা দিয়ে হ্যা - সূচক সম্মতি করতেই একটি চেয়ারে বসল মেয়েটা ।
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = As someone nodded in approval, the girl sat down on a chair.
+1	মাথা	মাথা	NOUN	_	Case=Nom|Number=Sing	7	obl	_	_
+2	দিয়ে	দিয়ে	ADP	_	_	1	case	_	AdpType=Post
+3	হ্যা	হ্যা	INTJ	_	_	5	compound	_	_
+4	-	-	PUNCT	_	_	5	punct	_	_
+5	সূচক	সূচক	NOUN	_	Case=Nom	6	nmod	_	_
+6	সম্মতি	সম্মতি	NOUN	_	Case=Nom|Number=Sing	7	compound:lvc	_	_
+7	করতেই	করা	VERB	_	VerbForm=Inf	10	advcl	_	_
+8	একটি	একটি	NUM	_	NumType=Card	9	nummod	_	_
+9	চেয়ারে	চেয়ার	NOUN	_	Case=Nom|Number=Sing	10	obl	_	_
+10	বসল	বসা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+11	মেয়েটা	মেয়ে	NOUN	_	Case=Nom|Definite=Def|Number=Sing	10	nsubj	_	_
+12	।	।	PUNCT	_	_	10	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-212
+# text = বসেই মিজান সাহেবের দিকে মুখ ফিরিয়ে বলল , ' আংকেল , আপনি বসবেন না ? '
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+1	বসেই	বসা	VERB	_	Aspect=Perf|VerbForm=Part	7	advcl	_	_
+2	মিজান	মিজান	PROPN	_	Case=Nom|Number=Sing	6	obl	_	_
+3	সাহেবের	সাহেব	PROPN	_	Case=Gen|Number=Sing	2	compound	_	_
+4	দিকে	দিকে	ADP	_	_	3	case	_	_
+5	মুখ	মুখ	NOUN	_	Case=Nom|Number=Sing	6	obj	_	_
+6	ফিরিয়ে	ফেরানো	VERB	_	Aspect=Perf|VerbForm=Part	7	advcl	_	_
+7	বলল	বলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	'	'	PUNCT	_	_	10	punct	_	_
+10	আংকেল	আংকেল	NOUN	_	Case=Nom|Number=Sing	13	vocative	_	_
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	আপনি	আপনি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=2|PronType=Prs	13	nsubj	_	_
+13	বসবেন	বসা	VERB	_	Person=3|Polite=Form|Tense=Fut	7	ccomp	_	_
+14	না	না	PART	_	_	13	advmod	_	_
+15	?	?	PUNCT	_	_	13	punct	_	_
+16	'	'	PUNCT	_	_	13	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-213
+# text = একটু দূরে কাঠের একটা চেয়ারে বসলেন মিজান সাহেব ।
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = Mr. Mizan sat down on a wooden chair a little distance away.
+1	একটু	একটু	ADJ	_	_	2	amod	_	_
+2	দূরে	দূর	NOUN	_	Case=Nom	6	obl	_	_
+3	কাঠের	কাঠ	NOUN	_	Case=Gen|Number=Sing	5	nmod	_	_
+4	একটা	এক	NUM	_	_	5	nummod	_	_
+5	চেয়ারে	চেয়ার	NOUN	_	Case=Nom|Number=Sing	6	obl	_	_
+6	বসলেন	বসা	VERB	_	Person=3|Polite=Form|Tense=Past	0	root	_	_
+7	মিজান	মিজান	PROPN	_	Case=Nom|Number=Sing	6	nsubj	_	_
+8	সাহেব	সাহেব	PROPN	_	Case=Nom|Number=Sing	7	compound	_	_
+9	।	।	PUNCT	_	_	6	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-214
+# text = হাতের সংবাদপত্র আর সন্দেশের প্যাকেটটা পাশে রেখে তিনি একটু সোজা হলেন ।
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = Placing the newspaper and the packet of sandesh beside him, he straightened up a little.
+1	হাতের	হাত	NOUN	_	Case=Gen|Number=Sing|Poss=Yes	2	nmod:poss	_	_
+2	সংবাদপত্র	সংবাদপত্র	NOUN	_	Case=Nom|Number=Sing	7	obj	_	_
+3	আর	আর	CCONJ	_	_	5	cc	_	_
+4	সন্দেশের	সন্দেশ	NOUN	_	Case=Gen|Number=Sing|Poss=Yes	5	nmod:poss	_	_
+5	প্যাকেটটা	প্যাকেট	NOUN	_	Case=Nom|Definite=Def|Number=Sing	2	conj	_	_
+6	পাশে	পাশে	ADP	_	_	7	obl	_	_
+7	রেখে	রাখা	VERB	_	Aspect=Perf|VerbForm=Part	11	advcl	_	_
+8	তিনি	তিনি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+9	একটু	একটু	ADJ	_	_	10	amod	_	_
+10	সোজা	সোজা	ADJ	_	_	11	xcomp	_	_
+11	হলেন	হওয়া	VERB	_	Person=3|Polite=Form|Tense=Past	0	root	_	_
+12	।	।	PUNCT	_	_	11	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-216
+# text = তারপর পাশ থেকে পানির গ্লাসটা হাতে নিয়ে এক নিঃশ্বাসে সবটুকু পানি শেষ করে ফেলল সে ।
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = Then, picking up the glass of water from the side, he drank it all in one gulp.
+1	তারপর	তারপর	ADV	_	_	14	advmod	_	_
+2	পাশ	পাশ	NOUN	_	Case=Acc|Number=Sing	7	obl	_	_
+3	থেকে	থেকে	ADP	_	_	2	case	_	AdpType=Post
+4	পানির	পানি	NOUN	_	Case=Gen|Number=Sing|Poss=Yes	5	nmod:poss	_	_
+5	গ্লাসটা	গ্লাস	NOUN	_	Case=Nom|Definite=Def|Number=Sing	7	obj	_	_
+6	হাতে	হাত	NOUN	_	Case=Nom|Number=Sing	7	obl	_	_
+7	নিয়ে	নেওয়া	VERB	_	Aspect=Perf|VerbForm=Part	14	advcl	_	_
+8	এক	এক	NUM	_	NumType=Card	9	nummod	_	_
+9	নিঃশ্বাসে	নিঃশ্বাস	NOUN	_	Case=Nom|Number=Sing	13	obl	_	_
+10	সবটুকু	সবটুকু	ADJ	_	_	11	advmod	_	_
+11	পানি	পানি	NOUN	_	Case=Nom|Number=Sing	13	obj	_	_
+12	শেষ	শেষ	NOUN	_	Case=Nom|VerbForm=Vnoun	13	compound:lvc	_	_
+13	করে	করা	VERB	_	Aspect=Perf|VerbForm=Part	14	advcl	_	_
+14	ফেলল	ফেলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+15	সে	সে	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+16	।	।	PUNCT	_	_	14	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-217
+# text = ' আরো খাবে ? ' মেয়েটাকে জিজ্ঞেস করলেন মিজান সাহেব ।
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = ‘Want to eat some more?’ Mr. Mizan asked the girl.
+1	'	'	PUNCT	_	_	3	punct	_	_
+2	আরো	আরো	ADV	_	_	3	advmod	_	_
+3	খাবে	খাওয়া	VERB	_	Person=3|Polite=Infm|Tense=Fut	8	ccomp	_	_
+4	?	?	PUNCT	_	_	3	punct	_	_
+5	'	'	PUNCT	_	_	3	punct	_	_
+6	মেয়েটাকে	মেয়ে	NOUN	_	Case=Acc|Definite=Def|Number=Sing	8	obj	_	_
+7	জিজ্ঞেস	জিজ্ঞেস	NOUN	_	Case=Nom|VerbForm=Vnoun	8	compound:lvc	_	_
+8	করলেন	করা	VERB	_	Person=3|Polite=Form|Tense=Past	0	root	_	_
+9	মিজান	মিজান	PROPN	_	Case=Nom|Number=Sing	8	nsubj	_	_
+10	সাহেব	সাহেব	PROPN	_	Case=Nom|Number=Sing	9	compound	_	_
+11	।	।	PUNCT	_	_	8	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-218
+# text = ' না , থ্যাঙ্কস্‌ । '
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = No, thanks
+1	'	'	PUNCT	_	_	4	punct	_	_
+2	না	না	PART	_	_	4	discourse	_	_
+3	,	'	PUNCT	_	_	2	punct	_	_
+4	থ্যাঙ্কস্‌	থ্যাঙ্কস্‌	X	_	Foreign=Yes	0	root	_	_
+5	।	।	PUNCT	_	_	4	punct	_	_
+6	'	'	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-219
+# text = ' এবার দ্বিতীয় অনুরোধটা বলো । '
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = Now tell me the second request.
+1	'	'	PUNCT	_	_	5	punct	_	_
+2	এবার	এবার	ADV	_	_	5	advmod	_	_
+3	দ্বিতীয়	দ্বিতীয়	ADJ	_	NumType=Ord	4	amod	_	_
+4	অনুরোধটা	অনুরোধ	NOUN	_	Case=Nom|Definite=Def|Number=Sing	5	obj	_	_
+5	বলো	বলা	VERB	_	Person=2|Polite=Infm|Tense=Pres	0	root	_	_
+6	।	।	PUNCT	_	_	5	punct	_	_
+7	'	'	PUNCT	_	_	5	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-220
+# text = মাথাটা নিচু করে কিছুটা জড়তা নিয়ে মেয়েটা বলল , একটু  পরে বলি ? '
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = Lowering her head slightly and speaking with a hint of hesitation, the girl said, "Can I tell you a little later?"
+1	মাথাটা	মাথা	NOUN	_	Case=Nom|Definite=Def|Number=Sing	3	obj	_	_
+2	নিচু	নিচু	ADJ	_	_	3	xcomp	_	_
+3	করে	করা	VERB	_	Aspect=Perf|VerbForm=Part	8	advcl	_	_
+4	কিছুটা	কিছু	ADJ	_	_	5	amod	_	_
+5	জড়তা	জড়তা	NOUN	_	Case=Nom|Number=Sing	6	obj	_	_
+6	নিয়ে	নেওয়া	VERB	_	Aspect=Perf|VerbForm=Part	8	advcl	_	_
+7	মেয়েটা	মেয়ে	NOUN	_	Case=Nom|Definite=Def|Number=Sing	8	nsubj	_	_
+8	বলল	বলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	একটু	একটু	ADV	_	_	12	advmod	_	_
+11	পরে	পরে	ADV	_	_	12	advmod	_	_
+12	বলি	বলা	VERB	_	Person=1|Tense=Pres	8	parataxis	_	_
+13	?	?	PUNCT	_	_	12	punct	_	_
+14	'	'	PUNCT	_	_	12	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-221
+# text = মিজান সাহেবের দিকে চোখ তুলে তাকিয়ে সে আবার বলল , ' আমি দুঃখিত আংকেল । '
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = Looking up at Mr. Mizan, she said again, 'I’m sorry, Uncle.
+1	মিজান	মিজান	PROPN	_	Case=Nom|Number=Sing	6	obl	_	_
+2	সাহেবের	সাহেব	PROPN	_	Case=Gen|Number=Sing	1	compound	_	_
+3	দিকে	দিকে	ADP	_	_	2	case	_	AdpType=Post
+4	চোখ	চোখ	NOUN	_	Case=Nom|Number=Sing	5	obj	_	_
+5	তুলে	তোলা	VERB	_	Aspect=Perf|VerbForm=Part	6	advcl	_	_
+6	তাকিয়ে	তাকানো	VERB	_	_	9	advcl	_	_
+7	সে	সে	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+8	আবার	আবার	ADV	_	_	9	advmod	_	_
+9	বলল	বলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	'	'	PUNCT	_	_	13	punct	_	_
+12	আমি	আমি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
+13	দুঃখিত	দুঃখিত	ADJ	_	_	9	ccomp	_	_
+14	আংকেল	আংকেল	NOUN	_	Case=Nom|Number=Sing	13	vocative	_	_
+15	।	।	PUNCT	_	_	13	punct	_	_
+16	'	'	PUNCT	_	_	13	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-222
+# text = ' কেন ? ' মিজান সাহেব নিস্পৃহ গলায় বললেন ।
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = "Why?" Mr. Mizan said in an indifferent tone.
+1	'	'	PUNCT	_	_	2	punct	_	_
+2	কেন	কেন	PRON	_	PronType=Int	9	ccomp	_	_
+3	?	?	PUNCT	_	_	2	punct	_	_
+4	'	'	PUNCT	_	_	2	punct	_	_
+5	মিজান	মিজান	PROPN	_	Case=Nom|Number=Sing	9	nsubj	_	_
+6	সাহেব	সাহেব	PROPN	_	Case=Nom|Number=Sing	5	compound	_	_
+7	নিস্পৃহ	নিস্পৃহ	ADJ	_	_	8	amod	_	_
+8	গলায়	গলা	NOUN	_	Case=Nom|Number=Sing	9	obl	_	_
+9	বললেন	বলা	VERB	_	Person=3|Polite=Form|Tense=Past	0	root	_	_
+10	।	।	PUNCT	_	_	9	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-223
+# text = ' এই যে সাতসকালে আপনাকে বিরক্ত করছি ! '
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = Here I am bothering you so early in the morning!
+1	'	'	PUNCT	_	_	2	punct	_	_
+2	এই	এই	DET	_	_	4	det	_	_
+3	যে	যে	SCONJ	_	_	4	mark	_	_
+4	সাতসকালে	সাতসকাল	NOUN	_	Case=Nom	7	obl:tmod	_	_
+5	আপনাকে	আপনাকে	PRON	_	Animacy=Anim|Case=Acc|Number=Sing|Person=2|PronType=Prs	7	obj	_	_
+6	বিরক্ত	বিরক্ত	ADJ	_	_	7	xcomp	_	_
+7	করছি	করা	VERB	_	Aspect=Prog|Person=1|Tense=Pres	0	root	_	_
+8	!	!	PUNCT	_	_	7	punct	_	_
+9	'	'	PUNCT	_	_	7	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-224
+# text = ' কে বলল আমি বিরক্ত হচ্ছি ! '
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+1	'	'	PUNCT	_	_	3	punct	_	_
+2	কে	কে	PRON	_	PronType=Int	3	nsubj	_	_
+3	বলল	বলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+4	আমি	আমি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	বিরক্ত	বিরক্ত	ADJ	_	_	6	xcomp	_	_
+6	হচ্ছি	হওয়া	VERB	_	Aspect=Perf|Person=1|Tense=Pres	3	advcl	_	_
+7	!	!	PUNCT	_	_	6	punct	_	_
+8	'	'	PUNCT	_	_	6	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-225
+# text = ' আমি জানি । '
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = I know
+1	'	'	PUNCT	_	_	3	punct	_	_
+2	আমি	আমি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	জানি	জানা	VERB	_	Person=1|Tense=Pres	0	root	_	_
+4	।	।	PUNCT	_	_	3	punct	_	_
+5	'	'	PUNCT	_	_	3	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-226
+# text = মিজান সাহেব একটু হেসে ফেললেন , ' তুমি কি সবজান্তা ? '
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+1	মিজান	মিজান	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+2	সাহেব	সাহেব	PROPN	_	Case=Nom|Number=Sing	1	compound	_	_
+3	একটু	একটু	ADV	_	_	5	advmod	_	_
+4	হেসে	হাসা	VERB	_	Aspect=Perf|VerbForm=Part	5	compound:lvc	_	_
+5	ফেললেন	ফেলা	VERB	_	Person=3|Polite=Form|Tense=Past	0	root	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	'	'	PUNCT	_	_	8	punct	_	_
+8	তুমি	তুমি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	_
+9	কি	কি	PART	_	_	10	advmod	_	_
+10	সবজান্তা	সবজান্তা	NOUN	_	Case=Nom|Number=Sing	5	ccomp	_	_
+11	?	?	PUNCT	_	_	10	punct	_	_
+12	'	'	PUNCT	_	_	10	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-227
+# text = ' আপাতত । ' হেসে ফেলল মেয়েটাও ।
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = "For now." The girl also burst into laughter.
+1	'	'	PUNCT	_	_	2	punct	_	_
+2	আপাতত	আপাতত	INTJ	_	_	6	discourse	_	_
+3	।	।	PUNCT	_	_	2	punct	_	_
+4	'	'	PUNCT	_	_	2	punct	_	_
+5	হেসে	হাসা	VERB	_	Aspect=Perf|VerbForm=Part	6	compound:lvc	_	_
+6	ফেলল	ফেলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+7	মেয়েটাও	মেয়ে	NOUN	_	Case=Nom|Definite=Def|Number=Sing	6	nsubj	_	_
+8	।	।	PUNCT	_	_	6	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-228
+# text = ' তাহলে বলো , তুমি আর কী কী জানো ? '
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = Then tell me, what else do you know?
+1	'	'	PUNCT	_	_	3	punct	_	_
+2	তাহলে	তাহলে	ADV	_	_	3	advmod	_	_
+3	বলো	বলা	VERB	_	Person=2|Polite=Infm|Tense=Pres	0	root	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	তুমি	তুমি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	_
+6	আর	আর	ADV	_	_	9	advmod	_	_
+7	কী	কী	PRON	_	PronType=Ind	9	obj	_	_
+8	কী	কী	PRON	_	PronType=Ind	9	obj	_	_
+9	জানো	জানা	VERB	_	Person=2|Polite=Infm|Tense=Pres	3	parataxis	_	_
+10	?	?	PUNCT	_	_	9	punct	_	_
+11	'	'	PUNCT	_	_	9	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-229
+# text = মাথা নিচু করে ফেলল মেয়েটা ।
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = The girl lowered her head.
+1	মাথা	মাথা	NOUN	_	Case=Nom|Number=Sing	4	obj	_	_
+2	নিচু	নিচু	ADJ	_	_	4	xcomp	_	_
+3	করে	করা	VERB	_	Aspect=Perf|VerbForm=Part	4	compound:lvc	_	_
+4	ফেলল	ফেলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+5	মেয়েটা	মেয়ে	NOUN	_	Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	_
+6	।	।	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-231
+# text = কপাল কুঁচকে ফেললেন মিজান সাহেব ।
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = Mr. Mizan furrowed his brow
+1	কপাল	কপাল	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
+2	কুঁচকে	কুঁচকানো	VERB	_	Case=Nom|Number=Sing	3	compound:lvc	_	_
+3	ফেললেন	ফেলা	VERB	_	Person=3|Polite=Form|Tense=Past	0	root	_	_
+4	মিজান	মিজান	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+5	সাহেব	সাহেব	PROPN	_	Case=Nom|Number=Sing	4	compound	_	_
+6	।	।	PUNCT	_	_	3	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-232
+# text = চেহারায় এক ধরনের গাম্ভীর্য এনে তিনি বললেন , ' এ বাসার কাউকে চেনো নাকি তুমি ? '
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = Adding a certain seriousness to his expression, he said, "Do you know someone in this house?"
+1	চেহারায়	চেহারা	NOUN	_	Case=Nom|Number=Sing	5	obl	_	_
+2	এক	এক	NUM	_	NumType=Card	3	nummod	_	_
+3	ধরনের	ধরন	ADJ	_	_	4	amod	_	_
+4	গাম্ভীর্য	গাম্ভীর্য	NOUN	_	Case=Nom|Number=Sing	5	obj	_	_
+5	এনে	আনা	VERB	_	Aspect=Perf|VerbForm=Part	7	advcl	_	_
+6	তিনি	তিনি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+7	বললেন	বলা	VERB	_	Person=3|Polite=Form|Tense=Past	0	root	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	'	'	PUNCT	_	_	13	punct	_	_
+10	এ	এ	DET	_	_	11	det	_	_
+11	বাসার	বাসা	NOUN	_	Case=Gen|Number=Sing|Poss=Yes	12	nmod:poss	_	_
+12	কাউকে	কেউ	PRON	_	PronType=Ind	13	obj	_	_
+13	চেনো	চেনা	VERB	_	Person=2|Polite=Infm|Tense=Pres	7	ccomp	_	_
+14	নাকি	নাকি	PART	_	_	13	mark	_	_
+15	তুমি	তুমি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=2|PronType=Prs	13	nsubj	_	_
+16	?	?	PUNCT	_	_	13	punct	_	_
+17	'	'	PUNCT	_	_	13	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-233
+# text = মেয়েটা তার কাধে ঝোলানো ব্যাগটা কোলের ওপর এনে খুলতে খুলতে বলল , ' এই সকালবেলাই বেশ গরম পড়েছে , না ? '
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = The girl, while opening the bag hanging on her shoulder and placing it on her lap, said, 'It's quite warm this morning, isn't it?'
+1	মেয়েটা	মেয়ে	NOUN	_	Case=Nom|Definite=Def|Number=Sing	11	nsubj	_	_
+2	তার	তার	PRON	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
+3	কাধে	কাঁধ	NOUN	_	Case=Nom|Number=Sing	4	nmod	_	AdpType=Post
+4	ঝোলানো	ঝোলানো	NOUN	_	Case=Nom|VerbForm=Vnoun	5	nmod	_	_
+5	ব্যাগটা	ব্যাগ	NOUN	_	Case=Nom|Definite=Def|Number=Sing	8	obj	_	_
+6	কোলের	কোল	NOUN	_	Case=Gen|Number=Sing	8	obl	_	_
+7	ওপর	ওপর	ADP	_	_	6	case	_	AdpType=Post
+8	এনে	আনা	VERB	_	Aspect=Perf|VerbForm=Part	11	advcl	_	_
+9	খুলতে	খোলা	VERB	_	Case=Acc|VerbForm=Inf	11	advcl	_	_
+10	খুলতে	খোলা	VERB	_	Case=Acc|VerbForm=Inf	9	fixed	_	_
+11	বলল	বলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	'	'	PUNCT	_	_	18	punct	_	_
+14	এই	এই	DET	_	_	15	det	_	_
+15	সকালবেলাই	সকালবেলা	NOUN	_	Case=Nom|Number=Sing	18	nsubj	_	_
+16	বেশ	বেশ	ADV	_	_	18	advmod	_	_
+17	গরম	গরম	ADJ	_	Case=Nom|Number=Sing	18	xcomp	_	_
+18	পড়েছে	পড়া	VERB	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Pres	11	ccomp	_	_
+19	,	,	PUNCT	_	_	18	punct	_	_
+20	না	না	PART	_	_	18	advmod	_	_
+21	?	?	PUNCT	_	_	18	punct	_	_
+22	'	'	PUNCT	_	_	18	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-234
+# text = গভীর চোখে মিজান সাহেব মেয়েটার দিকে তাকালেন ।
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = Mr. Mizan looked at the girl with deep, intent eyes.
+1	গভীর	গভীর	ADJ	_	_	2	amod	_	_
+2	চোখে	চোখ	NOUN	_	Case=Nom|Number=Sing	7	obl	_	_
+3	মিজান	মিজান	PROPN	_	Case=Nom|Number=Sing	7	nsubj	_	_
+4	সাহেব	সাহেব	PROPN	_	Case=Nom|Number=Sing	3	compound	_	_
+5	মেয়েটার	মেয়ে	NOUN	_	Case=Gen|Definite=Def|Number=Sing	7	obl	_	_
+6	দিকে	দিকে	ADP	_	_	5	case	_	_
+7	তাকালেন	তাকানো	VERB	_	Person=3|Polite=Form|Tense=Past	0	root	_	_
+8	।	।	PUNCT	_	_	7	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-235
+# text = মাথা নিচু করে আছে মেয়েটা ।
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = The girl has her head lowered.
+1	মাথা	মাথা	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
+2	নিচু	নিচু	ADJ	_	_	3	xcomp	_	_
+3	করে	করা	VERB	_	Person=3|Polite=Infm|Tense=Pres	4	advcl	_	_
+4	আছে	আছে	VERB	_	Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	মেয়েটা	মেয়ে	NOUN	_	Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	_
+6	।	।	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-236
+# text = কী অদ্ভুত মায়াকাড়া চেহারা !
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = What a strangely enchanting face!
+1	কী	কী	DET	_	_	2	det	_	_
+2	অদ্ভুত	অদ্ভুত	ADJ	_	_	4	amod	_	_
+3	মায়াকাড়া	মায়াকাড়া	ADJ	_	_	4	amod	_	_
+4	চেহারা	চেহারা	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+5	!	!	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-237
+# text = একটা সময় আসে জীবনে , যখন সব ছেলেমেয়েকেই নিজের ছেলেমেয়ে বলে মনে হয় ।
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = There comes a time in life when every boy and girl feels like your own child.
+1	একটা	একটা	NUM	_	PronType=Ind	2	nummod	_	_
+2	সময়	সময়	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+3	আসে	আসা	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	_
+4	জীবনে	জীবন	NOUN	_	Case=Nom|Number=Sing	3	obl	_	_
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	যখন	যখন	ADV	_	_	13	advmod	_	_
+7	সব	সব	DET	_	_	8	det	_	_
+8	ছেলেমেয়েকেই	ছেলেমেয়ে	NOUN	_	Case=Acc|Number=Plur	13	nsubj	_	_
+9	নিজের	নিজ	PRON	_	Animacy=Anim|Case=Nom|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	_	_
+10	ছেলেমেয়ে	ছেলেমেয়ে	NOUN	_	Case=Nom|Number=Sing	11	obj	_	_
+11	বলে	বলা	VERB	_	Aspect=Perf|VerbForm=Part	13	advcl	_	_
+12	মনে	মন	NOUN	_	Case=Nom	13	compound:lvc	_	_
+13	হয়	হওয়া	VERB	_	_	3	conj	_	_
+14	।	।	PUNCT	_	_	3	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-238
+# text = মিজান সাহেব অনুভব করলেন , এখন তিনি সে সময়টা অতিবাহিত করছেন ।
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = Mr. Mizan felt that he was now living through that very moment.
+1	মিজান	মিজান	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+2	সাহেব	সাহেব	PROPN	_	Case=Nom|Number=Sing	1	compound	_	_
+3	অনুভব	অনুভব	NOUN	_	Case=Nom|VerbForm=Vnoun	4	compound:lvc	_	_
+4	করলেন	করা	VERB	_	Person=3|Polite=Form|Tense=Past	0	root	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	এখন	এখন	ADV	_	_	11	advmod	_	_
+7	তিনি	তিনি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+8	সে	সে	DET	_	_	9	det	_	_
+9	সময়টা	সময়	NOUN	_	Case=Nom|Definite=Def|Number=Sing	11	obl	_	_
+10	অতিবাহিত	অতিবাহিত	ADJ	_	_	11	compound:lvc	_	_
+11	করছেন	করা	VERB	_	Aspect=Prog|Person=3|Polite=Form|Tense=Pres	4	conj	_	_
+12	।	।	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-240
+# text = ' আংকেল । ' মেয়েটা মুখ তুলে মিজান সাহেবের দিকে তাকাল ।
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = "Uncle." The girl looked up at Mr. Mizan.
+1	'	'	PUNCT	_	_	2	punct	_	_
+2	আংকেল	আংকেল	NOUN	_	Case=Nom|Number=Sing	11	vocative	_	_
+3	।	।	PUNCT	_	_	2	punct	_	_
+4	'	'	PUNCT	_	_	2	punct	_	_
+5	মেয়েটা	মেয়ে	NOUN	_	Case=Nom|Definite=Def|Number=Sing	11	nsubj	_	_
+6	মুখ	মুখ	NOUN	_	Case=Nom|Number=Sing	7	obj	_	_
+7	তুলে	তোলা	VERB	_	Aspect=Perf|VerbForm=Part	11	advcl	_	_
+8	মিজান	মিজান	PROPN	_	Case=Nom|Number=Sing	11	obl	_	_
+9	সাহেবের	সাহেব	PROPN	_	Case=Gen|Number=Sing	8	compound	_	_
+10	দিকে	দিকে	ADP	_	_	9	case	_	AdpType=Post
+11	তাকাল	তাকানো	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+12	।	।	PUNCT	_	_	11	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-242
+# text = ' কিছু বলবে ? ' বেশ নরম গলায় কথাটা বললেন মিজান সাহেব ।
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = "Do you want to say something?" Mr. Mizan said softly.
+1	'	'	PUNCT	_	_	3	punct	_	_
+2	কিছু	কিছু	PRON	_	PronType=Ind	3	obj	_	_
+3	বলবে	বলা	VERB	_	Person=3|Polite=Infm|Tense=Fut	10	ccomp	_	_
+4	?	?	PUNCT	_	_	3	punct	_	_
+5	'	'	PUNCT	_	_	3	punct	_	_
+6	বেশ	বেশ	ADJ	_	_	7	amod	_	_
+7	নরম	নরম	ADJ	_	_	8	amod	_	_
+8	গলায়	গলা	NOUN	_	Case=Nom|Number=Sing	10	obl	_	_
+9	কথাটা	কথা	NOUN	_	Case=Nom|Definite=Def|Number=Sing	10	obj	_	_
+10	বললেন	বলা	VERB	_	Person=3|Polite=Form|Tense=Past	0	root	_	_
+11	মিজান	মিজান	PROPN	_	Case=Nom|Number=Sing	10	nsubj	_	_
+12	সাহেব	সাহেব	PROPN	_	Case=Nom|Number=Sing	11	compound	_	_
+13	।	।	PUNCT	_	_	10	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-243
+# text = পিতৃত্বটা বেশ ভর করেছে এখন বুকের ভেতর ।
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = A strong sense of fatherhood now appeared heavily in his chest.
+1	পিতৃত্বটা	পিতৃত্ব	NOUN	_	Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	_
+2	বেশ	বেশ	ADV	_	_	4	advmod	_	_
+3	ভর	ভর	NOUN	_	Case=Nom|VerbForm=Vnoun	4	compound:lvc	_	_
+4	করেছে	করা	VERB	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+5	এখন	এখন	ADV	_	_	4	advmod	_	_
+6	বুকের	বুক	NOUN	_	Case=Gen|Number=Sing	4	obl	_	_
+7	ভেতর	ভেতর	ADP	_	_	6	case	_	_
+8	।	।	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-244
+# text = তিনি উৎসুক চোখে তাকিয়ে রইলেন মেয়েটার দিকে ।
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = He kept looking at the girl with curious eyes.
+1	তিনি	তিনি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+2	উৎসুক	উৎসুক	ADJ	_	_	3	amod	_	_
+3	চোখে	চোখ	NOUN	_	Case=Nom|Number=Sing	4	obl	_	_
+4	তাকিয়ে	তাকানো	VERB	_	Aspect=Perf|VerbForm=Part	5	advcl	_	_
+5	রইলেন	থাকা	VERB	_	Person=3|Polite=Form|Tense=Past	0	root	_	_
+6	মেয়েটার	মেয়ে	NOUN	_	Case=Gen|Definite=Def|Number=Sing	5	obl	_	_
+7	দিকে	দিকে	ADP	_	_	6	case	_	AdpType=Post
+8	।	।	PUNCT	_	_	5	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-246
+# text = ' হ্যাঁ  , আজ সাপ্তাহিক ছুটি । '
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = Yes, today is the weekly holiday.
+1	'	'	PUNCT	_	_	2	punct	_	_
+2	হ্যাঁ	হ্যাঁ	INTJ	_	_	6	discourse	_	_
+3	,	'	PUNCT	_	_	2	punct	_	_
+4	আজ	আজ	NOUN	_	Case=Nom|Number=Sing	6	nmod	_	_
+5	সাপ্তাহিক	সাপ্তাহিক	ADJ	_	_	6	amod	_	_
+6	ছুটি	ছুটি	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+7	।	।	PUNCT	_	_	6	punct	_	_
+8	'	'	PUNCT	_	_	6	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-247
+# text = ' সপ্তাহের এই দিনটাতে তো আপনি নিজে বাজারে যান । '
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = On this day of the week, you usually go to the market yourself.
+1	'	'	PUNCT	_	_	2	punct	_	_
+2	সপ্তাহের	সপ্তাহ	NOUN	_	Case=Gen|Number=Sing|Poss=Yes	4	nmod:poss	_	_
+3	এই	এই	DET	_	_	4	det	_	_
+4	দিনটাতে	দিন	NOUN	_	Case=Nom|Definite=Def|Number=Sing	9	obl	_	_
+5	তো	তো	SCONJ	_	_	9	mark	_	_
+6	আপনি	আপনি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+7	নিজে	নিজ	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nmod	_	_
+8	বাজারে	বাজার	NOUN	_	Case=Loc|Number=Sing	9	obl	_	_
+9	যান	যাওয়া	VERB	_	Person=3|Polite=Form|Tense=Pres	0	root	_	_
+10	।	।	PUNCT	_	_	9	punct	_	_
+11	'	'	PUNCT	_	_	9	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-248
+# text = ' এটাও তুমি জানো ! '
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = You know this too!
+1	'	'	PUNCT	_	_	4	punct	_	_
+2	এটাও	এ	PRON	_	Animacy=Inan|Definite=Def|Number=Sing|PronType=Ind	4	obj	_	_
+3	তুমি	তুমি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+4	জানো	জানা	VERB	_	Person=2|Polite=Infm|Tense=Pres	0	root	_	_
+5	!	!	PUNCT	_	_	4	punct	_	_
+6	'	'	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-249
+# text = ' আজ আপনি আপনার তিন মেয়ের পছন্দমতো সবজি কিনবেন , মাছ মাংস একদম পছন্দ করে না ওরা ।
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = Today, you will buy vegetables according to the preferences of your three daughters; they absolutely don't like fish or meat.
+1	'	_	PUNCT	_	_	2	punct	_	_
+2	আজ	আজ	ADV	_	_	9	advmod	_	_
+3	আপনি	আপনি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	_
+4	আপনার	আপন	PRON	_	Animacy=Anim|Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	_
+5	তিন	তিন	NUM	_	NumType=Card	6	nummod	_	_
+6	মেয়ের	মেয়ে	NOUN	_	Case=Gen|Number=Sing|Poss=Yes	7	nmod:poss	_	_
+7	পছন্দমতো	পছন্দমতো	NOUN	_	Case=Nom	9	obl	_	_
+8	সবজি	সবজি	NOUN	_	Case=Nom|Number=Sing	9	obj	_	_
+9	কিনবেন	কেনা	VERB	_	Person=3|Polite=Form|Tense=Fut	0	root	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	মাছ	মাছ	NOUN	_	Case=Nom|Number=Sing	15	obj	_	_
+12	মাংস	মাংস	NOUN	_	Case=Nom|Number=Sing	11	compound	_	_
+13	একদম	একদম	ADV	_	_	15	advmod	_	_
+14	পছন্দ	পছন্দ	NOUN	_	Case=Nom|VerbForm=Vnoun	15	compound:lvc	_	_
+15	করে	করে	VERB	_	Person=3|Polite=Infm|Tense=Pres	9	conj	_	_
+16	না	না	PART	_	_	15	advmod	_	_
+17	ওরা	ও	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	_
+18	।	।	PUNCT	_	_	9	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-250
+# text = তাই আপনি নিজ হাতে ওদের জন্য পছন্দমতো জিনিস কিনে আনবেন । '
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = So, you will personally buy and bring what they like for them.
+1	তাই	তাই	ADV	_	_	10	advmod	_	_
+2	আপনি	আপনি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=2|Polite=Form|PronType=Prs	10	nsubj	_	_
+3	নিজ	নিজ	PRON	_	Case=Nom|PronType=Prs	4	compound	_	_
+4	হাতে	হাতে	NOUN	_	Case=Nom|Number=Sing	10	obl	_	_
+5	ওদের	ও	PRON	_	Animacy=Anim|Case=Gen|Number=Plur|Person=3|Polite=Infm|PronType=Prs	10	obl	_	Deixis=Dist
+6	জন্য	জন্য	ADP	_	_	5	case	_	AdpType=Post
+7	পছন্দমতো	পছন্দমতো	ADJ	_	_	8	amod	_	_
+8	জিনিস	জিনিস	NOUN	_	Case=Nom|Number=Sing	9	obj	_	_
+9	কিনে	কেনা	VERB	_	Aspect=Perf|VerbForm=Part	10	advcl	_	_
+10	আনবেন	আনা	VERB	_	Person=3|Polite=Form|Tense=Fut	0	root	_	_
+11	।	।	PUNCT	_	_	10	punct	_	_
+12	'	_	PUNCT	_	_	10	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-251
+# text = মেয়েটা মিজান সাহেবের দিকে গভীরভাবে তাকিয়ে বলল , ' আঙ্কেল , আমিও মাছ - মাংস পছন্দ করি না ।
+# book = TomaiAmiDekhechilamBole_SumantoAslam
+# text_en = The girl looked deeply at Mr. Mizan and said, 'Uncle, I don’t like fish or meat either.
+1	মেয়েটা	মেয়ে	NOUN	_	Case=Nom|Definite=Def|Number=Sing	7	nsubj	_	_
+2	মিজান	মিজান	PROPN	_	Case=Nom|Number=Sing	7	obl	_	_
+3	সাহেবের	সাহেব	PROPN	_	Case=Gen|Number=Sing	2	compound	_	_
+4	দিকে	দিকে	ADP	_	_	3	case	_	AdpType=Post
+5	গভীরভাবে	গভীরভাবে	ADV	_	_	6	advmod	_	_
+6	তাকিয়ে	তাকানো	VERB	_	Aspect=Perf|VerbForm=Part	7	advcl	_	_
+7	বলল	বল	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	'	'	PUNCT	_	_	10	punct	_	_
+10	আঙ্কেল	আঙ্কেল	NOUN	_	Case=Nom|Number=Sing	17	vocative	_	_
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	আমিও	আমি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	_
+13	মাছ	মাছ	NOUN	_	Case=Nom|Number=Sing	17	obj	_	_
+14	-	-	PUNCT	_	_	15	punct	_	_
+15	মাংস	মাংস	NOUN	_	Case=Nom|Number=Sing	13	compound	_	_
+16	পছন্দ	পছন্দ	NOUN	_	Case=Nom|VerbForm=Vnoun	17	compound:lvc	_	_
+17	করি	করা	VERB	_	Person=1|Tense=Pres	7	ccomp	_	_
+18	না	না	PART	_	_	17	advmod	_	_
+19	।	।	PUNCT	_	_	7	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-254
+# text = সুজয়া বললো , খুব হয়েছে , এবার বাড়ি চলো !
+# book = SwapnoLojjahin_SunilGangopadhyay
+# text_en = Sujaya said, "That's enough, let's go home now!"
+1	সুজয়া	সুজয়া	PROPN	_	Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	_
+2	বললো	বলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	খুব	খুব	ADV	_	_	5	advmod	_	_
+5	হয়েছে	হওয়া	VERB	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Past	2	ccomp	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	এবার	এবার	ADV	_	_	9	advmod	_	_
+8	বাড়ি	বাড়ি	NOUN	_	Case=Nom|Number=Sing	9	obl:lmod	_	_
+9	চলো	চলা	VERB	_	Person=2|Polite=Infm|Tense=Pres	5	conj	_	_
+10	!	!	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-255
+# text = হেমন্ত বললো , কী রে সুনীল , তুই এত গুম মেরে রয়েছিস কেন ?
+# book = SwapnoLojjahin_SunilGangopadhyay
+# text_en = Hemanta said, 'Hey Sunil, why are you staying so quiet?
+1	হেমন্ত	হেমন্ত	PROPN	_	Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	_
+2	বললো	বলা	VERB	_	Person=3|Polite=Infm|Tense=Past	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	কী	কী	INTJ	_	PronType=Int	12	discourse	_	_
+5	রে	রে	INTJ	_	_	12	discourse	_	_
+6	সুনীল	সুনীল	PROPN	_	Case=Nom|Definite=Def|Number=Sing	12	vocative	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	তুই	তুই	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=2|Polite=Intm|PronType=Prs	12	nsubj	_	_
+9	এত	এত	ADJ	_	_	10	amod	_	_
+10	গুম	গুম	NOUN	_	Case=Nom	11	compound	_	_
+11	মেরে	মারা	VERB	_	Aspect=Perf|VerbForm=Part	12	advcl	_	_
+12	রয়েছিস	থাকা	VERB	_	Aspect=Perf|Person=2|Polite=Intm|Tense=Pres	2	ccomp	_	_
+13	কেন	কেন	PART	_	_	12	advmod	_	_
+14	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-256
+# text = চল , অরুণ আর সুজয়াকে নামিয়ে দিই , আমরা অবিনাশকে খুঁজি ।
+# book = SwapnoLojjahin_SunilGangopadhyay
+# text_en = Let’s go, we’ll drop Arun and Sujoy off, and then we’ll look for Abinash.
+1	চল	চলা	VERB	_	Person=2|Polite=Infm|Tense=Pres	7	discourse	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	অরুণ	অরুণ	PROPN	_	Case=Nom|Definite=Def|Number=Sing	6	iobj	_	_
+4	আর	আর	CCONJ	_	_	5	cc	_	_
+5	সুজয়াকে	সুজয়া	PROPN	_	Case=Acc|Definite=Def|Number=Sing	3	conj	_	_
+6	নামিয়ে	নামানো	VERB	_	Aspect=Perf|VerbForm=Part	7	compound:lvc	_	_
+7	দিই	দেওয়া	VERB	_	Person=1|Tense=Pres	0	root	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	আমরা	আমরা	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	_
+10	অবিনাশকে	অবিনাশ	PROPN	_	Case=Acc|Definite=Def|Number=Sing	11	obj	_	_
+11	খুঁজি	খোঁজা	VERB	_	Person=1|Tense=Pres	7	conj	_	_
+12	।	।	PUNCT	_	_	7	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-257
+# text = বেশি বাজে নি , নাইট ইজ ইয়াং ...
+# book = SwapnoLojjahin_SunilGangopadhyay
+# text_en = It is not too late, night is young
+1	বেশি	বেশি	ADV	_	_	2	advmod	_	_
+2	বাজে	বাজা	VERB	_	Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+3	নি	না	PART	_	_	2	advmod	_	_
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	নাইট	নাইট	X	_	Foreign=Yes	2	parataxis	_	_
+6	ইজ	ইজ	X	_	Foreign=Yes	5	flat	_	_
+7	ইয়াং	ইয়াং	X	_	Foreign=Yes	5	flat	_	_
+8	...	...	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-258
+# text = স্বপ্ন নয় ।
+# book = SwapnoLojjahin_SunilGangopadhyay
+# text_en = Not a dream.
+1	স্বপ্ন	স্বপ্ন	NOUN	_	Case=Nom|Number=Sing	2	obj	_	_
+2	নয়	নয়	VERB	_	Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	।	।	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-259
+# text = এবার বাস্তবের কথা হোক ।
+# book = SwapnoLojjahin_SunilGangopadhyay
+# text_en = Now let's talk about reality.
+1	এবার	এবার	ADV	_	_	4	advmod	_	_
+2	বাস্তবের	বাস্তব	NOUN	_	Case=Gen|Number=Sing	3	nmod	_	_
+3	কথা	কথা	NOUN	_	Case=Nom|Number=Sing	4	nsubj:pass	_	_
+4	হোক	হোক	VERB	_	Mood=Imp|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	।	।	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-262
+# text = লিখে - টিখে কিছু সুনাম ও দুর্নাম হয়েছে , মাঝে - মাঝে কিছু টাকাও পাই ।
+# book = SwapnoLojjahin_SunilGangopadhyay
+# text_en = Through writing, I have earned some reputation and some notoriety, and occasionally, I also earn some money.
+1	লিখে	লিখে	VERB	_	Aspect=Perf|VerbForm=Part	8	advcl	_	_
+2	-	-	PUNCT	_	_	1	punct	_	_
+3	টিখে	টিখে	X	_	_	1	fixed	_	_
+4	কিছু	কিছু	DET	_	_	5	det	_	_
+5	সুনাম	সুনাম	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	_
+6	ও	ও	CCONJ	_	_	7	cc	_	_
+7	দুর্নাম	দুর্নাম	NOUN	_	Case=Nom|Number=Sing	5	conj	_	_
+8	হয়েছে	হয়ে	VERB	_	Aspect=Perf|Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	মাঝে	মাঝে	ADV	_	_	15	advmod	_	_
+11	-	-	PUNCT	_	_	10	punct	_	_
+12	মাঝে	মাঝে	ADV	_	_	10	fixed	_	_
+13	কিছু	কিছু	DET	_	_	14	det	_	_
+14	টাকাও	টাকা	NOUN	_	Case=Nom|Number=Sing	15	obj	_	_
+15	পাই	পাই	VERB	_	Person=1|Tense=Pres	8	conj	_	_
+16	।	।	PUNCT	_	_	8	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-265
+# text = যদিও ভিড়ের মধ্যে অতি সামান্য হয়ে মিশে থাকি ।
+# book = SwapnoLojjahin_SunilGangopadhyay
+# text_en = Although I blend in, becoming barely noticeable in the crowd.
+1	যদিও	যদি	SCONJ	_	_	8	mark	_	_
+2	ভিড়ের	ভিড়	NOUN	_	Case=Gen|Number=Plur	8	obl	_	_
+3	মধ্যে	মধ্যে	ADP	_	_	2	case	_	AdpType=Post
+4	অতি	অতি	ADJ	_	_	5	amod	_	_
+5	সামান্য	সামান্য	ADJ	_	_	6	xcomp	_	_
+6	হয়ে	হওয়া	VERB	_	Aspect=Perf|VerbForm=Part	8	advcl	_	_
+7	মিশে	মিশা	VERB	_	Aspect=Perf|VerbForm=Part	8	compound:lvc	_	_
+8	থাকি	থাকা	VERB	_	Person=1|Tense=Pres	0	root	_	_
+9	।	।	PUNCT	_	_	8	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-266
+# text = অফিসে একটা মস্ত বড় হলঘরে আমি বসি ।
+# book = SwapnoLojjahin_SunilGangopadhyay
+# text_en = I sit in a large hall in the office.
+1	অফিসে	অফিস	NOUN	_	Case=Loc|Number=Sing	7	obl	_	_
+2	একটা	এক	NUM	_	NumType=Card	5	nummod	_	_
+3	মস্ত	মস্ত	ADJ	_	_	4	amod	_	_
+4	বড়	বড়	ADJ	_	Case=Nom	5	amod	_	_
+5	হলঘরে	হলঘর	NOUN	_	Case=Loc|Number=Sing	7	obl	_	_
+6	আমি	আমি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+7	বসি	বসা	VERB	_	Person=1|Tense=Pres	0	root	_	_
+8	।	।	PUNCT	_	_	7	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-267
+# text = তখন বসতাম , যখন আমি সরকারি চাকরি করতাম ।
+# book = SwapnoLojjahin_SunilGangopadhyay
+# text_en = I used to sit there when I worked in a government job
+1	তখন	তখন	ADV	_	_	2	advmod	_	_
+2	বসতাম	বসা	VERB	_	Aspect=Hab|Person=1|Tense=Past	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	যখন	যখন	SCONJ	_	_	8	mark	_	_
+5	আমি	আমি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+6	সরকারি	সরকারি	ADJ	_	_	7	nmod	_	_
+7	চাকরি	চাকরি	NOUN	_	Case=Nom|Number=Sing	8	obj	_	_
+8	করতাম	করা	VERB	_	Aspect=Hab|Person=1|Tense=Past	2	conj	_	_
+9	।	।	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-268
+# text = যখন আমি মায়াপাশে বাঁধা ছিলাম মনীষার কাছে ।
+# book = SwapnoLojjahin_SunilGangopadhyay
+# text_en = When I was bound by the illusion, near Monisha.
+1	যখন	যখন	ADV	_	_	5	advmod	_	_
+2	আমি	আমি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+3	মায়াপাশে	মায়াপাশ	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	_
+4	বাঁধা	বাঁধা	NOUN	_	Number=Sing|VerbForm=Inf|Voice=Act	5	compound:lvc	_	Gender=Masc
+5	ছিলাম	থাকা	VERB	_	Person=1|Tense=Past	0	root	_	_
+6	মনীষার	মনীষা	PROPN	_	Case=Gen|Number=Sing	5	obl	_	_
+7	কাছে	কাছে	ADP	_	_	6	case	_	AdpType=Post
+8	।	।	PUNCT	_	_	5	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-269
+# text = হলঘরটার সামনে একটা অর্ধেক দরজা ।
+# book = SwapnoLojjahin_SunilGangopadhyay
+# text_en = There is a half door in front of the hall.
+1	হলঘরটার	হলঘর	NOUN	_	Case=Gen|Definite=Def|Number=Sing	5	obl	_	_
+2	সামনে	সামনে	ADP	_	_	1	case	_	AdpType=Post
+3	একটা	এক	NUM	_	NumType=Card	5	nummod	_	_
+4	অর্ধেক	অর্ধেক	ADJ	_	_	5	amod	_	_
+5	দরজা	দরজা	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+6	।	।	PUNCT	_	_	5	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-270
+# text = তার ওপাশে মানুষের কোমর পর্যন্ত দেখা যায় ।
+# book = SwapnoLojjahin_SunilGangopadhyay
+# text_en = On the other side, one can see up to a person's waist.
+1	তার	তার	PRON	_	Animacy=Anim|Case=Gen|Number=Sing|Person=3|PronType=Prs	7	obl	_	_
+2	ওপাশে	ওপাশ	ADP	_	_	1	case	_	_
+3	মানুষের	মানুষ	NOUN	_	Case=Gen|Number=Sing	4	nmod:poss	_	_
+4	কোমর	কোমর	NOUN	_	Case=Nom|Number=Sing	7	obl	_	_
+5	পর্যন্ত	পর্যন্ত	ADP	_	_	4	case	_	AdpType=Post
+6	দেখা	দেখা	VERB	_	Aspect=Imp|Number=Sing|VerbForm=Part|Voice=Act	7	compound:lvc	_	Gender=Masc
+7	যায়	যাওয়া	VERB	_	Person=1|Polite=Infm|Tense=Pres	0	root	_	_
+8	।	।	PUNCT	_	_	7	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-272
+# text = তাদের মুখ দেখার জন্য কৌতূহল থাকে ।
+# book = SwapnoLojjahin_SunilGangopadhyay
+# text_en = There is curiosity to see their faces.
+1	তাদের	তাদের	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	_
+2	মুখ	মুখ	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	_
+3	দেখার	দেখা	NOUN	_	Case=Nom|VerbForm=Vnoun	6	obl	_	_
+4	জন্য	জন্য	ADP	_	_	3	case	_	AdpType=Post
+5	কৌতূহল	কৌতূহল	NOUN	_	Case=Nom|Number=Sing	6	obj	_	_
+6	থাকে	থাকা	VERB	_	Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+7	।	।	PUNCT	_	_	6	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-273
+# text = মানুষের শরীরের আর যে অংশই দেখা যাক না কেন , মুখটা না দেখলে কিছুতেই তৃষ্ণা মেটে না ।
+# book = SwapnoLojjahin_SunilGangopadhyay
+# text_en = No matter which part of a person’s body you see, if you don’t see the face, the thirst is never quenched.
+1	মানুষের	মানুষ	NOUN	_	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	শরীরের	শরীর	NOUN	_	Case=Gen|Number=Sing	5	nmod:poss	_	_
+3	আর	আর	ADV	_	_	5	advmod	_	_
+4	যে	যে	DET	_	_	5	det	_	_
+5	অংশই	অংশ	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	_
+6	দেখা	দেখা	NOUN	_	Case=Nom|VerbForm=Vnoun	7	compound:lvc	_	_
+7	যাক	যাক	VERB	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	16	advcl	_	_
+8	না	না	PART	_	_	7	advmod	_	_
+9	কেন	কেন	PART	_	_	7	advmod	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	মুখটা	মুখটা	NOUN	_	Case=Nom|Definite=Def|Number=Sing	13	obj	_	_
+12	না	না	PART	_	_	13	advmod	_	_
+13	দেখলে	দেখ	VERB	_	Person=2|Polite=Infm|Tense=Past	16	advcl	_	_
+14	কিছুতেই	কিছু	NOUN	_	_	16	obl	_	_
+15	তৃষ্ণা	তৃষ্ণা	NOUN	_	Case=Nom|Number=Sing	16	nsubj	_	_
+16	মেটে	মেটা	VERB	_	Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+17	না	না	PART	_	_	16	advmod	_	_
+18	।	।	PUNCT	_	_	16	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-274
+# text = সব মুখ দেখতে পেতাম না , কারণ দরজার ওপাশে মুখোমুখি দুই অফিসারের ঘর ।
+# book = SwapnoLojjahin_SunilGangopadhyay
+# text_en = I couldn’t see all the faces because, on the other side of the door, there were two officers' rooms facing each other.
+1	সব	সব	DET	_	_	2	det	_	_
+2	মুখ	মুখ	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
+3	দেখতে	দেখ	VERB	_	VerbForm=Inf	4	advcl	_	_
+4	পেতাম	পেত	VERB	_	Aspect=Hab|Person=1|Tense=Past	0	root	_	_
+5	না	না	PART	_	_	4	advmod	_	_
+6	,	,	PUNCT	_	_	4	punct	_	_
+7	কারণ	কারণ	SCONJ	_	_	13	cc	_	_
+8	দরজার	দরজার	NOUN	_	Case=Nom|Number=Sing	13	obl	_	_
+9	ওপাশে	ওপাশে	ADP	_	_	8	case	_	_
+10	মুখোমুখি	মুখোমুখি	ADJ	_	_	13	amod	_	_
+11	দুই	দুই	NUM	_	NumType=Card	12	nummod	_	_
+12	অফিসারের	অফিসার	NOUN	_	Case=Nom|Number=Sing	13	nmod	_	_
+13	ঘর	ঘর	NOUN	_	Case=Nom|Number=Sing	4	conj	_	_
+14	।	।	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-275
+# text = অনেক চলন্ত পা শেষ পর্যন্ত আমাদের হলঘরটায় না ঢুকে অফিসারদের ঘরে ঢুকে যায় ।
+# book = SwapnoLojjahin_SunilGangopadhyay
+# text_en = Many moving feet, in the end, don’t enter our hall but instead walk into the officers' rooms.
+1	অনেক	অনেক	ADJ	_	_	2	amod	_	_
+2	চলন্ত	চলন্ত	ADJ	_	_	3	amod	_	_
+3	পা	পা	NOUN	_	Case=Nom|Number=Sing	13	nsubj	_	_
+4	শেষ	শেষ	NOUN	_	Case=Nom	9	obl	_	_
+5	পর্যন্ত	পর্যন্ত	ADP	_	_	4	case	_	AdpType=Post
+6	আমাদের	আমাদের	PRON	_	Animacy=Anim|Case=Gen|Number=Plur|Person=1|PronType=Prs	7	nmod:poss	_	_
+7	হলঘরটায়	হলঘর	NOUN	_	Case=Loc|Definite=Def|Number=Sing|Person=3	9	obl:lmod	_	Gender=Masc
+8	না	না	PART	_	_	9	advmod	_	_
+9	ঢুকে	ঢোকা	VERB	_	Aspect=Perf|VerbForm=Part	13	advcl	_	_
+10	অফিসারদের	অফিসার	NOUN	_	Case=Gen|Definite=Def|Number=Plur	11	nmod:poss	_	_
+11	ঘরে	ঘর	NOUN	_	Case=Acc|Number=Sing	12	obl:lmod	_	_
+12	ঢুকে	ঢোকা	VERB	_	Aspect=Perf|VerbForm=Part	13	compound:svc	_	_
+13	যায়	যাওয়া	VERB	_	Aspect=Imp|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+14	।	।	PUNCT	_	_	13	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-276
+# text = সুতরাং দরজার দিকে তাকিয়ে তাকিয়ে আমি ওইসব জোড়া - জোড়া পা দেখতুম ।
+# book = SwapnoLojjahin_SunilGangopadhyay
+# text_en = And so, staring toward the door, I used to watch those pairs of feet.
+1	সুতরাং	সুতরাং	ADV	_	_	4	advmod	_	_
+2	দরজার	দরজা	NOUN	_	Case=Gen|Number=Sing	4	obl	_	_
+3	দিকে	দিকে	ADP	_	_	2	case	_	AdpType=Post
+4	তাকিয়ে	তাকানো	VERB	_	Aspect=Prog|VerbForm=Part	12	advcl	_	_
+5	তাকিয়ে	তাকানো	VERB	_	Aspect=Prog|VerbForm=Part	4	fixed	_	_
+6	আমি	আমি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
+7	ওইসব	ওইসব	DET	_	_	8	det	_	_
+8	জোড়া	জোড়া	VERB	_	Case=Nom|Number=Plur	11	amod	_	_
+9	-	-	PUNCT	_	_	8	punct	_	_
+10	জোড়া	জোড়া	NOUN	_	Case=Nom|Number=Plur	8	compound	_	_
+11	পা	পা	NOUN	_	Case=Nom|Number=Sing	12	obj	_	_
+12	দেখতুম	দেখা	VERB	_	Aspect=Hab|Person=1|Tense=Past	0	root	_	_
+13	।	।	PUNCT	_	_	12	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-277
+# text = মানুষের পায়ের গড়ন ও হাঁটার ভঙ্গি সম্পর্কে আমি প্রায় বিশেষজ্ঞ হয়ে গিয়েছিলাম ।
+# book = SwapnoLojjahin_SunilGangopadhyay
+# text_en = On the shape of people's feet and the way they walked I had almost become an expert
+1	মানুষের	মানুষ	NOUN	_	Case=Gen|Number=Sing|Poss=Yes	2	nmod:poss	_	_
+2	পায়ের	পা	NOUN	_	Case=Nom|Number=Sing|Poss=Yes	3	nmod:poss	_	_
+3	গড়ন	গড়ন	NOUN	_	Case=Acc|Number=Sing	12	obl	_	_
+4	ও	ও	CCONJ	_	_	6	cc	_	_
+5	হাঁটার	হাঁটা	NOUN	_	Case=Gen|Number=Sing|Poss=Yes	6	nmod:poss	_	_
+6	ভঙ্গি	ভঙ্গি	NOUN	_	Case=Acc|Number=Sing	3	conj	_	_
+7	সম্পর্কে	সম্পর্কে	ADP	_	_	3	case	_	AdpType=Post
+8	আমি	আমি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
+9	প্রায়	প্রায়	ADJ	_	_	10	amod	_	_
+10	বিশেষজ্ঞ	বিশেষজ্ঞ	NOUN	_	Case=Nom	12	obj	_	_
+11	হয়ে	হওয়া	VERB	_	Aspect=Perf|VerbForm=Part	12	compound:lvc	_	_
+12	গিয়েছিলাম	যাওয়া	VERB	_	Aspect=Perf|Person=1|Tense=Past	0	root	_	_
+13	।	।	PUNCT	_	_	12	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-278
+# text = সরকারি অফিসে বিশেষ কেউ কাজ করে না ।
+# book = SwapnoLojjahin_SunilGangopadhyay
+# text_en = In government offices, hardly anyone actually works
+1	সরকারি	সরকারি	NOUN	_	Case=Nom	2	nmod	_	_
+2	অফিসে	অফিস	NOUN	_	Case=Loc|Number=Sing	6	obl	_	_
+3	বিশেষ	বিশেষ	ADJ	_	_	4	amod	_	_
+4	কেউ	কেউ	PRON	_	PronType=Ind	6	nsubj	_	_
+5	কাজ	কাজ	NOUN	_	Case=Nom|VerbForm=Vnoun	6	compound:lvc	_	_
+6	করে	করা	VERB	_	Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+7	না	না	PART	_	_	6	advmod	_	_
+8	।	।	PUNCT	_	_	6	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-280
+# text = আমি কাজও করি না , গল্পও করি না ।
+# book = SwapnoLojjahin_SunilGangopadhyay
+# text_en = I neither work nor chat.
+1	আমি	আমি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	কাজও	কাজ	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
+3	করি	করা	VERB	_	Person=1|Tense=Pres	0	root	_	_
+4	না	না	PART	_	_	3	advmod	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	গল্পও	গল্পও	NOUN	_	Case=Nom|Number=Sing	7	obj	_	_
+7	করি	করা	VERB	_	Person=1|Tense=Pres	3	conj	_	_
+8	না	না	PART	_	_	7	advmod	_	_
+9	।	।	PUNCT	_	_	3	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-281
+# text = নাম সই করার সময় কলমটা খুলি , তারপর সারাক্ষণ কলমটা ব্লটিং প্যাডের ওপর পড়ে থাকে ।
+# book = SwapnoLojjahin_SunilGangopadhyay
+# text_en = I uncap the pen when it's time to sign my name, and then it just lies on the blotting pad the whole time.
+1	নাম	নাম	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
+2	সই	সই	NOUN	_	Case=Nom|Number=Sing	3	compound:lvc	_	_
+3	করার	করা	NOUN	_	Case=Gen|VerbForm=Vnoun	4	nmod	_	_
+4	সময়	সময়	NOUN	_	Case=Nom|Number=Sing	6	obl	_	_
+5	কলমটা	কলম	NOUN	_	Case=Nom|Definite=Def|Number=Sing	6	obj	_	_
+6	খুলি	খোলা	VERB	_	Person=1|Tense=Pres	0	root	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	তারপর	তারপর	ADV	_	_	15	advmod	_	_
+9	সারাক্ষণ	সারাক্ষণ	ADV	_	_	15	advmod	_	_
+10	কলমটা	কলম	NOUN	_	Case=Nom|Definite=Def|Number=Sing	15	nsubj	_	_
+11	ব্লটিং	ব্লটিং	NOUN	_	Case=Nom|Number=Sing	12	nmod	_	_
+12	প্যাডের	প্যাড	NOUN	_	Case=Gen|Number=Sing	15	obl	_	_
+13	ওপর	ওপর	ADP	_	_	12	case	_	AdpType=Post
+14	পড়ে	পড়ে	VERB	_	Aspect=Perf|VerbForm=Part	15	compound:lvc	_	_
+15	থাকে	থাকে	VERB	_	Aspect=Perf|VerbForm=Part	6	parataxis	_	_
+16	।	।	PUNCT	_	_	6	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-283
+# text = আমি সেসব ফাইল ছুঁই না , কখনো - কখনো কলম দিয়ে ব্লটিং প্যাডের ওপর আঁকিবুঁকি কাটি ।
+# book = SwapnoLojjahin_SunilGangopadhyay
+# text_en = I don’t touch those files; sometimes, I just doodle on the blotting pad with my pen.
+1	আমি	আমি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	সেসব	সেসব	DET	_	_	3	det	_	_
+3	ফাইল	ফাইল	NOUN	_	Case=Nom|Number=Sing	4	obj	_	_
+4	ছুঁই	ছোঁয়া	VERB	_	Person=1|Tense=Pres	0	root	_	_
+5	না	না	PART	_	_	4	advmod	_	_
+6	,	,	PUNCT	_	_	4	punct	_	_
+7	কখনো	কখনো	ADV	_	_	16	advmod	_	_
+8	-	-	PUNCT	_	_	7	punct	_	_
+9	কখনো	কখনো	ADV	_	_	7	fixed	_	_
+10	কলম	কলম	NOUN	_	Number=Sing|Polite=Form|Voice=Act	16	obl	_	_
+11	দিয়ে	দিয়ে	ADP	_	_	10	case	_	_
+12	ব্লটিং	ব্লটিং	NOUN	_	Case=Nom|Number=Sing	13	nmod	_	_
+13	প্যাডের	প্যাড	NOUN	_	Case=Gen|Number=Sing	16	obl	_	_
+14	ওপর	ওপর	ADP	_	_	13	case	_	AdpType=Post
+15	আঁকিবুঁকি	আঁকিবুঁকি	NOUN	_	Case=Nom|Number=Plur	16	obj	_	_
+16	কাটি	কাটা	VERB	_	Person=1|Tense=Pres	4	conj	_	_
+17	।	।	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-284
+# text = প্রাগৈতিহাসিক আমলের কত জন্তুর রূপ ফুটে ওঠে কলমের রেখায় ।
+# book = SwapnoLojjahin_SunilGangopadhyay
+# text_en = The forms of many prehistoric animals emerge from the lines of the pen.
+1	প্রাগৈতিহাসিক	প্রাগৈতিহাসিক	ADJ	_	_	2	amod	_	_
+2	আমলের	আমল	NOUN	_	Case=Gen|Number=Sing	5	nmod:poss	_	_
+3	কত	কত	DET	_	_	4	det	_	_
+4	জন্তুর	জন্তু	NOUN	_	Case=Gen|Number=Sing	5	nmod:poss	_	_
+5	রূপ	রূপ	NOUN	_	Case=Nom|Number=Sing	7	obj	_	_
+6	ফুটে	ফোটা	VERB	_	Aspect=Perf|VerbForm=Part	7	compound:lvc	_	_
+7	ওঠে	ওঠা	VERB	_	Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+8	কলমের	কলম	NOUN	_	Case=Gen|Number=Sing|Poss=Yes	9	nmod:poss	_	_
+9	রেখায়	রেখা	NOUN	_	Case=Nom|Number=Sing	7	obl	_	_
+10	।	।	PUNCT	_	_	9	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-286
+# text = ফাইলগুলো টেবিলের ওপর জমে , ধুলো মাখা নোংরা ফাইল , অস্পর্শের মতন সেগুলো আমি দূরে সরিয়ে রাখি ।
+# book = SwapnoLojjahin_SunilGangopadhyay
+1	ফাইলগুলো	ফাইল	NOUN	_	Case=Nom|Definite=Def|Number=Plur	4	nsubj	_	_
+2	টেবিলের	টেবিল	NOUN	_	Case=Gen|Number=Sing	4	obl	_	_
+3	ওপর	ওপর	ADP	_	_	2	case	_	AdpType=Post
+4	জমে	জমা	VERB	_	Person=3|Polite=Infm|Tense=Pres	17	parataxis	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	ধুলো	ধুলো	NOUN	_	Case=Nom|Number=Plur	7	compound	_	_
+7	মাখা	মাখা	ADJ	_	_	9	amod	_	_
+8	নোংরা	নোংরা	ADJ	_	_	9	amod	_	_
+9	ফাইল	ফাইল	NOUN	_	Case=Nom|Number=Plur	17	obj	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	অস্পর্শের	অস্পর্শ	NOUN	_	Case=Nom|Number=Sing	17	obl	_	_
+12	মতন	মতন	ADP	_	_	11	case	_	_
+13	সেগুলো	সে	PRON	_	Animacy=Inan|Case=Nom|Number=Plur|Person=3|PronType=Prs	17	iobj	_	_
+14	আমি	আমি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=2|PronType=Prs	17	nsubj	_	_
+15	দূরে	দূরে	ADV	_	_	17	obl	_	_
+16	সরিয়ে	সরানো	VERB	_	Aspect=Perf|VerbForm=Part	17	compound:svc	_	_
+17	রাখি	রাখা	VERB	_	Person=1|Tense=Pres	0	root	_	_
+18	।	।	PUNCT	_	_	17	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-287
+# text = সপ্তাহে তিন দিন টিফিনে যাবার আগে ফাইলগুলোর ফিতে খুলে মনোযোগ দেই ঘণ্টা দেড়েক ।
+# book = SwapnoLojjahin_SunilGangopadhyay
+# text_en = Three days a week, before going for tiffin, I open the ties of the files and focus on them for about an hour and a half.
+1	সপ্তাহে	সপ্তাহ	NOUN	_	Case=Nom|Number=Sing	11	obl:tmod	_	_
+2	তিন	তিন	NUM	_	NumType=Card	3	nummod	_	_
+3	দিন	দিন	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	_
+4	টিফিনে	টিফিন	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	_
+5	যাবার	যাওয়া	NOUN	_	Case=Gen|VerbForm=Vnoun	11	obl	_	_
+6	আগে	আগে	ADP	_	_	5	case	_	_
+7	ফাইলগুলোর	ফাইল	NOUN	_	Case=Gen|Definite=Def|Number=Plur	8	nmod:poss	_	_
+8	ফিতে	ফিতা	NOUN	_	Case=Nom|Number=Sing	9	obj	_	_
+9	খুলে	খোলা	VERB	_	Aspect=Perf|VerbForm=Part	11	advcl	_	_
+10	মনোযোগ	মনোযোগ	NOUN	_	Case=Nom|VerbForm=Vnoun	11	compound:lvc	_	_
+11	দেই	দেওয়া	VERB	_	Person=1|Tense=Pres	0	root	_	_
+12	ঘণ্টা	ঘণ্টা	NOUN	_	Case=Nom|Number=Sing	11	obl:tmod	_	_
+13	দেড়েক	দেড়েক	NUM	_	_	12	nummod	_	_
+14	।	।	PUNCT	_	_	11	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-288
+# text = তাতেই সব ফাইল আবার চলে যায় অন্য টেবিলে ।
+# book = SwapnoLojjahin_SunilGangopadhyay
+# text_en = And just like that, all the files end up on another table again.
+1	তাতেই	তাতে	ADV	_	_	6	advmod	_	_
+2	সব	সব	DET	_	_	3	det	_	_
+3	ফাইল	ফাইল	NOUN	_	Case=Nom|Number=Plur	6	nsubj	_	_
+4	আবার	আবার	ADV	_	_	6	advmod	_	_
+5	চলে	চলা	VERB	_	Aspect=Perf|VerbForm=Part	6	compound:lvc	_	_
+6	যায়	যাওয়া	VERB	_	Person=3|Polite=Infm|Tense=Pres	0	root	_	_
+7	অন্য	অন্য	DET	_	_	8	det	_	_
+8	টেবিলে	টেবিল	NOUN	_	Case=Nom|Number=Sing	6	obl	_	_
+9	।	।	PUNCT	_	_	6	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-289
+# text = এর বেশি আর কাজ নেই ।
+# book = SwapnoLojjahin_SunilGangopadhyay
+# text_en = There’s no more work left.
+1	এর	এ	PRON	_	Animacy=Inan|Case=Gen|Number=Sing|Person=3|Poss=Yes	2	nmod	_	_
+2	বেশি	বেশি	ADJ	_	_	5	xcomp	_	_
+3	আর	আর	ADV	_	_	5	advmod	_	_
+4	কাজ	কাজ	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+5	নেই	থাকা	VERB	_	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	।	।	PUNCT	_	_	5	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-290
+# text = তারপর হাত ধুয়ে ফেলি ।
+# book = SwapnoLojjahin_SunilGangopadhyay
+# text_en = Then I wash my hands.
+1	তারপর	তারপর	ADV	_	_	4	advmod	_	_
+2	হাত	হাত	NOUN	_	Case=Nom|Number=Sing	4	obj	_	_
+3	ধুয়ে	ধোয়া	VERB	_	Aspect=Perf|VerbForm=Part	4	compound:lvc	_	_
+4	ফেলি	ফেলা	VERB	_	Person=1|Tense=Pres	0	root	_	_
+5	।	।	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-291
+# text = প্রথম - প্রথম আমি প্রত্যেকদিনই মিনিট চল্লিশেক ফাইলগুলো নাড়াচাড়া করতাম ।
+# book = SwapnoLojjahin_SunilGangopadhyay
+# text_en = At first, I spent forty minutes every day moving files around.
+1	প্রথম	প্রথম	ADV	_	_	10	advmod	_	_
+2	-	-	PUNCT	_	_	1	punct	_	_
+3	প্রথম	প্রথম	ADV	_	_	1	fixed	_	_
+4	আমি	আমি	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+5	প্রত্যেকদিনই	প্রত্যেকদিন	ADV	_	_	10	advmod	_	_
+6	মিনিট	মিনিট	NOUN	_	Case=Nom|Number=Sing	10	obl	_	_
+7	চল্লিশেক	চল্লিশ	NUM	_	_	6	nummod	_	_
+8	ফাইলগুলো	ফাইল	NOUN	_	Case=Nom|Definite=Def|Number=Plur	10	obj	_	_
+9	নাড়াচাড়া	নাড়াচাড়া	NOUN	_	Case=Nom|VerbForm=Vnoun	10	compound:lvc	_	_
+10	করতাম	করা	VERB	_	Aspect=Hab|Person=1|Tense=Past	0	root	_	_
+11	।	।	PUNCT	_	_	10	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-292
+# text = তখন সবাই আমাকে ঠাট্টা করে ভালো ছেলে বলতো ।
+# book = SwapnoLojjahin_SunilGangopadhyay
+# text_en = Back then, everyone would make fun of me and call me a good boy.
+1	তখন	তখন	ADV	_	_	8	advmod	_	_
+2	সবাই	সবাই	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
+3	আমাকে	আমি	PRON	_	Animacy=Anim|Case=Acc|Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
+4	ঠাট্টা	ঠাট্টা	NOUN	_	Case=Nom	5	compound:lvc	_	_
+5	করে	করা	VERB	_	Aspect=Perf|VerbForm=Part	8	advcl	_	_
+6	ভালো	ভালো	ADJ	_	_	7	amod	_	_
+7	ছেলে	ছেলে	NOUN	_	Case=Nom|Number=Sing	8	obj	_	_
+8	বলতো	বলা	VERB	_	Aspect=Hab|Person=3|Polite=Infm|Tense=Past	0	root	_	_
+9	।	।	PUNCT	_	_	8	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-293
+# text = অফিসে আসার পরই সারাক্ষণ মুখ বুজে কাজ করা সত্যিই যেন একটা লজ্জার ব্যাপার ।
+# book = SwapnoLojjahin_SunilGangopadhyay
+# text_en = It's really a shame to work with your mouth closed the whole time after coming to the office.
+1	অফিসে	অফিস	NOUN	_	Case=Loc|Number=Sing	2	obl	_	_
+2	আসার	আসা	VERB	_	VerbForm=Vnoun	8	obl	_	_
+3	পরই	পর	ADP	_	_	2	case	_	AdpType=Post
+4	সারাক্ষণ	সারাক্ষণ	ADV	_	_	8	advmod	_	_
+5	মুখ	মুখ	NOUN	_	Case=Nom|Number=Sing	6	obj	_	_
+6	বুজে	বুজা	VERB	_	Aspect=Perf|VerbForm=Part	8	acl	_	_
+7	কাজ	কাজ	NOUN	_	Case=Nom|Number=Sing	8	nmod	_	_
+8	করা	করা	NOUN	_	Case=Nom|Definite=Def|Number=Plur|VerbForm=Vnoun	13	csubj	_	_
+9	সত্যিই	সত্যি	ADV	_	_	13	advmod	_	_
+10	যেন	যেন	ADV	_	_	13	advmod	_	_
+11	একটা	এক	DET	_	_	12	det	_	_
+12	লজ্জার	লজ্জা	NOUN	_	Case=Gen|Number=Sing	13	nmod	_	_
+13	ব্যাপার	ব্যাপার	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+14	।	।	PUNCT	_	_	13	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-299
+# text = সে - কথা যাক ।
+# book = SwapnoLojjahin_SunilGangopadhyay
+# text_en = Let’s leave that topic
+1	সে	সে	DET	_	_	3	det	_	_
+2	-	-	PUNCT	_	_	1	punct	_	_
+3	কথা	কথা	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+4	যাক	যাক	VERB	_	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	।	।	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-314
+# text = তখন অরবিন্দ রায়ই উদারভাবে বলেছিলেন , অল রাইট , অল রাইট , দ্যাট উইল ডু !
+# book = ValobashaNaoHariyeJeoNa_SunilGangopadhyay
+1	তখন	তখন	ADV	_	PronType=Dem	5	advmod	_	_
+2	অরবিন্দ	অরবিন্দ	PROPN	_	Case=Nom|Number=Sing|Person=3	5	nsubj	_	Gender=Masc
+3	রায়ই	রায়	PROPN	_	Case=Nom|Number=Sing|Person=3	2	flat	_	_
+4	উদারভাবে	উদার	ADJ	_	_	5	advmod	_	_
+5	বলেছিলেন	বলা	VERB	_	Aspect=Perf|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act	0	root	_	Gender=Masc
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	অল	অল	X	_	Foreign=Yes	5	ccomp	_	_
+8	রাইট	রাইট	X	_	Foreign=Yes	7	flat	_	_
+9	,	,	PUNCT	_	_	7	punct	_	_
+10	অল	অল	X	_	Foreign=Yes	7	parataxis	_	_
+11	রাইট	রাইট	X	_	Foreign=Yes	10	flat	_	_
+12	,	,	PUNCT	_	_	10	punct	_	_
+13	দ্যাট	দ্যাট	X	_	_	7	parataxis	_	_
+14	উইল	উইল	X	_	_	13	flat	_	_
+15	ডু	ডু	X	_	_	13	flat	_	_
+16	!	!	PUNCT	_	_	13	punct	_	_
+
+# sent_id = bn_sabdakosh-ud-test-326
+# text = ইন্টারভিউটা একটা ফার্স ।
+# book = ValobashaNaoHariyeJeoNa_SunilGangopadhyay
+1	ইন্টারভিউটা	ইন্টারভিউ	NOUN	_	Case=Nom|Number=Sing|Person=3	3	nsubj	_	Gender=Masc
+2	একটা	এক	DET	_	Case=Nom|Number=Sing	3	det	_	Gender=Fem
+3	ফার্স	ফার্স	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	Gender=Masc
+4	।	।	PUNCT	_	_	3	punct	_	_
+
