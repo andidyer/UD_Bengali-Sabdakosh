@@ -4,8 +4,11 @@ UD_Bengali-Sabdakosh is a corpus parsed sentences from contemporary Bengali pros
 
 # Introduction
 
-...
+The name _Sabdakosh_ is a Bengali word for a collection of literature: somewhere between an anthology and a bookshelf.
+The corpus is composed of spans of 50 sentences each from a collection of contemporary literature from both India and Bangladesh, parsed according to Universal Dependencies annotation.
+Annotation is performed on (arborator.grew.fr)[Arborator] and assembled here.
 
+As of the time of writing (1015-04-19) the treebank passes level 3 of Universal Dependencies validation. Final work on documentation and annotation checks are pending before the data can be included in the Universal Dependencies release.
 
 # Acknowledgments
 
@@ -13,7 +16,7 @@ Acknowledgement to be released on publication. For now, please refer to this rep
 
 ## References
 
-* (citation)
+* Bengali and Magahi PUD Treebank and Parser (Majumdar et al., WILDRE 2022)
 
 
 # Changelog
