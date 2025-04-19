@@ -8,7 +8,7 @@ The name _Sabdakosh_ is a Bengali word for a collection of literature: somewhere
 The corpus is composed of spans of 50 sentences each from a collection of contemporary literature from both India and Bangladesh, parsed according to Universal Dependencies annotation.
 Annotation is performed on (arborator.grew.fr)[Arborator] and assembled here.
 
-As of the time of writing (1015-04-19) the treebank passes level 3 of Universal Dependencies validation. Final work on documentation and annotation checks are pending before the data can be included in the Universal Dependencies release.
+As of the time of writing (2015-04-19) the treebank passes level 3 of Universal Dependencies validation. Final work on documentation and annotation checks are pending before the data can be included in the Universal Dependencies release.
 
 # Acknowledgments
 
