@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>252</sentences><tokens>2330</tokens><words>2339</words><fused>9</fused></total>
+    <train><sentences>252</sentences><tokens>2330</tokens><words>2339</words><fused>9</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></test>
+  </size>
+  <lemmas unique="746" /><!-- ।, ,, করা, ', না, বলা, যাওয়া, হওয়া, ?, আমি, -, আসা, দেওয়া, মেয়ে, ও -->
+  <forms unique="1048" /><!-- ।, ,, ', না, ?, করে, আমি, -, বললো, মিজান, দিকে, সে, এই, কিছু, বলল -->
+  <fusions unique="9" /><!-- করেনি, কোনওদিনই, দেয়নি, পারেননি, বেরিয়ে, বেরিয়েছে, বেরুবি, বেরুবো, হয়নি -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="16">
+    <tag name="ADJ">127</tag><!-- বড়, একটু, নিচু, প্রথম, অতি, অদ্ভুত, অনেক, একা, নিহত, বিরক্ত -->
+    <tag name="ADP">75</tag><!-- দিকে, জন্য, থেকে, ওপর, আগে, কাছে, পর, পর্যন্ত, করে, দিয়ে -->
+    <tag name="ADV">163</tag><!-- তখন, তো, এখন, আবার, আর, তারপর, কখনো, একটু, এবার, কেন -->
+    <tag name="AUX">27</tag><!-- পারা, যাওয়া, হওয়া, দেওয়া, করা, চলা, চাওয়া, থাকা, পড়া, পাওয়া -->
+    <tag name="CCONJ">21</tag><!-- কিন্তু, আর, এবং, ও, তবে -->
+    <tag name="DET">57</tag><!-- এই, কোনো, সব, যে, সে, এ, এক, কিছু, কোন, অন্য -->
+    <tag name="INTJ">11</tag><!-- হ্যাঁ, আপাতত, ওহো, কি, কী, ব্যস, রে, হ্যা -->
+    <tag name="NOUN">564</tag><!-- মেয়ে, কথা, রাত, চোখ, মানুষ, ফাইল, মুখ, আংকেল, কাজ, জল -->
+    <tag name="NUM">32</tag><!-- এক, একটা, একজন, পঞ্চাশ, আটজন, তিন, একটি, চল্লিশ, চার, দশ -->
+    <tag name="PART">60</tag><!-- না, কি, কেন, করা, কী, নাকি, ভেবে -->
+    <tag name="PRON">173</tag><!-- আমি, ও, কিছু, তার, সে, তুমি, নিজ, আপনি, কেউ, তিনি -->
+    <tag name="PROPN">116</tag><!-- মিজান, সাহেব, লিলি, নবীনকুমার, মাহমুদ, দুলাল, হাসিনা, মাধবিকা, সপ্তম, জনি -->
+    <tag name="PUNCT">446</tag><!-- ।, ,, ', ?, -, !, –, ..., _ -->
+    <tag name="SCONJ">15</tag><!-- যদি, যে, কারণ, তবে, তাহলে, তো, বলে, যখন -->
+    <tag name="VERB">437</tag><!-- করা, বলা, যাওয়া, হওয়া, আসা, দেওয়া, থাকা, তাকানো, বসা, নেওয়া -->
+    <tag name="X">15</tag><!-- অল, রাইট, আক্সিডেন্টাল, ইজ, ইন্সিডেন্টাল, ইয়াং, উইল, টিখে, ডু, থ্যাঙ্কস্‌ -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="43">
+    <feat name="Animacy" value="Anim" upos="PRON">118</feat><!-- আমি, সে, আপনি, তুমি, তার, তিনি, ওর, ওরা, তারা, নিজের -->
+    <feat name="Animacy" value="Inan" upos="PRON">9</feat><!-- এর, এটা, এটাও, এটাতে, তা, তাতে, সবকিছু, সেগুলো -->
+    <feat name="Aspect" value="Hab" upos="AUX,VERB">7</feat><!-- করতাম, দেখতুম, পারত, পেতাম, বলতো, বসতাম -->
+    <feat name="Aspect" value="Imp" upos="VERB">2</feat><!-- দেখা, যায় -->
+    <feat name="Aspect" value="Perf" upos="AUX,PART,VERB">163</feat><!-- করে, হয়ে, হয়েছে, গেছে, চলে, তাকিয়ে, নিয়ে, এনে, করেছিলাম, গিয়ে -->
+    <feat name="Aspect" value="Prog" upos="AUX,VERB">25</feat><!-- করতে, তাকিয়ে, হচ্ছে, আছে, আসছি, করছি, করছিল, করছিলো, করছে, করছেন -->
+    <feat name="Case" value="Acc" upos="ADV,NOUN,PRON,PROPN,VERB">47</feat><!-- আমাকে, আপনাকে, খুলতে, তাকে, দুলালকে, মাহমুদকে, অবিনাশকে, আকাশ, ওকে, কয়েকজনকে -->
+    <feat name="Case" value="Acc,Gen" upos="PRON">1</feat><!-- তার -->
+    <feat name="Case" value="Gen" upos="NOUN,PRON,PROPN,VERB">140</feat><!-- তার, সাহেবের, ওর, মানুষের, আপনার, আমার, কাগজের, তোমাদের, নিজের, পাকপাড়ার -->
+    <feat name="Case" value="Loc" upos="NOUN,PRON,PROPN">22</feat><!-- অফিসে, রাজবাড়িতে, এখানেও, কুয়োতলায়, গাড়িতে, জায়গায়, তাতে, পথে, পাকঘরে, পাড়ে -->
+    <feat name="Case" value="Nom" upos="ADJ,ADP,DET,NOUN,PRON,PROPN,VERB">606</feat><!-- আমি, মিজান, লিলি, মেয়েটা, সাহেব, সে, নবীনকুমার, আপনি, তুমি, তিনি -->
+    <feat name="Definite" value="Def" upos="NOUN,PRON,PROPN">126</feat><!-- লিলি, মেয়েটা, মাহমুদ, হাসিনা, দুলাল, সপ্তম, কথাটা, কলমটা, ঘটনাটা, প্যাকেটটা -->
+    <feat name="Foreign" value="Yes" upos="X">11</feat><!-- অল, রাইট, আক্সিডেন্টাল, ইজ, ইন্সিডেন্টাল, ইয়াং, থ্যাঙ্কস্‌, নাইট, সরি -->
+    <feat name="Mood" value="Imp" upos="VERB">1</feat><!-- হোক -->
+    <feat name="Mood" value="Ind" upos="VERB">7</feat><!-- নয়, ছিল, নেই, হল -->
+    <feat name="Mood" value="Sub" upos="VERB">2</feat><!-- যাক -->
+    <feat name="Number" value="Plur" upos="DET,NOUN,PRON,VERB">70</feat><!-- ওরা, তারা, তোমাদের, সবাই, আমরা, ছেলেরা, জোড়া, তোমরা, পুলিস, ফাইল -->
+    <feat name="Number" value="Sing" upos="ADJ,ADV,DET,NOUN,PRON,PROPN,VERB">626</feat><!-- আমি, মিজান, লিলি, মেয়েটা, সাহেব, সে, তার, নবীনকুমার, আপনি, তুমি -->
+    <feat name="NumType" value="Card" upos="DET,NUM">22</feat><!-- এক, পঞ্চাশ, একজন, একটা, তিন, আটজন, আটজনের, একটি, চারটি, দশ -->
+    <feat name="NumType" value="Ord" upos="ADJ">4</feat><!-- প্রথম, দ্বিতীয় -->
+    <feat name="Person" value="1" upos="AUX,NOUN,PRON,VERB">84</feat><!-- আমি, আমার, করি, করেছিলাম, নিজের, আমরা, আমাকে, করতাম, নিজে, বসি -->
+    <feat name="Person" value="2" upos="ADV,PRON,VERB">50</feat><!-- আপনি, তুমি, আপনার, তুই, তোমাদের, বলো, আপনাকে, জানো, তোমরা, যা -->
+    <feat name="Person" value="3" upos="AUX,NOUN,PRON,PROPN,VERB">300</feat><!-- বললো, বলল, করে, সে, তার, হয়েছে, গেছে, গেলো, তিনি, ওর -->
+    <feat name="Polarity" value="Neg" upos="VERB">5</feat><!-- নয়, নেই -->
+    <feat name="Polarity" value="Pos" upos="NOUN,VERB">2</feat><!-- ছিল, বের -->
+    <feat name="Polite" value="Form" upos="AUX,NOUN,PRON,VERB">41</feat><!-- বললেন, করলেন, আসবেন, করেন, দিয়েছেন, পারলেন, পারেন, ফেললেন, আনবেন, আপনি -->
+    <feat name="Polite" value="Infm" upos="AUX,PRON,VERB">195</feat><!-- বললো, বলল, করে, হয়েছে, গেছে, গেলো, করবে, থাকে, ফেলল, এল -->
+    <feat name="Polite" value="Intm" upos="PRON,VERB">5</feat><!-- যা, তুই, রয়েছিস, হবি -->
+    <feat name="Polite" value="NULL" upos="PRON">2</feat><!-- আমার, আমি -->
+    <feat name="Poss" value="Yes" upos="NOUN,PRON,PROPN">40</feat><!-- তার, দোকানের, নিজের, পাকপাড়ার, মানুষের, আপনার, এর, কলমের, কলেজের, কাগজের -->
+    <feat name="PronType" value="Dem" upos="ADV,PRON">2</feat><!-- তখন, তাতে -->
+    <feat name="PronType" value="Ind" upos="ADV,DET,NOUN,NUM,PRON">38</feat><!-- কিছু, কেউ, কী, কাউকে, তা, অনেক, অনেকে, একটা, এটা, এটাও -->
+    <feat name="PronType" value="Int" upos="INTJ,PART,PRON">11</feat><!-- কী, কি, কজন, কাকে, কে, কেন -->
+    <feat name="PronType" value="Prs" upos="ADV,PRON">125</feat><!-- আমি, সে, তার, আপনি, তুমি, তিনি, ওর, ওরা, তারা, নিজের -->
+    <feat name="PronType" value="Rel" upos="PRON">4</feat><!-- তা, তার, সেখানে, সেদিন -->
+    <feat name="Tense" value="Fut" upos="AUX,NOUN,VERB">37</feat><!-- করবে, হবে, আসবেন, খাবে, থাকবে, পড়বে, আনবেন, আসবে, করব, কিনবেন -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">125</feat><!-- বললো, বলল, গেলো, ফেলল, বললেন, এল, করলেন, করেছিলাম, বললে, হয়েছিল -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">135</feat><!-- করে, গেছে, হয়েছে, থাকে, নয়, যায়, করি, নেই, বলেছে, বলো -->
+    <feat name="VerbForm" value="Fin" upos="VERB">15</feat><!-- নয়, নেই, যাক, আছে, ছিল, মানায়, যায়, হয়, হোক -->
+    <feat name="VerbForm" value="Inf" upos="NOUN,VERB">32</feat><!-- করতে, দিতে, যেতে, খুলতে, দেখতে, মানতে, করতেই, করিতে, ঘুমোতে, জানতে -->
+    <feat name="VerbForm" value="Part" upos="AUX,NOUN,VERB">119</feat><!-- করে, হয়ে, চলে, তাকিয়ে, নিয়ে, এনে, গিয়ে, তুলে, ফিরে, বলে -->
+    <feat name="VerbForm" value="Vnoun" upos="AUX,NOUN,PART,VERB">77</feat><!-- দেখা, ফোন, মারা, অপেক্ষা, আসার, করা, করার, ছাপা, জিজ্ঞেস, নাড়াচাড়া -->
+    <feat name="Voice" value="Act" upos="NOUN,VERB">6</feat><!-- করতে, কলম, দেখা, বলেছিলেন, বাঁধা, বের -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="37">
+    <dep name="acl">7</dep>
+    <dep name="acl:relcl">1</dep>
+    <dep name="advcl">92</dep>
+    <dep name="advmod">206</dep>
+    <dep name="amod">80</dep>
+    <dep name="aux">19</dep>
+    <dep name="case">73</dep>
+    <dep name="cc">22</dep>
+    <dep name="ccomp">45</dep>
+    <dep name="clf">1</dep>
+    <dep name="compound">37</dep>
+    <dep name="compound:lvc">115</dep>
+    <dep name="compound:svc">14</dep>
+    <dep name="conj">40</dep>
+    <dep name="csubj">3</dep>
+    <dep name="det">56</dep>
+    <dep name="discourse">14</dep>
+    <dep name="dislocated">3</dep>
+    <dep name="fixed">11</dep>
+    <dep name="flat">10</dep>
+    <dep name="iobj">19</dep>
+    <dep name="mark">16</dep>
+    <dep name="nmod">49</dep>
+    <dep name="nmod:poss">78</dep>
+    <dep name="nsubj">239</dep>
+    <dep name="nsubj:outer">2</dep>
+    <dep name="nsubj:pass">2</dep>
+    <dep name="nummod">29</dep>
+    <dep name="obj">133</dep>
+    <dep name="obl">137</dep>
+    <dep name="obl:lmod">10</dep>
+    <dep name="obl:tmod">20</dep>
+    <dep name="parataxis">24</dep>
+    <dep name="punct">446</dep>
+    <dep name="root">252</dep>
+    <dep name="vocative">12</dep>
+    <dep name="xcomp">22</dep>
+  </deps>
+</treebank>
